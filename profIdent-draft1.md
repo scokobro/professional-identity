@@ -4,6 +4,7 @@ style: Article
 bibliography: /Users/spkb/Documents/bibliographies/mybib.bib
 abstract: The role of a professional identity for journalists around the world is part of what allows them to act as the watchdogs on power that society expects. How and where is this identity acquired? Is Japan different? If so does this explain the idiosyncratic nature of journalistic activity in Japan?
 title: Professional Identity and Journalism in Japan
++as: Asahi Shimbun
 ---
 
 # Introduction #
@@ -26,7 +27,7 @@ During a press conference at the end of his visit in ??? 2016 UN Special Rapport
 
 He summarise his experience of talking to various actors within the Japanese mass media system as ...
 
-> the problem is, the system of journalism and the structure of media itself in Japan doesn't seem to afford journalists the ability to push back against government encroachments, and you see this [...] in the example of the *kisha* club system, we learned about serious concern about senior member of the independent media meeting with senior members of the govt., we heard these stories repeatedly, and I would really encourage journalists to organise themselves, to adopt a professional organisation, a union in effect, in which journalists can express media-wide solidarity, can perhaps enjoy self-regualtion through a press council, in short, the media itself has a role to play, the media itself bears some repsonsibility for this situation
+> the problem is, the system of journalism and the structure of media itself in Japan doesn't seem to afford journalists the ability to push back against government encroachments, and you see this [...] in the example of the *kisha* club system, we learned about serious concern about senior member of the independent media meeting with senior members of the govt., we heard these stories repeatedly, and I would really encourage journalists to organise themselves, to adopt a professional organisation, a union in effect, in which journalists can express media-wide solidarity, can perhaps enjoy self-regualtion through a press council, in short, the media itself has a role to play, the media itself bears some responsibility for this situation
 
 <!--  and I hope thes two different tasks [change law, organise] could protect the independence fo the press. -->
 
@@ -58,7 +59,7 @@ What has been the effect of a strong bureaucratic tradition on the role of profe
 
 Japan has a history of journalism stretching back to its emergence from under the control of the Tokugawa Bakufu in the latter decades of the nineteenth century.
 
-Early journalism was politically sponsored and it was only with the adoption of the 'objective' mass circulation model that the press became something we can recognise today.
+Early journalism was often politically sponsored and overtly partial, it was only with the adoption of the 'objective' mass circulation model that the press began to require something like the 'professional' journalist rather than the partisan supporter and advocate of a cause.
 
 First professional journalists - ?
 
@@ -66,7 +67,7 @@ First professional journalists - ?
 
 [@Schafer:2012 p10] 1875: formation of *Shimbun Kisha Rengō* in reaction to increasingly restrictive laws which affected the press and protection against libel.[^law]
 
-[^law]:Shimbunshi jōrei, zanbōritsu
+[^law]:*shimbunshi jōrei*, *zanbōritsu*
 
 1880s - new university graduates began to move into journalism, numbers increased through the 1920s, economic recession meant a dearht of graduate employment opportunities at a time when hte popular press was expanding and looking to increase the quality if its content by employing better educated reporters.[@Schafer:2012 p36]
 
@@ -103,7 +104,7 @@ Thsi debate took place in reaction to a number of incidents (plagiarism[^plag], 
 
 [^plag]: About one-third of an article in the 8 Jun 2000 edition on the *Asahi Shimbun* was found to have been plagiarised from the local *Chugoku Shimbun* by a reporter in the Hiroshima office.[@Shibata:2003 p137]
 
-Ikuta describes teh actual content of OJT at the +as; new employs spend four or five years at a local office where theier development can be overseen trained by experienced reporters, traditionally the local office would be a mix of new, middle career and 'veteran' rporters. However Ikuta argues that this system broke down due to the HR policy of concentrating middle-career reporters in the head offices, which led to an over-reliance on early-career reporters in local bureaus. (ibid. p224/1180)
+Ikuta describes the actual content of OJT at the +as; new employs spend four or five years at a local office where theier development can be overseen trained by experienced reporters, traditionally the local office would be a mix of new, middle career and 'veteran' rporters. However Ikuta argues that this system broke down due to the HR policy of concentrating middle-career reporters in the head offices, which led to an over-reliance on early-career reporters in local bureaus. (ibid. p224/1180)
 
 # Living the ideology?
 
