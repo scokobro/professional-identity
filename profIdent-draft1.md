@@ -91,7 +91,7 @@ feature of the Anglo-Saxon model).[@Deuze:2006 p22]
 
 See parts of...
 
-[@Cooper-Chen:1997a; @Fujita:2004; @Hanada:2003; @Hashimoto:2003a; @Ikuta:2004; @IwabuchiY:2004; @Tsukamoto:1993]
+[@Cooper-Chen:1997a; @Fujita:2004; @Hanada:2003; @Hashimoto:2003a; @Ikuta:2004; @IwabuchiY:2004; @Tsukamoto:1993; @Tsukamoto:2006]
 
 Indeed, outside employment there is little opportunity for potential journalists in Japan to acquire knowledge, skills and experience of their chosen trade.
 
