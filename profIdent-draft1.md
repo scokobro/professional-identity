@@ -39,6 +39,8 @@ This has led to a situation where reporter identity is centred on entities - com
 
 Are Japanese journalists equipped to push back against the forces that pressure them? Can the 'professional identity' of the journalist be seen as a protective barrier, a layer of insulation, which allows journalists a psychological cushion and promotes the kind of activity and relationships expected of the ethical journalist. Does the lack of this cushion contribute to the state of journalism in Japan at the current time?
 
+This paper will not deal with the infuence if the press club system whch is well documented elsewhere, butit is worth summarising the effetcs of press club journlaism; the collectivresponsibility imolied by press club membership leaves the press open to pressur eboth from peers - to not rock the boat - and from sources in government who can deny access more or less at will. Given the possibilities offered by social media for politicians to simply bypass the main stream media through use of social mdia plaatforms, it is difficult to see how the traditional "balance of power" for control of access (press to politicians, politicians to the public) ca be maintained. 
+
 # Ideology of Journalism
 
 Discussion of the elements of the nature of the journalistic identity has been an integral part of academic understandings of news and newsgatherers since the very early days of the field (eg?). Deuze[-@Deuze:2005] sums up the essential features of what he refers to as the journalistic ideology:
