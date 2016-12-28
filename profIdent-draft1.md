@@ -39,7 +39,7 @@ This has led to a situation where reporter identity is centred on entities - com
 
 Are Japanese journalists equipped to push back against the forces that pressure them? Can the 'professional identity' of the journalist be seen as a protective barrier, a layer of insulation, which allows journalists a psychological cushion and promotes the kind of activity and relationships expected of the ethical journalist. Does the lack of this cushion contribute to the state of journalism in Japan at the current time?
 
-This paper will not deal with the infuence if the press club system whch is well documented elsewhere, butit is worth summarising the effetcs of press club journlaism; the collectivresponsibility imolied by press club membership leaves the press open to pressur eboth from peers - to not rock the boat - and from sources in government who can deny access more or less at will. Given the possibilities offered by social media for politicians to simply bypass the main stream media through use of social mdia plaatforms, it is difficult to see how the traditional "balance of power" for control of access (press to politicians, politicians to the public) ca be maintained. 
+This paper will not deal with the influence if the *kisha kurabu* 'press club' system, probably the most widely documented aspect of journalism in Japan, as it has been dealt with extensively  elsewhere[see, for example @Freeman:2000], but it is worth summarising the effects of press club journalism; the collective responsibility implied by press club membership leaves the press open to pressure both from peers - to not rock the boat and upset relations with sources - and from sources who can deny access more or less at will. Given the possibilities offered by social media for politicians to simply bypass the main stream media, it is difficult to see how the traditional "balance of power" for control of access (press to politicians, politicians to the public) can be maintained. Japanese politics has been rather late to the social media jamboree with the use of online campaigning prohibited until 200?, but this will change.[@Osaka:2014]
 
 # Ideology of Journalism
 
@@ -57,7 +57,7 @@ Where and when are these beliefs about journalism acquired?
 
 What has been the effect of a strong bureaucratic tradition on the role of professional ideas in journalism in Japan?
 
-# Journalism in Japan
+# Journalism in Japan #
 
 Japan has a history of journalism stretching back to its emergence from under the control of the Tokugawa Bakufu in the latter decades of the nineteenth century.
 
@@ -71,7 +71,7 @@ First professional journalists - ?
 
 [^law]:*shimbunshi jōrei*, *zanbōritsu*
 
-1880s - new university graduates began to move into journalism, numbers increased through the 1920s, economic recession meant a dearht of graduate employment opportunities at a time when hte popular press was expanding and looking to increase the quality if its content by employing better educated reporters.[@Schafer:2012 p36]
+1880s - new university graduates began to move into journalism, numbers increased through the 1920s, economic recession meant a dearth of graduate employment opportunities at a time when hte popular press was expanding and looking to increase the quality if its content by employing better educated reporters.[@Schafer:2012 p36]
 
 However along with this shift toward employing individuals who had passed thorugh the system of imperial universities - and reducing the number of 'enthusiasts' - who saw themselves as 'educators of society' - came an increase in the number of 'company employees'. In 1917, Motoyama Hikoichi[^moto] had characterised this shift with the folowing words,
 
@@ -85,7 +85,7 @@ Ono??? was the prime motivator in the establishment of this body, he saw the pro
 
 [@Huffman:1997; @Lange:1998]
 
-## Education of Journalists
+## Education of Journalists ##
 
 Deuze, in his typology of global journalism education approaches, categorises tha Japanese system as characterised by
 
@@ -100,15 +100,19 @@ Indeed, outside employment there is little opportunity for potential journalists
 
 As a route to employment an education in journalism can be all but irrelevant, as [@Cooper-Chen:1997a p22] suggests, company recruitment relies on testing general skills (general knowledge, literacy) so a degree from *any* department in a prestigious university may be worth more than specialist knowledge from a less prestigious institution. Theses attitudes and the expectations of media employers - virtually no value attached to any sort of university-based journalistic education [@Fujita:2004 p1] in Japan seems to go back to at least the 1930s[@Uchikawa:2003 p14].
 
-Fujita points to changes in the environment for perceived shortcomings of the OJT system that led to the debate about the role of journalist education in Japan in the later 1990s and early 00s - the increasing use of technology at all levels of newspaper production and the increased pressure on workers which left little time for senior reporters to train new staffers.[@Fujita:2004 p3]
+Fujita points to changes in the environment for perceived shortcomings of the 'on-the-job training' (OJT) system that led to the debate about the role of journalist education in Japan in the later 1990s and early 00s - the increasing use of technology at all levels of newspaper production and the increased pressure on workers which left little time for senior reporters to train new staffers.[@Fujita:2004 p3]
 
-Thsi debate took place in reaction to a number of incidents (plagiarism[^plag], invasions of privacy, 'overheated' herd reporting (*media sukuramu*), libel)[@Ikuta:2004 p1]. Ikuta also identifies the pressures of adapting to new technologies as a root cause in the drop in journalistic standards.
+This debate took place in reaction to a number of incidents (plagiarism[^plag], invasions of privacy, 'overheated' herd reporting (*media sukuramu*), libel)[@Ikuta:2004 p1]. Ikuta also identifies the pressures of adapting to new technologies as a root cause in the drop in journalistic standards.
 
 [^plag]: About one-third of an article in the 8 Jun 2000 edition on the *Asahi Shimbun* was found to have been plagiarised from the local *Chugoku Shimbun* by a reporter in the Hiroshima office.[@Shibata:2003 p137]
 
 Ikuta describes the actual content of OJT at the +as; new employs spend four or five years at a local office where theier development can be overseen trained by experienced reporters, traditionally the local office would be a mix of new, middle career and 'veteran' rporters. However Ikuta argues that this system broke down due to the HR policy of concentrating middle-career reporters in the head offices, which led to an over-reliance on early-career reporters in local bureaus. (ibid. p224/1180)
 
 # Living the ideology?
+
+This section surveys how the five aspects of the journalistic ideology outlined by Deuze(see above) are materialsied in Japan; it concentrates on 'ethics' and 'autonomy' as areas which can be seen to have a particularly significant impact on journalistic practise.
+
+I will deal with the less controversial aspects - public service, objectivity, and immediacy - before moving on.
 
 ## Public service
 
@@ -124,6 +128,12 @@ The prime concern of reporters in Japan (see Weaver info) is the accurate report
 
 When the broadcasting of television news started on NHK in the 1960s, the newspaper model was adopted as an organisational template and standard.
 
+## Immediacy
+
+No doubt about this. Companies like immediacy as a measure of journalistic performance; results are generally quantifiable and unambiguous - it's usually fairly obvious 'who was first'.
+
+Japanese newspapers still issue *gōgai* sheets, single pages handed out at major railway stations (and thus coincidentally also useful for television news cameras), covering major stories such as ...
+
 ## Autonomy
 
 What is it that allows the journalist this autonomy? Identity as a professional that extends beyond the fact that they work for a company which 'does news'. Basis for maintaining the 'chinese wall' between business and editorial, insulation from source pressure etc.
@@ -136,14 +146,6 @@ TO be autonomius invites suspicion - to be outside a publicly legitimised organi
 
 quote from - 新聞協会賞を2度受賞した*依光隆明*朝日新聞社編集委員
 [@JCEJ:2014]
-
-## Immediacy
-
-No doubt about this. Companies like immediacy as a measure of journalistic performance; results are generally quantifiable and unambiguous - it's usually fairly obvious 'who was first'.
-
-Japanese newspapers still issue *gōgai* sheets, single pages handed out at major railway stations (and thus coincidentally also useful for television news cameras), covering major stories such as ...
-
-
 
 ## Ethics
 
