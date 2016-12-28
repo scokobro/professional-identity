@@ -39,7 +39,7 @@ This has led to a situation where reporter identity is centred on entities - com
 
 Are Japanese journalists equipped to push back against the forces that pressure them? Can the 'professional identity' of the journalist be seen as a protective barrier, a layer of insulation, which allows journalists a psychological cushion and promotes the kind of activity and relationships expected of the ethical journalist. Does the lack of this cushion contribute to the state of journalism in Japan at the current time?
 
-This paper will not deal with the influence if the *kisha kurabu* 'press club' system, probably the most widely documented aspect of journalism in Japan, as it has been dealt with extensively  elsewhere[see, for example @Freeman:2000], but it is worth summarising the effects of press club journalism; the collective responsibility implied by press club membership leaves the press open to pressure both from peers - to not rock the boat and upset relations with sources - and from sources who can deny access more or less at will. Given the possibilities offered by social media for politicians to simply bypass the main stream media, it is difficult to see how the traditional "balance of power" for control of access (press to politicians, politicians to the public) can be maintained. Japanese politics has been rather late to the social media jamboree with the use of online campaigning prohibited until 200?, but this will change.[@Osaka:2014]
+This paper will not deal with the influence if the *kisha kurabu* 'press club' system, probably the most widely documented aspect of journalism in Japan, as it has been dealt with extensively  elsewhere [see for example @Freeman:2000; @Iwase:1998], but it is worth summarising the effects of press club journalism; the collective responsibility implied by press club membership leaves the press open to pressure both from peers - to not rock the boat and upset relations with sources - and from sources who can deny access more or less at will. Given the possibilities offered by social media for politicians to simply bypass the main stream media, it is difficult to see how the traditional "balance of power" for control of access (press to politicians, politicians to the public) can be maintained. Japanese politics has been rather late to the social media jamboree with the use of online campaigning in general elections prohibited until 2013, but this will change.[@Osaka:2014, p51]
 
 # Ideology of Journalism
 
@@ -51,11 +51,15 @@ Discussion of the elements of the nature of the journalistic identity has been a
 >   • Immediacy: journalists have a sense of immediacy, actuality and speed (inherent in the concept of ‘news’);\
 >   • Ethics: journalists have a sense of ethics, validity and legitimacy.\
 
-[@Deuze:2005, 447]
+[@Deuze:2005, p447]
 
 Where and when are these beliefs about journalism acquired?
 
+*ANSWER THIS FOR THE GENERAL CASE*
+
 What has been the effect of a strong bureaucratic tradition on the role of professional ideas in journalism in Japan?
+
+*THIS IS WHAT I LOOK AT HERE*
 
 # Journalism in Japan #
 
@@ -114,6 +118,8 @@ This section surveys how the five aspects of the journalistic ideology outlined 
 
 I will deal with the less controversial aspects - public service, objectivity, and immediacy - before moving on.
 
+See NSK Ethics Guide[^guide]
+
 ## Public service
 
 Journalists relations with the 'public' - public journalism? Surveys of J journos understandings of the audience?
@@ -155,15 +161,29 @@ Discussing the reaction of the New Delhi correspondents of the major Japanese me
 
 [^tsuba]: Explain this
 
-> 日本人ジャーナリストが全員、ジャーナリストとしての使命に生きるよりも、私企業の倫理に従った [@Yamashita:1996 p37]
+> 日本人ジャーナリストが全員、ジャーナリストとしての使命に生きるよりも、私企業の倫理に従った [@Yamashita:1996, p37]
 
+> 新聞記者[...]のたいがいの自己認識は、「企業内記者」である。[...] 競争は企業間競争であり、企業の枠や国境を超えたジャーナリストの意識は、弱い。[Kamata in Hanada p 50]
 
 # Discussion
 
-Inability of J press to act for common good: Yamashita India Emergencey anecdote [@Yamashita:1996 p35--6], also perhaps the profusion of microphones that one sees in front of speakers at a press conference in Japan[^mike] attest the unwillingness (lack of desire) of Japanese media companies to cooperate, even where the benefits are obvious, and the gains from non-cooperation negligible to nil.
+Inability of J press to act for common good: Yamashita India Emergencey anecdote [@Yamashita:1996, p35--6], also perhaps the profusion of microphones that one sees in front of speakers at a press conference in Japan[^mike] attest the unwillingness (lack of desire) of Japanese media companies to cooperate, even where the benefits are obvious, and the gains from non-cooperation negligible to nil.
 
 [^mike]: It is common paractise in many countries for the host of the press conference to provide feeds of the main microphone audio to all camera crews via a 'break-out box' positioned near to the designated camera position. Among other advantages to this sytem is that it helps reduce visual clutter in front of the speaker.
 
+Does the newspaper press prefer a long decline into oblivion to any effort to reform?  Backward-looking, attempt to revert to golden era, rather than dealing with a changed world and being pro-active in defing a new and relevant role.
+
 ## Non-company journalistic groups
 
+### JNPEA - Nihon Shimbun Kyōkai {-}
+
+Primarily an industry group. Focussed largely on promoting the business interests of newspaper publishers; encouraging readership, surveying the effectiveness of advertising, monitoring copyright, and lobbying for continuation of legal privileges. It also issues the 新聞倫理綱領;
+
 # References
+
+[^guide]: 新聞倫理綱領\
+2000（平成12）年6月21日制定\
+　21世紀を迎え、日本新聞協会の加盟社はあらためて新聞の使命を認識し、豊かで平和な未来のために力を尽くすことを誓い、新しい倫理綱領を定める。\
+　国民の「知る権利」は民主主義社会をささえる普遍の原理である。この権利は、言論・表現の自由のもと、高い倫理意識を備え、あらゆる権力から独立したメディアが存在して初めて保障される。新聞はそれにもっともふさわしい担い手であり続けたい。\
+　おびただしい量の情報が飛びかう社会では、なにが真実か、どれを選ぶべきか、的確で迅速な判断が強く求められている。新聞の責務は、正確で公正な記事と責任ある論評によってこうした要望にこたえ、公共的、文化的使命を果たすことである。\
+　編集、制作、広告、販売などすべての新聞人は、その責務をまっとうするため、また読者との信頼関係をゆるぎないものにするため、言論・表現の自由を守り抜くと同時に、自らを厳しく律し、品格を重んじなければならない。
