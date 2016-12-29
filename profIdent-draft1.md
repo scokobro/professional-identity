@@ -11,17 +11,19 @@ title: Professional Identity and Journalism in Japan
 
 Japan has fallen down the press freedom rankings over the past few years, in particular the drop in the ranking from 2010-11/12 - in the aftermath of the Fukushima Dai-ichi nuclear disaster - reported as being in part due to complaints from freelance journalists that
 
->  public debate was being stifled [and was] subjected to censorship, police intimidation and judicial harassment.[^rsf]
+> public debate was being stifled [and was] subjected to censorship, police intimidation and judicial harassment.[^rsf]
 
 [^rsf]: https://rsf.org/en/world-press-freedom-index-2013
 
-it's still up there in the 'free' zone but such a rapid fall must be cause for concern.
+it's still up there in the 'free' zone but at the lowest leve since the series began in 2002, such a rapid fall, from 11 in 2010 to 72 just six years later - should be cause for concern. WHY??
 
 : Reporters without Borders (https://rsf.org/en/ranking)
 
 | 2009 | 2010 | 2011/12 | 2013|2014 | 2015 | 2016 |
 |-----:|-----:|--------:|-----:|-----:|-----:|-----:|
 |   17 |   11 |      22 |   53|59 |   61 |   72 |
+
+![](./rsf-ranking-japan2.png)
 
 <!---
 | 2006 | 2009 | 2011    | 2015   | 2016   |
