@@ -9,19 +9,28 @@ title: Professional Identity and Journalism in Japan
 
 # Introduction #
 
-Japan has fallen down the press freedom rankings over the past few years, it's still up there in the 'free' zone but such a rapid fall must be cause for concern.
+Japan has fallen down the press freedom rankings over the past few years, in particular the drop in the ranking from 2010-11/12 - in the aftermath of the Fukushima Dai-ichi nuclear disaster - reported as being in part due to complaints from freelance journalists that
 
+>  public debate was being stifled [and was] subjected to censorship, police intimidation and judicial harassment.[^rsf]
 
-| 2009 | 2010 | 2011/12 | 2014 | 2015 | 2016 |
-|-----:|-----:|--------:|-----:|-----:|-----:|
-|   17 |   11 |      22 |   59 |   61 |   72 |
+[^rsf]: https://rsf.org/en/world-press-freedom-index-2013
 
+it's still up there in the 'free' zone but such a rapid fall must be cause for concern.
 
+: Reporters without Borders (https://rsf.org/en/ranking)
+
+| 2009 | 2010 | 2011/12 | 2013|2014 | 2015 | 2016 |
+|-----:|-----:|--------:|-----:|-----:|-----:|-----:|
+|   17 |   11 |      22 |   53|59 |   61 |   72 |
+
+<!---
 | 2006 | 2009 | 2011    | 2015   | 2016   |
 |------:|------:|---------:|--------:|--------:|
 | 35| 33| 32| 25/100| 26/100|
+-->
 
-During a press conference at the end of his visit in ??? 2016 UN Special Rapporteur reported journalists concerns in these terms;
+
+David Kaye's visit to Japan in October 2016 confirmed the existence of a sense of uneasiness within the Japanese press, particularly with regards to its ability to maintain an attitude of independence toward a government taking an increasingly proactive approach to 'press management'. During a press conference at the end of his visit, the UN Special Rapporteur reported journalists concerns in these terms;
 
 > quote 1
 
@@ -67,6 +76,8 @@ Japan has a history of journalism stretching back to its emergence from under th
 
 Early journalism was often politically sponsored and overtly partial, it was only with the adoption of the 'objective' mass circulation model that the press began to require something like the 'professional' journalist rather than the partisan supporter and advocate of a cause.
 
+porfession
+
 First professional journalists - ?
 
 ## Development of journalism as a trade
@@ -75,7 +86,7 @@ First professional journalists - ?
 
 [^law]:*shimbunshi jōrei*, *zanbōritsu*
 
-1880s - new university graduates began to move into journalism, numbers increased through the 1920s, economic recession meant a dearth of graduate employment opportunities at a time when hte popular press was expanding and looking to increase the quality if its content by employing better educated reporters.[@Schafer:2012 p36]
+1880s - new university graduates began to move into journalism, numbers increased through the 1920s, economic recession meant a dearth of graduate employment opportunities at a time when the popular press was expanding and looking to increase the quality if its content by employing better educated reporters.[@Schafer:2012 p36]
 
 However along with this shift toward employing individuals who had passed thorugh the system of imperial universities - and reducing the number of 'enthusiasts' - who saw themselves as 'educators of society' - came an increase in the number of 'company employees'. In 1917, Motoyama Hikoichi[^moto] had characterised this shift with the folowing words,
 
@@ -134,11 +145,19 @@ The prime concern of reporters in Japan (see Weaver info) is the accurate report
 
 When the broadcasting of television news started on NHK in the 1960s, the newspaper model was adopted as an organisational template and standard.
 
+However, the political implications of 'objectiviy' and 'balance' are continually debated and have been much criticised as a way to avoid the responsibility of making moral judgements and providing useful, informed evaluation of soc-called 'facts', which, in many cases, may not be as 'self-explanatory' as they might at first seem.
+
+If it is, as Tuchman [-@Tuchman:1972] suggests, primarily a 'ritual' throught the enactment of which reporters and editors avoid potential censure, it is reasonable to expect - in a media system such as Japan's where there is the constant threat of pressure from powerful sources, that achieveing 'objectivity' - and therefore insulating oneself from pressure as much as possible - would become a prime concern.
+
+There are also commerncial benefits; these were recognised early on by the press is Japan.[@Huffman:1997, p?]
+
 ## Immediacy
 
 No doubt about this. Companies like immediacy as a measure of journalistic performance; results are generally quantifiable and unambiguous - it's usually fairly obvious 'who was first'.
 
-Japanese newspapers still issue *gōgai* sheets, single pages handed out at major railway stations (and thus coincidentally also useful for television news cameras), covering major stories such as ...
+Japanese newspapers still issue *gōgai* sheets, single pages handed out at major railway stations (and thus coincidentally also useful for television news cameras), covering major and breaking stories such as the death of Fidel Castro or the resignation of President Park of South Korea.
+
+The importance of immediacy for the printed press - the discourse of newspapering in Japan is still largely ambivalent about the existence and importance of the web - might also be detected in the ongoing committment of all newspapers to deliver to subscribers homes[^deliv] very early in the morning thus ensuring the presence fo a daily paper and paccess to the news it provides 'at the breakfast table'.
 
 ## Autonomy
 
@@ -165,6 +184,9 @@ Discussing the reaction of the New Delhi correspondents of the major Japanese me
 
 > 新聞記者[...]のたいがいの自己認識は、「企業内記者」である。[...] 競争は企業間競争であり、企業の枠や国境を超えたジャーナリストの意識は、弱い。[Kamata in Hanada p 50]
 
+> ここが日本とそれ以外の国のジャーナリストとの大きな違いだ。例えば米国のメディアで働く者は、報道基幹の社員である前に、ひとりのジャーナリストであるという考え方が強い。
+[@Uesugi:2008, p115]
+
 # Discussion
 
 Inability of J press to act for common good: Yamashita India Emergencey anecdote [@Yamashita:1996, p35--6], also perhaps the profusion of microphones that one sees in front of speakers at a press conference in Japan[^mike] attest the unwillingness (lack of desire) of Japanese media companies to cooperate, even where the benefits are obvious, and the gains from non-cooperation negligible to nil.
@@ -179,6 +201,8 @@ Does the newspaper press prefer a long decline into oblivion to any effort to re
 
 Primarily an industry group. Focussed largely on promoting the business interests of newspaper publishers; encouraging readership, surveying the effectiveness of advertising, monitoring copyright, and lobbying for continuation of legal privileges. It also issues the 新聞倫理綱領;
 
+### Journalist Groups
+
 # References
 
 [^guide]: 新聞倫理綱領\
@@ -187,3 +211,6 @@ Primarily an industry group. Focussed largely on promoting the business interest
 　国民の「知る権利」は民主主義社会をささえる普遍の原理である。この権利は、言論・表現の自由のもと、高い倫理意識を備え、あらゆる権力から独立したメディアが存在して初めて保障される。新聞はそれにもっともふさわしい担い手であり続けたい。\
 　おびただしい量の情報が飛びかう社会では、なにが真実か、どれを選ぶべきか、的確で迅速な判断が強く求められている。新聞の責務は、正確で公正な記事と責任ある論評によってこうした要望にこたえ、公共的、文化的使命を果たすことである。\
 　編集、制作、広告、販売などすべての新聞人は、その責務をまっとうするため、また読者との信頼関係をゆるぎないものにするため、言論・表現の自由を守り抜くと同時に、自らを厳しく律し、品格を重んじなければならない。
+
+
+[^deliv]: over 95 per cent of newspapers sold in Japan are delivered to the homes of subscribers, the remainder are sold through outlets like railways station kiosks and convenience stores.
