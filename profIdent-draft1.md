@@ -3,7 +3,7 @@ date: 27 December 2016
 style: Article
 bibliography: /Users/spkb/Documents/bibliographies/mybib.bib
 abstract: The role of a professional identity for journalists around the world is part of what allows them to act as the watchdogs on power that society expects. How and where is this identity acquired? Is Japan different? If so does this explain the idiosyncratic nature of journalistic activity in Japan?
-title: Professional Identity and Journalism in Japan
+title: Professional Identity & Journalism in Japan
 +as: Asahi Shimbun
 ---
 
@@ -15,13 +15,13 @@ Japan has fallen down the press freedom rankings over the past few years, in par
 
 [^rsf]: https://rsf.org/en/world-press-freedom-index-2013
 
-it's still up there in the 'free' zone but at the lowest leve since the series began in 2002, such a rapid fall, from 11 in 2010 to 72 just six years later - should be cause for concern. WHY??
+it's still up there in the 'free' zone but at the lowest level since the series began in 2002, such a rapid fall, from 11 in 2010 to 72 just six years later - should be cause for concern. WHY??
 
-: Reporters without Borders (https://rsf.org/en/ranking)
+: Reporters without Borders (https://rsf.org/en/ranking) N.B. the ranking combined the 2011-2012 ratings in one figure, this has been graphed as 2012 below.
 
-| 2009 | 2010 | 2011/12 | 2013|2014 | 2015 | 2016 |
+| 2009 | 2010 | 2011/12 | 2013 | 2014 | 2015 | 2016 |
 |-----:|-----:|--------:|-----:|-----:|-----:|-----:|
-|   17 |   11 |      22 |   53|59 |   61 |   72 |
+|   17 |   11 |      22 |   53 |   59 |   61 |   72 |
 
 ![](./rsf-ranking-japan2.png)
 
@@ -38,13 +38,19 @@ David Kaye's visit to Japan in October 2016 confirmed the existence of a sense o
 
 He summarise his experience of talking to various actors within the Japanese mass media system as ...
 
-> the problem is, the system of journalism and the structure of media itself in Japan doesn't seem to afford journalists the ability to push back against government encroachments, and you see this [...] in the example of the *kisha* club system, we learned about serious concern about senior member of the independent media meeting with senior members of the govt., we heard these stories repeatedly, and I would really encourage journalists to organise themselves, to adopt a professional organisation, a union in effect, in which journalists can express media-wide solidarity, can perhaps enjoy self-regualtion through a press council, in short, the media itself has a role to play, the media itself bears some responsibility for this situation
+> the problem is, the system of journalism and the structure of media itself in Japan doesn't seem to afford journalists the ability to push back against government encroachments, and you see this [...] in the example of the _kisha_ club system, we learned about serious concern about senior member of the independent media meeting with senior members of the government, we heard these stories repeatedly, and **I would really encourage journalists to organise themselves, to adopt a professional organisation, a union in effect, in which journalists can express media-wide solidarity**, can perhaps enjoy self-regualtion through a press council, in short, the media itself has a role to play, the media itself bears some responsibility for this situation (emphasis added)
 
 <!--  and I hope thes two different tasks [change law, organise] could protect the independence fo the press. -->
 
-The question is: Why, given the obvious concern with independence and what Kaye describes as the deep committment to freedom of speech and expression in Japan, have journalists not organised in the way he describes?
+Added to this is the fact that the mainstream media in Japan is highly dominant in a very isolated market, Japanese readers, unlike readers of English, do not have the luxury of turning to say the US, Australian or even Russian press for alternative views; Japanese media firms are the pretty much the only producers of Japanese-language news and information. The seven _zenkokushi_ (papers with national daily reach) employ just under 20,000 staff, roughly half of these in editorial [(METI 2015 Report)](http://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h27.html). Between them they have daily sales of roughly 30 million copies, there are roughly XX million households in Japan. Add to this the influence of the main news agencies, Kyōdo and Jiji, who supply the bulk of news to local and regionals(CITATION! RAUSCH? [@Rausch:2012]), it can be seen that there is little scope for alternative and 'left-field' voices.[^fail]
 
-This paper argues that the root causes of this failure to organise, can be found in a) the nature of the professional education of journalists, and b) the nature of employment structures for journalists in Japan.
+[^fail]: the repeated failures of 'public journalism' and 'citizen reporter' based initiatives also illustrates this dominance, and also perhaps a lack of interest on the part of audiences for 'alternative' sources.
+
+The question this paper addresses is: Why, given the obvious concern with independence and what Kaye describes as the deep committment to freedom of speech and expression in Japan, have journalists not organised in the way he describes?
+
+Also, what of the rumoured 'collectivistic' instincts of Japanese society? Why no collective action from journalists to respond to this common threat?
+
+This paper argues that the root causes of this failure to organise, can be found in a) the nature of the professional education of journalists, and b) the nature of employment structures for journalists in Japan. The effects of these social institutions can be observed manifested as the 'professional ideology' of journalists in Japan, this paper uses certain aspects of this ideology as proposed by Deuze [-@Deuze:2005].
 
 This has led to a situation where reporter identity is centred on entities - companies as employers - which are required (at least as far as rhetoric is concerned) to be in a relationship of 'fierce competition'.
 
@@ -151,15 +157,15 @@ However, the political implications of 'objectiviy' and 'balance' are continuall
 
 If it is, as Tuchman [-@Tuchman:1972] suggests, primarily a 'ritual' throught the enactment of which reporters and editors avoid potential censure, it is reasonable to expect - in a media system such as Japan's where there is the constant threat of pressure from powerful sources, that achieveing 'objectivity' - and therefore insulating oneself from pressure as much as possible - would become a prime concern.
 
-There are also commerncial benefits; these were recognised early on by the press is Japan.[@Huffman:1997, p?]
+There are also commercial benefits; these were recognised early on by the press is Japan.[@Huffman:1997, p?]
 
 ## Immediacy
 
 No doubt about this. Companies like immediacy as a measure of journalistic performance; results are generally quantifiable and unambiguous - it's usually fairly obvious 'who was first'.
 
-Japanese newspapers still issue *gōgai* sheets, single pages handed out at major railway stations (and thus coincidentally also useful for television news cameras), covering major and breaking stories such as the death of Fidel Castro or the resignation of President Park of South Korea.
+Japanese newspapers still issue *gōgai* sheets, single sheet 'extras' handed out free, often at major railway stations (and thus coincidentally also useful for television news cameras), covering major and breaking stories such as the death of Fidel Castro or the resignation of President Park of South Korea.
 
-The importance of immediacy for the printed press - the discourse of newspapering in Japan is still largely ambivalent about the existence and importance of the web - might also be detected in the ongoing committment of all newspapers to deliver to subscribers homes[^deliv] very early in the morning thus ensuring the presence fo a daily paper and paccess to the news it provides 'at the breakfast table'.
+The importance of immediacy for the printed press - the discourse of newspapering in Japan is still largely ambivalent about the existence and importance of the web - might also be detected in the ongoing committment of all newspapers to deliver to subscribers homes[^deliv] very early in the morning thus ensuring the presence fo a daily paper and access to the news it provides 'at the breakfast table'.
 
 ## Autonomy
 
@@ -167,12 +173,26 @@ What is it that allows the journalist this autonomy? Identity as a professional 
 
 The Japanese journalist, as a result of the diversity of educational backgrounds - surely a strength in terms of diversity of knoweldge - lack any external power base (see article in Tumber!);
 
-TO be autonomius invites suspicion - to be outside a publicly legitimised organisation - the reputation of trades unions, other than the 'company unions' prevalent across much of Japanee industry is as 'trouble makers obsessed with Marxist doctrine'(CHECK!) - is to lose a credibility and social trust. Thus, without some sort of legitimate (by whose standards?) body to which they can refer, journalists are effectively restricted to acting within the bounds of the vertical company-based structure. The 'media-wide' cooperation that David Kaye referred to necessary to effect a concerted push back against top-down pressure is near impossible.
+To be autonomus invites suspicion - to be outside a publicly legitimised organisation - the reputation of trades unions, other than the 'company unions' prevalent across much of Japanese industry is as 'trouble makers obsessed with Marxist doctrine'(CHECK!) - is to lose a credibility and social trust. Thus, without some sort of legitimate (by whose standards?) body to which they can refer, journalists are effectively restricted to acting within the bounds of the vertical company-based structure. The 'media-wide' cooperation that David Kaye referred to necessary to effect a concerted push back against top-down pressure is near impossible.
 
 > ジャーナリストというより朝日新聞社員としての仕事をしている図式です
 
 quote from - 新聞協会賞を2度受賞した*依光隆明*朝日新聞社編集委員
 [@JCEJ:2014]
+
+Then there is the question of industry autonomy from government power. The structures of the mass media (and in the broader economy in which media companies exist), gradually put in place over the 70 years since the end of WW2, has turned out to be a double-edged sword. The sections below focus on the linkages between legislation/regulation and media industries which can be seen as political pressure points, which are none the less so for not being employed as such.
+
+### The Broadcast Act{-}
+
+Identified by Kaye as an obvious political pressure point. Takaichi Sanae statements during 2015/6. Kaye suggets some 3rd party regualtor equivale to the US Federal Communicatoons Commission(FCC). Such a body did exist briefly for a few days during the period between the passing of the Broadcast Act and the end of the US occupation, when it was the bodies first and most significant act was to dissolve itself, returning control of broadcasting to a ministry. So while there is a precedent for such a body, it is not altogether a promising one.
+
+### Newspaper Resale System & Antimonopoly Rules {-}
+
+* Weakness of JFTC
+* Pricing cartel
+* _Saihan seido_
+
+The _tokushū shitei_ status of newspapers is a purely regulatory matter, the JFTC could decide to rescind it at any point. Occasional government reassessments of its social value serve to remind the newspaper industry of this.
 
 ## Ethics
 
@@ -203,7 +223,7 @@ Does the newspaper press prefer a long decline into oblivion to any effort to re
 
 Primarily an industry group. Focussed largely on promoting the business interests of newspaper publishers; encouraging readership, surveying the effectiveness of advertising, monitoring copyright, and lobbying for continuation of legal privileges. It also issues the 新聞倫理綱領;
 
-### Journalist Groups
+### Journalist Groups {-}
 
 # References
 
