@@ -38,13 +38,17 @@ David Kaye's visit to Japan in October 2016 confirmed the existence of a sense o
 
 He summarise his experience of talking to various actors within the Japanese mass media system as ...
 
-> the problem is, the system of journalism and the structure of media itself in Japan doesn't seem to afford journalists the ability to push back against government encroachments, and you see this [...] in the example of the _kisha_ club system, we learned about serious concern about senior member of the independent media meeting with senior members of the government, we heard these stories repeatedly, and **I would really encourage journalists to organise themselves, to adopt a professional organisation, a union in effect, in which journalists can express media-wide solidarity**, can perhaps enjoy self-regualtion through a press council, in short, the media itself has a role to play, the media itself bears some responsibility for this situation (emphasis added)
+> the problem is, the system of journalism and the structure of media itself in Japan doesn't seem to afford journalists the ability to push back against government encroachments, and you see this [...] in the example of the _kisha_ club system, we learned about serious concern about senior members of the independent media meeting with senior members of the government, we heard these stories repeatedly, and **I would really encourage journalists to organise themselves, to adopt a professional organisation, a union in effect, in which journalists can express media-wide solidarity**, can perhaps enjoy self-regulation through a press council, in short, the media itself has a role to play, the media itself bears some responsibility for this situation (emphasis added)
 
 <!--  and I hope thes two different tasks [change law, organise] could protect the independence fo the press. -->
 
-Added to this is the fact that the mainstream media in Japan is highly dominant in a very isolated market, Japanese readers, unlike readers of English, do not have the luxury of turning to say the US, Australian or even Russian press for alternative views; Japanese media firms are the pretty much the only producers of Japanese-language news and information. The seven _zenkokushi_ (papers with national daily reach) employ just under 20,000 staff, roughly half of these in editorial [(METI 2015 Report)](http://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h27.html). Between them they have daily sales of roughly 30 million copies, there are roughly XX million households in Japan. Add to this the influence of the main news agencies, Kyōdo and Jiji, who supply the bulk of news to local and regionals(CITATION! RAUSCH? [@Rausch:2012]), it can be seen that there is little scope for alternative and 'left-field' voices.[^fail]
+Added to this is the fact that the mainstream media in Japan is highly dominant in a very isolated market, Japanese readers, unlike readers of English, do not have the luxury of turning to say the US, Australian or even Russian press for alternative views; Japanese media firms are the pretty much the only producers of Japanese-language news and information. The seven _zenkokushi_ (papers with national daily reach) employ just under 20,000 staff, roughly half of these in editorial [(METI 2015 Report)](http://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h27.html). Between them they have daily sales of roughly 30 million copies, that is they supply daily news to over half of Japan's  roughly 52 million households [(Japan Statistical Yearbook 2017)](http://www.stat.go.jp/english/data/nenkan/66nenkan/index.htm). Add to this the influence of the main news agencies, Kyōdo and Jiji, who supply the bulk of news to local and regionals(CITATION! RAUSCH? [@Rausch:2012]), it can be seen that there is little scope for alternative and 'left-field' voices.[^fail]
 
 [^fail]: the repeated failures of 'public journalism' and 'citizen reporter' based initiatives also illustrates this dominance, and also perhaps a lack of interest on the part of audiences for 'alternative' sources.
+
+As far as broadcast news is concerned, the picture is similar; the most watched news program, NHK's 7pm news is regularly watched by 16-17 million people, news on commercial channels brings in combined audiences of over 30 million; the top-rated commercial news show, TV Asahi's _Hōdō Station_, gains in the region of 14 million viewers, NTV's early evening _news every_, about 12 million.[^scr]
+
+[^scr]: This adopts the rough approximation, 1% = 1 million viewers, as suggested by @Torigoe:2002. Figures compiled from Autumn 2016 ratings data - [Video REsaerch](https://www.videor.co.jp/data/ratedata/backnum/2016/index.htm)
 
 The question this paper addresses is: Why, given the obvious concern with independence and what Kaye describes as the deep committment to freedom of speech and expression in Japan, have journalists not organised in the way he describes?
 
@@ -84,8 +88,6 @@ Japan has a history of journalism stretching back to its emergence from under th
 
 Early journalism was often politically sponsored and overtly partial, it was only with the adoption of the 'objective' mass circulation model that the press began to require something like the 'professional' journalist rather than the partisan supporter and advocate of a cause.
 
-porfession
-
 First professional journalists - ?
 
 ## Development of journalism as a trade
@@ -96,21 +98,21 @@ First professional journalists - ?
 
 1880s - new university graduates began to move into journalism, numbers increased through the 1920s, economic recession meant a dearth of graduate employment opportunities at a time when the popular press was expanding and looking to increase the quality if its content by employing better educated reporters.[@Schafer:2012 p36]
 
-However along with this shift toward employing individuals who had passed thorugh the system of imperial universities - and reducing the number of 'enthusiasts' - who saw themselves as 'educators of society' - came an increase in the number of 'company employees'. In 1917, Motoyama Hikoichi[^moto] had characterised this shift with the folowing words,
+However along with this shift toward employing individuals who had passed through the system of imperial universities - and reducing the number of 'enthusiasts' - who saw themselves as 'educators of society' - came an increase in the number of 'company employees'. In 1917, Motoyama Hikoichi[^moto] had characterised this shift with the folowing words,
 
 [^moto]: journo at *Osaka Shinpō*, then *Jiji Shinpō*, 1888 reorganised *Osaka Mainichi SB*, became pres in 1903: Advocate of foundation of newspaper studies depts at univs and later president of *Osaka Mainichi* newspaper.[@Schafer:2012 p36n]
 
 > a journalist, just like a salaryman of any other profit-oriented company, needs to spare no efforts in favor of his company. [@Schafer:2012 citing Ono:1971]
 
-The journalist was increasingly seen as primarily a company employee like any other. And the 'Shimbun-gaku' departments established at unoversities were aimed at providing potential journalists with the requisite knowledge to allow them to gain employment at newspapers on graduation. It took until 1929 for a Tokyo Imperial University to etablish a 'Newspaper Research Seminar' as part of its literature department.[@Schafer:2012 p40]
+The journalist was increasingly seen as primarily a company employee like any other. And the 'Shimbun-gaku' departments established at universities were aimed at providing potential journalists with the requisite knowledge to allow them to gain employment at newspapers on graduation. It took until 1929 for a Tokyo Imperial University to establish a 'Newspaper Research Seminar' as part of its literature department.[@Schafer:2012 p40]
 
-Ono??? was the prime motivator in the establishment of this body, he saw the professional training he sought to offer as a way to push back against the 'degeneration' of the press he perceived in the 1920s, and to raise journalists who would again act as educators of society, ensuring that expert and specialist opionion would be made available to the newspaper's mass audience.[@Schafer:2012 p45--5]
+Ono??? was the prime motivator in the establishment of this body, he saw the professional training he sought to offer as a way to push back against the 'degeneration' of the press he perceived in the 1920s, and to raise journalists who would again act as educators of society, ensuring that expert and specialist opinion would be made available to the newspaper's mass audience.[@Schafer:2012 p45--5]
 
 [@Huffman:1997; @Lange:1998]
 
 ## Education of Journalists ##
 
-Deuze, in his typology of global journalism education approaches, categorises tha Japanese system as characterised by
+Deuze, in his typology of global journalism education approaches, categorises the Japanese system as characterised by
 
 > [p]rimarily on-the-job training by the media industry, for example through apprenticeship systems (Austria, Japan; Great Britain and Australia started this way, as this is a typical
 feature of the Anglo-Saxon model).[@Deuze:2006 p22]
@@ -129,11 +131,11 @@ This debate took place in reaction to a number of incidents (plagiarism[^plag], 
 
 [^plag]: About one-third of an article in the 8 Jun 2000 edition on the *Asahi Shimbun* was found to have been plagiarised from the local *Chugoku Shimbun* by a reporter in the Hiroshima office.[@Shibata:2003 p137]
 
-Ikuta describes the actual content of OJT at the +as; new employs spend four or five years at a local office where theier development can be overseen trained by experienced reporters, traditionally the local office would be a mix of new, middle career and 'veteran' rporters. However Ikuta argues that this system broke down due to the HR policy of concentrating middle-career reporters in the head offices, which led to an over-reliance on early-career reporters in local bureaus. (ibid. p224/1180)
+Ikuta describes the actual content of OJT at the +as; new employs spend four or five years at a local office where their development can be overseen trained by experienced reporters, traditionally the local office would be a mix of new, middle career and 'veteran' rporters. However Ikuta argues that this system broke down due to the HR policy of concentrating middle-career reporters in the head offices, which led to an over-reliance on early-career reporters in local bureaus. (ibid. p224/1180)
 
 # Living the ideology?
 
-This section surveys how the five aspects of the journalistic ideology outlined by Deuze(see above) are materialsied in Japan; it concentrates on 'ethics' and 'autonomy' as areas which can be seen to have a particularly significant impact on journalistic practise.
+This section surveys how the five aspects of the journalistic ideology outlined by Deuze(see above) are materialised in Japan; it concentrates on 'ethics' and 'autonomy' as areas which can be seen to have a particularly significant impact on journalistic practise.
 
 I will deal with the less controversial aspects - public service, objectivity, and immediacy - before moving on.
 
@@ -155,7 +157,7 @@ When the broadcasting of television news started on NHK in the 1960s, the newspa
 
 However, the political implications of 'objectiviy' and 'balance' are continually debated and have been much criticised as a way to avoid the responsibility of making moral judgements and providing useful, informed evaluation of soc-called 'facts', which, in many cases, may not be as 'self-explanatory' as they might at first seem.
 
-If it is, as Tuchman [-@Tuchman:1972] suggests, primarily a 'ritual' throught the enactment of which reporters and editors avoid potential censure, it is reasonable to expect - in a media system such as Japan's where there is the constant threat of pressure from powerful sources, that achieveing 'objectivity' - and therefore insulating oneself from pressure as much as possible - would become a prime concern.
+If it is, as Tuchman [-@Tuchman:1972] suggests, primarily a 'ritual' throught the enactment of which reporters and editors avoid potential censure, it is reasonable to expect - in a media system such as Japan's where there is the constant threat of pressure from powerful sources, that achieving 'objectivity' - and therefore insulating oneself from pressure as much as possible - would become a prime concern.
 
 There are also commercial benefits; these were recognised early on by the press is Japan.[@Huffman:1997, p?]
 
@@ -224,6 +226,14 @@ Does the newspaper press prefer a long decline into oblivion to any effort to re
 Primarily an industry group. Focussed largely on promoting the business interests of newspaper publishers; encouraging readership, surveying the effectiveness of advertising, monitoring copyright, and lobbying for continuation of legal privileges. It also issues the 新聞倫理綱領;
 
 ### Journalist Groups {-}
+
+#### Japan Congress of Journalists(JCJ){-}
+
+(Nihon Janarisuto Kaigi)
+
+Formed in 1955, currently claims a membership of 800.
+
+Unlikely to be able to perform a uniting role as the focus of it's activity seems to be political rather than journalistic. This is --- however just the causes they choose might seem to be --- likely to alienate journalists who see themselves as being first and foremost 'objective' observers of, and reporters on society.
 
 # References
 
