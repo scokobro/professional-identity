@@ -17,13 +17,18 @@ Japan has fallen down the press freedom rankings over the past few years, in par
 
 it's still up there in the 'free' zone but at the lowest level since the series began in 2002, such a rapid fall, from 11 in 2010 to 72 just six years later - should be cause for concern. WHY??
 
-: Reporters without Borders (https://rsf.org/en/ranking) N.B. the ranking combined the 2011-2012 ratings in one figure, this has been graphed as 2012 below.
+: **Table 1:** Reporters without Borders (https://rsf.org/en/ranking) N.B. the ranking combined the 2011-2012 ratings in one figure, this has been graphed as 2012 below.
 
 | 2009 | 2010 | 2011/12 | 2013 | 2014 | 2015 | 2016 |
 |-----:|-----:|--------:|-----:|-----:|-----:|-----:|
 |   17 |   11 |      22 |   53 |   59 |   61 |   72 |
 
+
 ![](./rsf-ranking-japan2.png)
+
+: **Figure 1:** Reporters Sans Frontieres Press Freedom rankings for Japan since 2002, red line shows 3-period moving average.
+
+
 
 <!---
 | 2006 | 2009 | 2011    | 2015   | 2016   |
@@ -48,9 +53,11 @@ Added to this is the fact that the mainstream media in Japan is highly dominant 
 
 As far as broadcast news is concerned, the picture is similar; the most watched news program, NHK's 7pm news is regularly watched by 16-17 million people, news on commercial channels brings in combined audiences of over 30 million; the top-rated commercial news show, TV Asahi's _Hōdō Station_, gains in the region of 14 million viewers, NTV's early evening _news every_, about 12 million.[^scr]
 
-[^scr]: This adopts the rough approximation, 1% = 1 million viewers, as suggested by @Torigoe:2002. Figures compiled from Autumn 2016 ratings data - [Video REsaerch](https://www.videor.co.jp/data/ratedata/backnum/2016/index.htm)
+[^scr]: This adopts the rough approximation, 1% = 1 million viewers, as suggested by @Torigoe:2002. Figures compiled from Autumn 2016 ratings data - [Video Research](https://www.videor.co.jp/data/ratedata/backnum/2016/index.htm)
 
-The question this paper addresses is: Why, given the obvious concern with independence and what Kaye describes as the deep committment to freedom of speech and expression in Japan, have journalists not organised in the way he describes?
+## Aims
+
+The question this paper addresses is: Why, given the obvious concern with independence and what Kaye describes as the deep commitment to freedom of speech and expression in Japan, have journalists not organised in the way he describes?
 
 Also, what of the rumoured 'collectivistic' instincts of Japanese society? Why no collective action from journalists to respond to this common threat?
 
@@ -64,7 +71,7 @@ This paper will not deal with the influence if the *kisha kurabu* 'press club' s
 
 # Ideology of Journalism
 
-Discussion of the elements of the nature of the journalistic identity has been an integral part of academic understandings of news and newsgatherers since the very early days of the field (eg?). Deuze[-@Deuze:2005] sums up the essential features of what he refers to as the journalistic ideology:
+Discussion of the elements of the nature of the journalistic identity has been an integral part of academic understandings of news and news-gatherers since the very early days of the field (eg?). Deuze[-@Deuze:2005] sums up the essential features of what he refers to as the journalistic ideology:
 
 >   • Public service: journalists provide a public service (as watchdogs or ‘news-hounds’, active collectors and disseminators of information);\
 >   • Objectivity: journalists are impartial, neutral, objective, fair and (thus) credible;\
@@ -98,7 +105,7 @@ First professional journalists - ?
 
 1880s - new university graduates began to move into journalism, numbers increased through the 1920s, economic recession meant a dearth of graduate employment opportunities at a time when the popular press was expanding and looking to increase the quality if its content by employing better educated reporters.[@Schafer:2012 p36]
 
-However along with this shift toward employing individuals who had passed through the system of imperial universities - and reducing the number of 'enthusiasts' - who saw themselves as 'educators of society' - came an increase in the number of 'company employees'. In 1917, Motoyama Hikoichi[^moto] had characterised this shift with the folowing words,
+However along with this shift toward employing individuals who had passed through the system of imperial universities - and reducing the number of 'enthusiasts' - who saw themselves as 'educators of society' - came an increase in the number of 'company employees'. In 1917, Motoyama Hikoichi[^moto] had characterised this shift with the following words,
 
 [^moto]: journo at *Osaka Shinpō*, then *Jiji Shinpō*, 1888 reorganised *Osaka Mainichi SB*, became pres in 1903: Advocate of foundation of newspaper studies depts at univs and later president of *Osaka Mainichi* newspaper.[@Schafer:2012 p36n]
 
@@ -131,7 +138,7 @@ This debate took place in reaction to a number of incidents (plagiarism[^plag], 
 
 [^plag]: About one-third of an article in the 8 Jun 2000 edition on the *Asahi Shimbun* was found to have been plagiarised from the local *Chugoku Shimbun* by a reporter in the Hiroshima office.[@Shibata:2003 p137]
 
-Ikuta describes the actual content of OJT at the +as; new employs spend four or five years at a local office where their development can be overseen trained by experienced reporters, traditionally the local office would be a mix of new, middle career and 'veteran' rporters. However Ikuta argues that this system broke down due to the HR policy of concentrating middle-career reporters in the head offices, which led to an over-reliance on early-career reporters in local bureaus. (ibid. p224/1180)
+Ikuta describes the actual content of OJT at the +as; new employs spend four or five years at a local office where their development can be overseen trained by experienced reporters, traditionally the local office would be a mix of new, middle career and 'veteran' reporters. However Ikuta argues that this system broke down due to the HR policy of concentrating middle-career reporters in the head offices, which led to an over-reliance on early-career reporters in local bureaus. (ibid. p224/1180)
 
 # Living the ideology?
 
@@ -143,7 +150,7 @@ See NSK Ethics Guide[^guide]
 
 ## Public service
 
-Journalists relations with the 'public' - public journalism? Surveys of J journos understandings of the audience?
+Journalists relations with the 'public' - public journalism? Surveys of Japanese journalists understandings of the audience?
 
 Central term for Japanese discussion of the role of journalists is 'the right to know' (*shiru kenri*); this would seem to indicate a pervasive consciousness of journalism as a service to the general public. Of course, this leaves open the question of how this idea is operationalised; in any particular instance, which public is to be served and how?
 
@@ -155,9 +162,9 @@ The prime concern of reporters in Japan (see Weaver info) is the accurate report
 
 When the broadcasting of television news started on NHK in the 1960s, the newspaper model was adopted as an organisational template and standard.
 
-However, the political implications of 'objectiviy' and 'balance' are continually debated and have been much criticised as a way to avoid the responsibility of making moral judgements and providing useful, informed evaluation of soc-called 'facts', which, in many cases, may not be as 'self-explanatory' as they might at first seem.
+However, the political implications of 'objectivity' and 'balance' are continually debated and have been much criticised(CITATIONS) as a way to avoid the responsibility of making moral judgements and providing useful, informed evaluation of so-called 'facts', which, in many cases, may not be as 'self-explanatory' as they might at first seem.
 
-If it is, as Tuchman [-@Tuchman:1972] suggests, primarily a 'ritual' throught the enactment of which reporters and editors avoid potential censure, it is reasonable to expect - in a media system such as Japan's where there is the constant threat of pressure from powerful sources, that achieving 'objectivity' - and therefore insulating oneself from pressure as much as possible - would become a prime concern.
+If it is, as Tuchman [-@Tuchman:1972] suggests, primarily a 'ritual' through the enactment of which reporters and editors avoid potential censure, it is reasonable to expect - in a media system such as Japan's where there is the constant threat of pressure from powerful sources, that achieving 'objectivity' - and therefore insulating oneself from pressure as much as possible - would become a prime concern.
 
 There are also commercial benefits; these were recognised early on by the press is Japan.[@Huffman:1997, p?]
 
@@ -167,15 +174,15 @@ No doubt about this. Companies like immediacy as a measure of journalistic perfo
 
 Japanese newspapers still issue *gōgai* sheets, single sheet 'extras' handed out free, often at major railway stations (and thus coincidentally also useful for television news cameras), covering major and breaking stories such as the death of Fidel Castro or the resignation of President Park of South Korea.
 
-The importance of immediacy for the printed press - the discourse of newspapering in Japan is still largely ambivalent about the existence and importance of the web - might also be detected in the ongoing committment of all newspapers to deliver to subscribers homes[^deliv] very early in the morning thus ensuring the presence fo a daily paper and access to the news it provides 'at the breakfast table'.
+The importance of immediacy for the printed press - the discourse of newspapering in Japan is still largely ambivalent about the existence and importance of the web - might also be detected in the ongoing commitment of all newspapers to deliver to subscribers homes[^deliv] very early in the morning thus ensuring the presence fo a daily paper and access to the news it provides 'at the breakfast table'.
 
 ## Autonomy
 
 What is it that allows the journalist this autonomy? Identity as a professional that extends beyond the fact that they work for a company which 'does news'. Basis for maintaining the 'chinese wall' between business and editorial, insulation from source pressure etc.
 
-The Japanese journalist, as a result of the diversity of educational backgrounds - surely a strength in terms of diversity of knoweldge - lack any external power base (see article in Tumber!);
+The Japanese journalist, as a result of the diversity of educational backgrounds - surely a strength in terms of diversity of knowledge - lack any external power base (see article in Tumber!);
 
-To be autonomus invites suspicion - to be outside a publicly legitimised organisation - the reputation of trades unions, other than the 'company unions' prevalent across much of Japanese industry is as 'trouble makers obsessed with Marxist doctrine'(CHECK!) - is to lose a credibility and social trust. Thus, without some sort of legitimate (by whose standards?) body to which they can refer, journalists are effectively restricted to acting within the bounds of the vertical company-based structure. The 'media-wide' cooperation that David Kaye referred to necessary to effect a concerted push back against top-down pressure is near impossible.
+To be autonomous invites suspicion - to be outside a publicly legitimised organisation - the reputation of trades unions, other than the 'company unions' prevalent across much of Japanese industry is as 'trouble makers obsessed with Marxist doctrine'(CHECK!) - is to lose a credibility and social trust. Thus, without some sort of legitimate (by whose standards?) body to which they can refer, journalists are effectively restricted to acting within the bounds of the vertical company-based structure. The 'media-wide' cooperation that David Kaye referred to necessary to effect a concerted push back against top-down pressure is near impossible.
 
 > ジャーナリストというより朝日新聞社員としての仕事をしている図式です
 
@@ -186,7 +193,7 @@ Then there is the question of industry autonomy from government power. The struc
 
 ### The Broadcast Act{-}
 
-Identified by Kaye as an obvious political pressure point. Takaichi Sanae statements during 2015/6. Kaye suggets some 3rd party regualtor equivale to the US Federal Communicatoons Commission(FCC). Such a body did exist briefly for a few days during the period between the passing of the Broadcast Act and the end of the US occupation, when it was the bodies first and most significant act was to dissolve itself, returning control of broadcasting to a ministry. So while there is a precedent for such a body, it is not altogether a promising one.
+Identified by Kaye as an obvious political pressure point. Takaichi Sanae statements during 2015/6. Kaye suggests some 3rd party regulator equivalent to the US Federal Communications Commission(FCC). Such a body did exist briefly for a few days during the period between the passing of the Broadcast Act and the end of the US occupation, when it was the bodies first and most significant act was to dissolve itself, returning control of broadcasting to a ministry. So while there is a precedent for such a body, it is not altogether a promising one.
 
 ### Newspaper Resale System & Antimonopoly Rules {-}
 
@@ -213,17 +220,17 @@ Discussing the reaction of the New Delhi correspondents of the major Japanese me
 
 # Discussion
 
-Inability of J press to act for common good: Yamashita India Emergencey anecdote [@Yamashita:1996, p35--6], also perhaps the profusion of microphones that one sees in front of speakers at a press conference in Japan[^mike] attest the unwillingness (lack of desire) of Japanese media companies to cooperate, even where the benefits are obvious, and the gains from non-cooperation negligible to nil.
+Inability of J press to act for common good: Yamashita India Emergency anecdote [@Yamashita:1996, p35--6], also perhaps the profusion of microphones that one sees in front of speakers at a press conference in Japan[^mike] attest the unwillingness (lack of desire) of Japanese media companies to cooperate, even where the benefits are obvious, and the gains from non-cooperation negligible to nil.
 
-[^mike]: It is common paractise in many countries for the host of the press conference to provide feeds of the main microphone audio to all camera crews via a 'break-out box' positioned near to the designated camera position. Among other advantages to this sytem is that it helps reduce visual clutter in front of the speaker.
+[^mike]: It is common practise in many countries for the host of the press conference to provide feeds of the main microphone audio to all camera crews via a 'break-out box' positioned near to the designated camera position. Among other advantages to this system is that it helps reduce visual clutter in front of the speaker.
 
-Does the newspaper press prefer a long decline into oblivion to any effort to reform?  Backward-looking, attempt to revert to golden era, rather than dealing with a changed world and being pro-active in defing a new and relevant role.
+Does the newspaper press prefer a long decline into oblivion to any effort to reform?  Backward-looking, attempt to revert to golden era, rather than dealing with a changed world and being pro-active in defining a new and relevant role.
 
 ## Non-company journalistic groups
 
 ### JNPEA - Nihon Shimbun Kyōkai {-}
 
-Primarily an industry group. Focussed largely on promoting the business interests of newspaper publishers; encouraging readership, surveying the effectiveness of advertising, monitoring copyright, and lobbying for continuation of legal privileges. It also issues the 新聞倫理綱領;
+Primarily an industry group. Focussed largely on promoting the business interests of newspaper publishers; encouraging readership, surveying the effectiveness of advertising, monitoring copyright, and lobbying for continuation of legal privileges. It also issues the _Shimbun Rinri Koryo_ 新聞倫理綱領;
 
 ### Journalist Groups {-}
 
