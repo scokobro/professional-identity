@@ -130,15 +130,17 @@ See parts of...
 
 Indeed, outside employment there is little opportunity for potential journalists in Japan to acquire knowledge, skills and experience of their chosen trade.
 
-As a route to employment an education in journalism can be all but irrelevant, as [@Cooper-Chen:1997a p22] suggests, company recruitment relies on testing general skills (general knowledge, literacy) so a degree from *any* department in a prestigious university may be worth more than specialist knowledge from a less prestigious institution. Theses attitudes and the expectations of media employers - virtually no value attached to any sort of university-based journalistic education [@Fujita:2004 p1] in Japan seems to go back to at least the 1930s[@Uchikawa:2003 p14].
+As a route to employment an education in journalism can be all but irrelevant, as @Cooper-Chen:1997a [p22] suggest, company recruitment relies on testing general skills (general knowledge, literacy) so a degree from *any* department in a prestigious university may be worth more than specialist knowledge from a less prestigious institution. Theses attitudes and the expectations of media employers - virtually no value attached to any sort of university-based journalistic education [@Fujita:2004 p1] in Japan seems to go back to at least the 1930s [@Uchikawa:2003 p14].
 
-Fujita points to changes in the environment for perceived shortcomings of the 'on-the-job training' (OJT) system that led to the debate about the role of journalist education in Japan in the later 1990s and early 00s - the increasing use of technology at all levels of newspaper production and the increased pressure on workers which left little time for senior reporters to train new staffers.[@Fujita:2004 p3]
+@Fujita:2004 points to changes in the environment as a cause of the growing perception that the 'on-the-job training' (OJT) system was not producing the desired results, this led to a renewed debate about the role of university-based journalist education in Japan in the later 1990s and early 00s - the increasing use of technology at all levels of newspaper production and the increased pressure on workers which left little time for senior reporters to train new staffers.[@Fujita:2004 p3]
 
 This debate took place in reaction to a number of incidents (plagiarism[^plag], invasions of privacy, 'overheated' herd reporting (*media sukuramu*), libel)[@Ikuta:2004 p1]. Ikuta also identifies the pressures of adapting to new technologies as a root cause in the drop in journalistic standards.
 
 [^plag]: About one-third of an article in the 8 Jun 2000 edition on the *Asahi Shimbun* was found to have been plagiarised from the local *Chugoku Shimbun* by a reporter in the Hiroshima office.[@Shibata:2003 p137]
 
 Ikuta describes the actual content of OJT at the +as; new employs spend four or five years at a local office where their development can be overseen trained by experienced reporters, traditionally the local office would be a mix of new, middle career and 'veteran' reporters. However Ikuta argues that this system broke down due to the HR policy of concentrating middle-career reporters in the head offices, which led to an over-reliance on early-career reporters in local bureaus. (ibid. p224/1180)
+
+A significant effect of a primarily OJT-based system might be that it becomes more difficult to have any external standard (what kind of standard?); if the measure of professionalism is how closely one approximates the work of one's mentor then it is easy for _practical_ understandings of how one does journalism --- rather, how one does the job of journalist --- to become prioritised over how should (according to some exterior abstract measure - whether a code, an exemplar or whatever) journalists set about doing their work. It might also be readily supposed that such a system might turn out to be more 'malleable' from the political sources' point of view with the local (in time and space) understandings of the  necessities of practical reporting being passed on, and thereby taking on the status of 'common sense', within a single generation.
 
 # Living the ideology?
 
@@ -207,7 +209,7 @@ The _tokushū shitei_ status of newspapers is a purely regulatory matter, the JF
 
 Limited to the company motto!
 
-Discussing the reaction of the New Delhi correspondents of the major Japanese media during the media restrictions which were part of the Emergency (1975?), and the reaction of the mass media in Japan when government took the decision to intervene in the *Tsubaki Hatsugen*[^tsuba] incident (1994?)[@Berger:1995]
+Discussing the reaction of the New Delhi correspondents of the major Japanese media during the media restrictions which were part of the Emergency (1975?), and the reaction of the mass media in Japan when government took the decision to intervene in the 1994 *Tsubaki Hatsugen*[^tsuba] incident [@Berger:1995].
 
 [^tsuba]: Explain this
 
@@ -232,15 +234,15 @@ Does the newspaper press prefer a long decline into oblivion to any effort to re
 
 Primarily an industry group. Focussed largely on promoting the business interests of newspaper publishers; encouraging readership, surveying the effectiveness of advertising, monitoring copyright, and lobbying for continuation of legal privileges. It also issues the _Shimbun Rinri Koryo_ 新聞倫理綱領;
 
-### Journalist Groups {-}
-
-#### Japan Congress of Journalists(JCJ){-}
+### Japan Congress of Journalists(JCJ){-}
 
 (Nihon Janarisuto Kaigi)
 
 Formed in 1955, currently claims a membership of 800.
 
 Unlikely to be able to perform a uniting role as the focus of it's activity seems to be political rather than journalistic. This is --- however just the causes they choose might seem to be --- likely to alienate journalists who see themselves as being first and foremost 'objective' observers of, and reporters on society.
+
+
 
 # References
 
