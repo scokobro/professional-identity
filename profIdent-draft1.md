@@ -3,8 +3,9 @@ date: 27 December 2016
 style: Article
 bibliography: /Users/spkb/Documents/bibliographies/mybib.bib
 abstract: The role of a professional identity for journalists around the world is part of what allows them to act as the watchdogs on power that society expects. How and where is this identity acquired? Is Japan different? If so does this explain the idiosyncratic nature of journalistic activity in Japan?
-title: Professional Identity & Journalism in Japan
+title: Professional Identity, Press freedom and Journalism in Japan
 +as: Asahi Shimbun
++sb: Shimbun
 ---
 
 # Introduction #
@@ -26,9 +27,7 @@ it's still up there in the 'free' zone but at the lowest level since the series 
 
 ![](./rsf-ranking-japan2.png)
 
-: **Figure 1:** Reporters Sans Frontieres Press Freedom rankings for Japan since 2002, red line shows 3-period moving average.
-
-
+: **Figure 1:** Reporters Sans Frontiéres Press Freedom rankings for Japan since 2002, red line shows 3-period moving average.
 
 <!---
 | 2006 | 2009 | 2011    | 2015   | 2016   |
@@ -97,14 +96,15 @@ Japan has a history of journalism stretching back to its emergence from under th
 
 Early journalism was often politically sponsored and overtly partial,
 
-the individuals considered the first modern journalists in Japan - Yanagawa Shunsan (1832-70) publisher of the _Chūgai Shimbun_, and Fukuchi Gen'ichiro, well known for his work at the _Tōkyō Nichinichi Shimbun_.[@Huffman:1997: 32] had 'close personal ties to the _bakukfu_ shogunate'[@Schafer:2012, p9]
+the individuals considered the first modern journalists in Japan - Yanagawa Shunsan (1832-70) publisher of the _Chūgai +sb_, and Fukuchi Gen'ichiro, well known for his work at the _Tōkyō Nichinichi +sb_.[@Huffman:1997: 32] had 'close personal ties to the _bakukfu_ shogunate'[@Schafer:2012, p9]
 
 It was only with the adoption of the 'objective' mass circulation model, and the printing techniques that made them possible, that the press began to require something like the 'professional' journalist rather than the partisan supporter and advocate of a cause.
 
+@Shibata:2003 [: 12--3] suggests that the current worrying state of journalism in Japan began to take place in the aftermath of the Vietnam War; during this period newspapers in Japan had maintained an 'opposition party spirit' (_yatō seishin_) and had been critical of both US and Japanese foreign policy in Southeast Asia. From the mid-'70s the _Sankei +sb_ broke ranks and began to take a more government (Jimintō) friendly line, it was followed in the '80s by the _Yomiuri_ with its pro-Reagan/Nakasone attitude. This led to the current situation with the _Asahi_ and _Mainichi_ on the oppositional side and the _Yomiuri_ and _Sankei_ being conservative, pro-(LDP)government. As Shibata states, it is perfectly reasonable, and indeed desirable, for newspapers to offer different point of view to their readers, but, he argues, the shifts in the attitudes of two of Japan's largest papers fundamentally affected the ability of the press to perform their 'watchdog' function.(QUOTE better?)
 
 ## Development of journalism as a trade
 
-The first move to give form to journalism as a trade in Japan was the [@Schafer:2012 p10] 1875 formation of the Alliance of Newspaper Reporters (*Shimbun Kisha Rengō*) in reaction to increasingly restrictive laws which affected the press and protection against libel.[^law]
+The first move to give form to journalism as a trade in Japan was the [@Schafer:2012: 10] 1875 formation of the Alliance of Newspaper Reporters (*+sb Kisha Rengō*) in reaction to increasingly restrictive laws which affected the press and protection against libel.[^law]
 
 [^law]:*shimbunshi jōrei*, *zanbōritsu*
 
@@ -112,13 +112,13 @@ The first move to give form to journalism as a trade in Japan was the [@Schafer:
 
 However along with this shift toward employing individuals who had passed through the system of imperial universities - and reducing the number of 'enthusiasts' - who saw themselves as 'educators of society' - came an increase in the number of 'company employees'. In 1917, Motoyama Hikoichi[^moto] had characterised this shift with the following words,
 
-[^moto]: journo at *Osaka Shinpō*, then *Jiji Shinpō*, 1888 reorganised *Osaka Mainichi SB*, became pres in 1903: Advocate of foundation of newspaper studies depts at univs and later president of *Osaka Mainichi* newspaper.[@Schafer:2012 p36n]
+[^moto]: journo at *Osaka Shinpō*, then *Jiji Shinpō*, 1888 reorganised *Osaka Mainichi SB*, became pres in 1903: Advocate of foundation of newspaper studies depts at univs and later president of *Osaka Mainichi* newspaper [@Schafer:2012: 36n].
 
 > a journalist, just like a salaryman of any other profit-oriented company, needs to spare no efforts in favor of his company. [@Schafer:2012: 37, citing @Ono:1971: 52]
 
 The journalist was increasingly seen as primarily a company employee like any other. And the 'Shimbun-gaku' departments established at universities were aimed at providing potential journalists with the requisite knowledge to allow them to gain employment at newspapers on graduation. It took until 1929 for a Tokyo Imperial University to establish a 'Newspaper Research Seminar' as part of its literature department.[@Schafer:2012 p40]
 
-Ono??? was the prime motivator in the establishment of this body, he saw the professional training he sought to offer as a way to push back against the 'degeneration' of the press he perceived in the 1920s, and to raise journalists who would again act as educators of society, ensuring that expert and specialist opinion would be made available to the newspaper's mass audience.[@Schafer:2012 p45--5]
+Ono??? was the prime motivator in the establishment of this body, he saw the professional training he sought to offer as a way to push back against the 'degeneration' of the press he perceived in the 1920s, and to raise journalists who would again act as educators of society, ensuring that expert and specialist opinion would be made available to the newspaper's mass audience [@Schafer:2012 p45--5].
 
 [@Huffman:1997; @Lange:1998]
 
@@ -135,17 +135,26 @@ See parts of...
 
 Indeed, outside employment there is little opportunity for potential journalists in Japan to acquire knowledge, skills and experience of their chosen trade.
 
-As a route to employment an education in journalism can be all but irrelevant, as @Cooper-Chen:1997a [p22] suggest, company recruitment relies on testing general skills (general knowledge, literacy) so a degree from *any* department in a prestigious university may be worth more than specialist knowledge from a less prestigious institution. Theses attitudes and the expectations of media employers - virtually no value attached to any sort of university-based journalistic education [@Fujita:2004 p1] in Japan seems to go back to at least the 1930s [@Uchikawa:2003 p14].
+As a route to employment an education in journalism can be all but irrelevant, as @Cooper-Chen:1997a [: 22] suggest, company recruitment relies on testing general skills (general knowledge, literacy) so a degree from *any* department in a prestigious university may be worth more than specialist knowledge from a less prestigious institution. Theses attitudes and the expectations of media employers - virtually no value attached to any sort of university-based journalistic education [@Fujita:2004: 1] in Japan seems to go back to at least the 1930s [@Uchikawa:2003: 14].
 
-@Fujita:2004 points to changes in the environment as a cause of the growing perception that the 'on-the-job training' (OJT) system was not producing the desired results, this led to a renewed debate about the role of university-based journalist education in Japan in the later 1990s and early 00s - the increasing use of technology at all levels of newspaper production and the increased pressure on workers which left little time for senior reporters to train new staffers.[@Fujita:2004 p3]
+@Fujita:2004 points to changes in the environment as a cause of the growing perception that the 'on-the-job training' (OJT) system was not producing the desired results, this led to a renewed debate about the role of university-based journalist education in Japan in the later 1990s and early 00s - the increasing use of technology at all levels of newspaper production and the increased pressure on workers which left little time for senior reporters to train new staffers.[@Fujita:2004: 3]
 
-This debate took place in reaction to a number of incidents (plagiarism[^plag], invasions of privacy, 'overheated' herd reporting (*media sukuramu*), libel)[@Ikuta:2004 p1]. Ikuta also identifies the pressures of adapting to new technologies as a root cause in the drop in journalistic standards.
+This debate took place in reaction to a number of incidents (plagiarism[^plag], invasions of privacy, 'overheated' herd reporting (*media sukuramu*), libel)[@Ikuta:2004: 1]. Ikuta also identifies the pressures of adapting to new technologies as a root cause in the drop in journalistic standards.
 
-[^plag]: About one-third of an article in the 8 Jun 2000 edition on the *Asahi Shimbun* was found to have been plagiarised from the local *Chugoku Shimbun* by a reporter in the Hiroshima office.[@Shibata:2003 p137]
+[^plag]: About one-third of an article in the 8 Jun 2000 edition on the *Asahi Shimbun* was found to have been plagiarised from the local *Chugoku Shimbun* by a reporter in the Hiroshima office.[@Shibata:2003: 137]
 
-Ikuta describes the actual content of OJT at the +as; new employs spend four or five years at a local office where their development can be overseen trained by experienced reporters, traditionally the local office would be a mix of new, middle career and 'veteran' reporters. However Ikuta argues that this system broke down due to the HR policy of concentrating middle-career reporters in the head offices, which led to an over-reliance on early-career reporters in local bureaus. (ibid. p224/1180)
+Ikuta describes the actual content of OJT at the _+as_; new employs spend four or five years at a local office where their development can be overseen trained by experienced reporters, traditionally the local office would be a mix of new, middle career and 'veteran' reporters. However Ikuta argues that this system broke down due to the HR policy of concentrating middle-career reporters in the head offices, which led to an over-reliance on early-career reporters in local bureaus. (ibid. p224/1180)
 
 A significant effect of a primarily OJT-based system might be that it becomes more difficult to have any external standard (what kind of standard?); if the measure of professionalism is how closely one approximates the work of one's mentor then it is easy for _practical_ understandings of how one does journalism --- rather, how one does the job of journalist --- to become prioritised over how should (according to some exterior abstract measure - whether a code, an exemplar or whatever) journalists set about doing their work. It might also be readily supposed that such a system might turn out to be more 'malleable' from the political sources' point of view with the local (in time and space) understandings of the  necessities of practical reporting being passed on, and thereby taking on the status of 'common sense', within a single generation.
+
+## Employment Structures in Japan
+
+How many people work as journalists in Japan?
+How may do the mainstream mass media employ?
+What are their backgrounds? Who are they?
+
+Average career length?
+Typical career development?
 
 # Living the ideology?
 
@@ -173,7 +182,7 @@ However, the political implications of 'objectivity' and 'balance' are continual
 
 If it is, as @Tuchman:1972 suggests, primarily a 'ritual' through the enactment of which reporters and editors avoid potential censure, it is reasonable to expect - in a media system such as Japan's where there has developed the constant threat of pressure from powerful sources, that achieving 'objectivity' - and therefore insulating oneself from pressure as much as possible - would become a prime concern.
 
-There are also commercial benefits; these were recognised early on by the press is Japan.[@Huffman:1997, p?]
+There are also commercial benefits; these were recognised early on by the press is Japan.[@Huffman:1997: p?]
 
 ## Immediacy
 
