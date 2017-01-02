@@ -95,23 +95,26 @@ What has been the effect of a strong bureaucratic tradition on the role of profe
 
 Japan has a history of journalism stretching back to its emergence from under the control of the Tokugawa Bakufu in the latter decades of the nineteenth century.
 
-Early journalism was often politically sponsored and overtly partial, it was only with the adoption of the 'objective' mass circulation model that the press began to require something like the 'professional' journalist rather than the partisan supporter and advocate of a cause.
+Early journalism was often politically sponsored and overtly partial,
 
-First professional journalists - ?
+the individuals considered the first modern journalists in Japan - Yanagawa Shunsan (1832-70) publisher of the _Chūgai Shimbun_, and Fukuchi Gen'ichiro, well known for his work at the _Tōkyō Nichinichi Shimbun_.[@Huffman:1997: 32] had 'close personal ties to the _bakukfu_ shogunate'[@Schafer:2012, p9]
+
+It was only with the adoption of the 'objective' mass circulation model, and the printing techniques that made them possible, that the press began to require something like the 'professional' journalist rather than the partisan supporter and advocate of a cause.
+
 
 ## Development of journalism as a trade
 
-[@Schafer:2012 p10] 1875: formation of *Shimbun Kisha Rengō* in reaction to increasingly restrictive laws which affected the press and protection against libel.[^law]
+The first move to give form to journalism as a trade in Japan was the [@Schafer:2012 p10] 1875 formation of the Alliance of Newspaper Reporters (*Shimbun Kisha Rengō*) in reaction to increasingly restrictive laws which affected the press and protection against libel.[^law]
 
 [^law]:*shimbunshi jōrei*, *zanbōritsu*
 
-1880s - new university graduates began to move into journalism, numbers increased through the 1920s, economic recession meant a dearth of graduate employment opportunities at a time when the popular press was expanding and looking to increase the quality if its content by employing better educated reporters.[@Schafer:2012 p36]
+1880s - new university graduates began to move into journalism, numbers increased through the 1920s, economic recession meant a dearth of graduate employment opportunities at a time when the popular press was expanding and looking to increase the quality if its content by employing better educated reporters.[@Schafer:2012: 36]
 
 However along with this shift toward employing individuals who had passed through the system of imperial universities - and reducing the number of 'enthusiasts' - who saw themselves as 'educators of society' - came an increase in the number of 'company employees'. In 1917, Motoyama Hikoichi[^moto] had characterised this shift with the following words,
 
 [^moto]: journo at *Osaka Shinpō*, then *Jiji Shinpō*, 1888 reorganised *Osaka Mainichi SB*, became pres in 1903: Advocate of foundation of newspaper studies depts at univs and later president of *Osaka Mainichi* newspaper.[@Schafer:2012 p36n]
 
-> a journalist, just like a salaryman of any other profit-oriented company, needs to spare no efforts in favor of his company. [@Schafer:2012 citing Ono:1971]
+> a journalist, just like a salaryman of any other profit-oriented company, needs to spare no efforts in favor of his company. [@Schafer:2012: 37, citing @Ono:1971: 52]
 
 The journalist was increasingly seen as primarily a company employee like any other. And the 'Shimbun-gaku' departments established at universities were aimed at providing potential journalists with the requisite knowledge to allow them to gain employment at newspapers on graduation. It took until 1929 for a Tokyo Imperial University to establish a 'Newspaper Research Seminar' as part of its literature department.[@Schafer:2012 p40]
 
