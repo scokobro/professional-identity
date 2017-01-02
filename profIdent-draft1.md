@@ -47,7 +47,9 @@ He summarise his experience of talking to various actors within the Japanese mas
 
 <!--  and I hope thes two different tasks [change law, organise] could protect the independence fo the press. -->
 
-Added to this is the fact that the mainstream media in Japan is highly dominant in a very isolated market, Japanese readers, unlike readers of English, do not have the luxury of turning to say the US, Australian or even Russian press for alternative views; Japanese media firms are the pretty much the only producers of Japanese-language news and information. The seven _zenkokushi_ (papers with national daily reach) employ just under 20,000 staff, roughly half of these in editorial [(METI 2015 Report)](http://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h27.html). Between them they have daily sales of roughly 30 million copies, that is they supply daily news to over half of Japan's  roughly 52 million households [(Japan Statistical Yearbook 2017)](http://www.stat.go.jp/english/data/nenkan/66nenkan/index.htm). Add to this the influence of the main news agencies, Kyōdo and Jiji, who supply the bulk of news to local and regionals(CITATION! RAUSCH? [@Rausch:2012]), it can be seen that there is little scope for alternative and 'left-field' voices.[^fail]
+Added to this is the fact that the mainstream media in Japan is highly dominant in a very isolated market, Japanese readers, unlike readers of English, do not have the luxury of turning to say the US, Australian or even Russian press for alternative views; Japanese media firms are the pretty much the only producers of Japanese-language news and information.[^brasil] The seven _zenkokushi_ (papers with national daily reach) employ just under 20,000 staff, roughly half of these in editorial [(METI 2015 Report)](http://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h27.html). Between them they have daily sales of roughly 30 million copies, that is they supply daily news to over half of Japan's  roughly 52 million households [(Japan Statistical Yearbook 2017)](http://www.stat.go.jp/english/data/nenkan/66nenkan/index.htm). Add to this the influence of the main news agencies, Kyōdo and Jiji, who supply the bulk of news to local and regionals(CITATION! RAUSCH? [@Rausch:2012]), it can be seen that there is little scope for alternative and 'left-field' voices.[^fail]
+
+[^brasil]: Some exceptions - such as news sites catering for Japanese diaspora/expat communities in South America, e.g. [http://www.nikkeyshimbun.jp/]
 
 [^fail]: the repeated failures of 'public journalism' and 'citizen reporter' based initiatives also illustrates this dominance, and also perhaps a lack of interest on the part of audiences for 'alternative' sources.
 
@@ -166,7 +168,7 @@ When the broadcasting of television news started on NHK in the 1960s, the newspa
 
 However, the political implications of 'objectivity' and 'balance' are continually debated and have been much criticised(CITATIONS) as a way to avoid the responsibility of making moral judgements and providing useful, informed evaluation of so-called 'facts', which, in many cases, may not be as 'self-explanatory' as they might at first seem.
 
-If it is, as Tuchman [-@Tuchman:1972] suggests, primarily a 'ritual' through the enactment of which reporters and editors avoid potential censure, it is reasonable to expect - in a media system such as Japan's where there is the constant threat of pressure from powerful sources, that achieving 'objectivity' - and therefore insulating oneself from pressure as much as possible - would become a prime concern.
+If it is, as @Tuchman:1972 suggests, primarily a 'ritual' through the enactment of which reporters and editors avoid potential censure, it is reasonable to expect - in a media system such as Japan's where there has developed the constant threat of pressure from powerful sources, that achieving 'objectivity' - and therefore insulating oneself from pressure as much as possible - would become a prime concern.
 
 There are also commercial benefits; these were recognised early on by the press is Japan.[@Huffman:1997, p?]
 
@@ -195,7 +197,29 @@ Then there is the question of industry autonomy from government power. The struc
 
 ### The Broadcast Act{-}
 
-Identified by Kaye as an obvious political pressure point. Takaichi Sanae statements during 2015/6. Kaye suggests some 3rd party regulator equivalent to the US Federal Communications Commission(FCC). Such a body did exist briefly for a few days during the period between the passing of the Broadcast Act and the end of the US occupation, when it was the bodies first and most significant act was to dissolve itself, returning control of broadcasting to a ministry. So while there is a precedent for such a body, it is not altogether a promising one.
+Identified by Kaye as an obvious political pressure point. Takaichi Sanae statements during 2015/6. Kaye suggests some third party regulator equivalent to the US Federal Communications Commission(FCC). Such a body, the Radio Regulatory Commission (RRC), did exist for just over one year during the period between the passing of the Broadcast Act and the end of the US occupation; the body's two most significant acts were to grant a broadcast licence to Japan's first commercial broadcaster, Nippon TV, and then to dissolve itself, returning control of broadcasting to a ministry (at that time the Ministry of Posts, _Yūsei-shō_).[@Ito:2010a, Ch2] So, while there is a precedent for such a body, it is not altogether a promising one.
+
+What are the problems with the Broadcast Act?
+
+#### Article 4{-}
+
+This article is divided into two sections, the first deals with programming content, the second with encouraging broadcasters to provide services for the visually impaired. It is the first section which Kaye refers to.
+
+> (Editing and Other Matters of the Broadcast Programs of Domestic Broadcasting, etc.)
+>
+> The broadcaster shall comply with the matters provided for in the following items when editing the broadcast programs of domestic broadcasting or domestic and international broadcasting (hereinafter referred to as “domestic broadcasting, etc.”):\
+> (i) It shall not harm public safety or good morals;\
+> (ii) It shall be politically fair.\
+> (iii) Its reporting shall not distort the facts;\
+> (iv) It shall clarify the points at issue from as many angles as possible where there are conflicting opinions concerning an issue.
+
+#### Article 174{-}
+
+> (Suspension of Operations)
+> Article 174
+>
+> If the broadcaster (excluding terrestrial basic broadcasters) has violated this Act or an order or disposition based on this Act, the **Minister of Internal Affairs and Communications shall set a period within three months and shall order the suspension of the operations of the broadcasting**. (emphasis added)
+
 
 ### Newspaper Resale System & Antimonopoly Rules {-}
 
@@ -236,11 +260,24 @@ Primarily an industry group. Focussed largely on promoting the business interest
 
 ### Japan Congress of Journalists(JCJ){-}
 
-(Nihon Janarisuto Kaigi)
+(Nihon Jānarisuto Kaigi)
 
 Formed in 1955, currently claims a membership of 800.
 
 Unlikely to be able to perform a uniting role as the focus of it's activity seems to be political rather than journalistic. This is --- however just the causes they choose might seem to be --- likely to alienate journalists who see themselves as being first and foremost 'objective' observers of, and reporters on society.
+
+### Japan P.E.N. Club {-}
+
+More focussed on independent writers with literary aims. Still concerned with 'human rights', 'world peace', 'freedom of speech/expression' etc but not really at the level of the everyday activities of journalists. [P.E.N.](http://www.japanpen.or.jp/about/activity/)
+
+### Specialist Groups
+[JMS - Motorsports](http://www.jms.gr.jp/2sc)
+
+# Conclusions and Summary
+
+Mainstream media companies in Japan have seen their audiences gradually slip away as other forms take their attention, in this sense they are experiencing the same worrying transitions as media in other developed countries. However, the pace of loss has been significantly slower in Japan; newspaper readership is still at over 85 per cent of its 2006 levels(CHECK!!) whereas the US and UK industries have more typically seen declines closer to 40 or 50 per cent. Television audiences are ???
+
+The Japanese media, in the sense that it has managed to preserves itself (as 'business') in the face of competition from new media, is a success. Why would media businesses want to change?
 
 
 
