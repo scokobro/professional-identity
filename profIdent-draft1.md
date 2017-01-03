@@ -1,5 +1,5 @@
 ---
-date: 27 December 2016
+date: 3 January 2017
 style: Article
 bibliography: /Users/spkb/Documents/bibliographies/mybib.bib
 abstract: The role of a professional identity for journalists around the world is part of what allows them to act as the watchdogs on power that society expects. How and where is this identity acquired? Is Japan different? If so does this explain the idiosyncratic nature of journalistic activity in Japan?
