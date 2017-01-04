@@ -42,19 +42,25 @@ David Kaye's visit to Japan in October 2016 confirmed the existence of a sense o
 
 He summarise his experience of talking to various actors within the Japanese mass media system as ...
 
-> the problem is, the system of journalism and the structure of media itself in Japan doesn't seem to afford journalists the ability to push back against government encroachments, and you see this [...] in the example of the _kisha_ club system, we learned about serious concern about senior members of the independent media meeting with senior members of the government, we heard these stories repeatedly, and **I would really encourage journalists to organise themselves, to adopt a professional organisation, a union in effect, in which journalists can express media-wide solidarity**, can perhaps enjoy self-regulation through a press council, in short, the media itself has a role to play, the media itself bears some responsibility for this situation (emphasis added)
+> the problem is, the system of journalism and the structure of media itself in Japan doesn't seem to afford journalists the ability to push back against government encroachments, and you see this [...] in the example of the _kisha_ club[^kk] system, we learned about serious concern about senior members of the independent media meeting with senior members of the government, we heard these stories repeatedly, and **I would really encourage journalists to organise themselves, to adopt a professional organisation, a union in effect, in which journalists can express media-wide solidarity**, can perhaps enjoy self-regulation through a press council, in short, the media itself has a role to play, the media itself bears some responsibility for this situation (emphasis added)
 
-<!--  and I hope thes two different tasks [change law, organise] could protect the independence fo the press. -->
+[^kk]: This paper uses the words 'press club' as a translation of the Japanese term, _kisha kurabu_. However it should be noted that the highest-profile 'press club', the Japan National Press Club, is entirely different from typical _kisha kurabu_ in its aims, membership and journalistic function.
 
-Added to this is the fact that the mainstream media in Japan is highly dominant in a very isolated market, Japanese readers, unlike readers of English, do not have the luxury of turning to say the US, Australian or even Russian press for alternative views; Japanese media firms are the pretty much the only producers of Japanese-language news and information.[^brasil] The seven _zenkokushi_ (papers with national daily reach) employ just under 20,000 staff, roughly half of these in editorial [(METI 2015 Report)](http://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h27.html). Between them they have daily sales of roughly 30 million copies, that is they supply daily news to over half of Japan's  roughly 52 million households [(Japan Statistical Yearbook 2017)](http://www.stat.go.jp/english/data/nenkan/66nenkan/index.htm). Add to this the influence of the main news agencies, Kyōdo and Jiji, who supply the bulk of news to local and regionals(CITATION! RAUSCH? [@Rausch:2012]), it can be seen that there is little scope for alternative and 'left-field' voices.[^fail]
+<!--  and I hope these two different tasks [change law, organise] could protect the independence fo the press. -->
 
-[^brasil]: Some exceptions - such as news sites catering for Japanese diaspora/expat communities in South America, e.g. [http://www.nikkeyshimbun.jp/]
+Added to this is the fact that the mainstream media in Japan is highly dominant in a very isolated market, Japanese readers, unlike readers of English, do not have the luxury of turning to say the US, Australian or even Russian press for alternative views; Japanese media firms are the pretty much the only producers of Japanese-language news and information.[^brasil] The seven _zenkokushi_ (newspapers with national daily reach) employ just under 20,000 staff, about half of these in editorial roles [(METI 2015 Report)](http://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h27.html). Between them they have daily sales of roughly 30 million copies, that is they supply daily news to over half of Japan's 52 million households [(Japan Statistical Yearbook 2017)](http://www.stat.go.jp/english/data/nenkan/66nenkan/index.htm). Add to this the influence of the main news agencies, Kyōdo and Jiji, who supply news to local and regional, newspapers and broadcasters(JMH:2015 - p59) @JMH:2015 (CITATION! RAUSCH? [@Rausch:2012]), it can be seen that there is little scope for alternative and 'left-field' voices.[^fail]
+
+[^brasil]: Some exceptions - such as news sites catering for Japanese diaspora/expat communities in South America, e.g. [http://www.nikkeyshimbun.jp/]. The 海外日系新聞放送協会 OJPA claims 20 members, the majority of whom are based in South America.[OJPA](http://www.jadesas.or.jp/shinbun/) - 4 Jan 2017.
+
+<!--also see - http://www.mofa.go.jp/mofaj/page4_002455.html-->
 
 [^fail]: the repeated failures of 'public journalism' and 'citizen reporter' based initiatives also illustrates this dominance, and also perhaps a lack of interest on the part of audiences for 'alternative' sources.
 
 As far as broadcast news is concerned, the picture is similar; the most watched news program, NHK's 7pm news is regularly watched by 16-17 million people, news on commercial channels brings in combined audiences of over 30 million; the top-rated commercial news show, TV Asahi's _Hōdō Station_, gains in the region of 14 million viewers, NTV's early evening _news every_, about 12 million.[^scr]
 
-[^scr]: This adopts the rough approximation, 1% = 1 million viewers, as suggested by @Torigoe:2002. Figures compiled from Autumn 2016 ratings data - [Video Research](https://www.videor.co.jp/data/ratedata/backnum/2016/index.htm)
+[^scr]: This adopts the rough approximation, 1 per cent = 1 million viewers, as suggested by @Torigoe:2002. Figures compiled from Autumn 2016 ratings data - [Video Research](https://www.videor.co.jp/data/ratedata/backnum/2016/index.htm)
+
+It should be noted that it is these major media companies --- six Tokyo-based television networks, the five major national daily newspapers, and the two national news agencies --- that make up the core 13 members of many of the 'press clubs'.
 
 ## Aims
 
@@ -70,7 +76,7 @@ Are Japanese journalists equipped to push back against the forces that pressure 
 
 This paper will not deal with the influence if the *kisha kurabu* 'press club' system, probably the most widely documented aspect of journalism in Japan, as it has been dealt with extensively  elsewhere [see for example @Freeman:2000; @Iwase:1998], but it is worth summarising the effects of press club journalism; the collective responsibility implied by press club membership leaves the press open to pressure both from peers - to not rock the boat and upset relations with sources - and from sources who can deny access more or less at will. Given the possibilities offered by social media for politicians to simply bypass the main stream media, it is difficult to see how the traditional "balance of power" for control of access (press to politicians, politicians to the public) can be maintained. Japanese politics has been rather late to the social media jamboree with the use of online campaigning in general elections prohibited until 2013, but this will change.[@Osaka:2014, p51]
 
-# Ideology of Journalism
+## Ideology of Journalism
 
 Discussion of the elements of the nature of the journalistic identity has been an integral part of academic understandings of news and news-gatherers since the very early days of the field (eg?). Deuze[-@Deuze:2005] sums up the essential features of what he refers to as the journalistic ideology:
 
@@ -254,7 +260,11 @@ Discussing the reaction of the New Delhi correspondents of the major Japanese me
 > 新聞記者[...]のたいがいの自己認識は、「企業内記者」である。[...] 競争は企業間競争であり、企業の枠や国境を超えたジャーナリストの意識は、弱い。[Kamata in Hanada p 50]
 
 > ここが日本とそれ以外の国のジャーナリストとの大きな違いだ。例えば米国のメディアで働く者は、報道基幹の社員である前に、ひとりのジャーナリストであるという考え方が強い。
-[@Uesugi:2008, p115]
+[@Uesugi:2008: 115]
+
+Uesugi also tells the tale of how an NYT exclusive interview with then Prime Minister Keizo Obuchi, was stymied --- with the collusion of the PM's office --- by the related _kisha kurabu_. The grounds given for the press club's actions were that the NYT was not a member and any interview with the PM could only go ahead once they had made an application to join (which would be refused!) and been accepted (which wouldn't happen!) [@Uesugi:2008: 95--6] The notion that the prime minister should be questioned by the press seems to be of lesser priority than the political-hierarchical position of the press club.
+
+
 
 # Discussion
 
