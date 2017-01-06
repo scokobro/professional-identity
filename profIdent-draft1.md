@@ -46,7 +46,7 @@ He summarise his experience of talking to various actors within the Japanese mas
 
 [^kk]: This paper uses the words 'press club' as a translation of the Japanese term, _kisha kurabu_. However it should be noted that the highest-profile 'press club', the Japan National Press Club, is entirely different from typical _kisha kurabu_ in its aims, membership and journalistic function.
 
-<!--  and I hope these two different tasks [change law, organise] could protect the independence fo the press. -->
+<!--  and I hope these two different tasks [change law, organise] could protect the independence of the press. -->
 
 Added to this is the fact that the mainstream media in Japan is highly dominant in a very isolated market, Japanese readers, unlike readers of English, do not have the luxury of turning to say the US, Australian or even Russian press for alternative views; Japanese media firms are the pretty much the only producers of Japanese-language news and information.[^brasil] The seven _zenkokushi_ (newspapers with national daily reach) employ just under 20,000 staff, about half of these in editorial roles [(METI 2015 Report)](http://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h27.html). Between them they have daily sales of roughly 30 million copies, that is they supply daily news to over half of Japan's 52 million households * *(http://www.stat.go.jp/english/data/nenkan/66nenkan/index.htm). Add to this the influence of the main news agencies, Kyōdo and Jiji, who supply news to local and regional, newspapers and broadcasters(JMH:2015 - p59) @JMH:2015 (CITATION! RAUSCH? [@Rausch:2012]), it can be seen that there is little scope for alternative and 'left-field' voices.[^fail]
 
@@ -66,7 +66,7 @@ It should be noted that it is these major media companies --- six Tokyo-based te
 ## Aims
 
 The question this paper addresses is: Why, given the obvious concern with independence and what Kaye describes as the deep commitment to freedom of speech and expression in Japan, have journalists not organised in the way he describes?
-
+ 
 Also, what of the rumoured 'collectivistic' instincts of Japanese society? Why no collective action from journalists to respond to this common threat?
 
 This paper argues that the root causes of this failure to organise, can be found in a) the nature of the professional education of journalists, and b) the nature of employment structures for journalists in Japan. The effects of these social institutions can be observed manifested as the 'professional ideology' of journalists in Japan, this paper uses certain aspects of this ideology as proposed by Deuze [-@Deuze:2005].
