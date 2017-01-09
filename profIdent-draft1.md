@@ -66,7 +66,7 @@ It should be noted that it is these major media companies --- six Tokyo-based te
 ## Aims
 
 The question this paper addresses is: Why, given the obvious concern with independence and what Kaye describes as the deep commitment to freedom of speech and expression in Japan, have journalists not organised in the way he describes?
- 
+
 Also, what of the rumoured 'collectivistic' instincts of Japanese society? Why no collective action from journalists to respond to this common threat?
 
 This paper argues that the root causes of this failure to organise, can be found in a) the nature of the professional education of journalists, and b) the nature of employment structures for journalists in Japan. The effects of these social institutions can be observed manifested as the 'professional ideology' of journalists in Japan, this paper uses certain aspects of this ideology as proposed by Deuze [-@Deuze:2005].
@@ -298,13 +298,18 @@ More focussed on independent writers with literary aims. Still concerned with 'h
 
 # Conclusions and Summary
 
-Mainstream media companies in Japan have seen their audiences gradually slip away as other forms take their attention, in this sense they are experiencing the same worrying transitions as media in other developed countries. However, the pace of loss has been significantly slower in Japan; newspaper readership is still at over 85 per cent of its 2006 levels(CHECK!!) whereas the US and UK industries have more typically seen declines closer to 40 or 50 per cent. Television audiences are ???
+Mainstream media companies in Japan have seen their audiences gradually slip away as other forms take their attention, in this sense they are experiencing the same worrying transitions as media in other developed countries. However, the pace of loss has been significantly slower in Japan; newspaper readership is still at over 80 per cent of its 2001 levels(CHECK!!) whereas the US and UK industries have more typically seen declines closer to 30(US) or even 50 per cent, for the UK industry. Television audiences are ???
+
+![](./circulation-2001-15-JP-US-UK.png)
+
+: **Figure N:** Relative decline in daily national newspaper circulation in Japan, the US and the UK, 2001-2015 (Oct 2001=1). Data Sources: Nihon Kyōkai (NSK) website, UK ABCs (Guardian Newspaper website), Newspaper Association of America (latest NAA data available is for 2014).
 
 The Japanese media, in the sense that it has managed to preserves itself (as 'business') in the face of competition from new media, is a success. Why would media businesses want to change?
 
 
 
 # References
+
 
 [^guide]: 新聞倫理綱領\
 2000（平成12）年6月21日制定\
