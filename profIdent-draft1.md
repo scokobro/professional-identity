@@ -1,5 +1,5 @@
 ---
-date: 3 January 2017
+date: 10 January 2017
 style: Article
 bibliography: /Users/spkb/Documents/bibliographies/mybib.bib
 abstract: The role of a professional identity for journalists around the world is part of what allows them to act as the watchdogs on power that society expects. How and where is this identity acquired? Is Japan different? If so does this explain the idiosyncratic nature of journalistic activity in Japan?
@@ -144,6 +144,8 @@ Indeed, outside employment there is little opportunity for potential journalists
 
 As a route to employment an education in journalism can be all but irrelevant, as @Cooper-Chen:1997a [: 22] suggest, company recruitment relies on testing general skills (general knowledge, literacy) so a degree from *any* department in a prestigious university may be worth more than specialist knowledge from a less prestigious institution. Theses attitudes and the expectations of media employers - virtually no value attached to any sort of university-based journalistic education [@Fujita:2004: 1] in Japan seems to go back to at least the 1930s [@Uchikawa:2003: 14].
 
+@Willnat:2013 [167] found that over 95 per cent of journalists in Japan had a college degree, among the highest rate of countries surveyed, yet the proportion of those with a degree specifically in journalism was the second lowest at just 15 per cent. Japan also had the oldest average age for journalists at 53, seeming to indicate that, unlike many other countries, journalists in Japan tend to stay in their work longer.
+
 @Fujita:2004 points to changes in the environment as a cause of the growing perception that the 'on-the-job training' (OJT) system was not producing the desired results, this led to a renewed debate about the role of university-based journalist education in Japan in the later 1990s and early 00s - the increasing use of technology at all levels of newspaper production and the increased pressure on workers which left little time for senior reporters to train new staffers.[@Fujita:2004: 3]
 
 This debate took place in reaction to a number of incidents (plagiarism[^plag], invasions of privacy, 'overheated' herd reporting (*media sukuramu*), libel)[@Ikuta:2004: 1]. Ikuta also identifies the pressures of adapting to new technologies as a root cause in the drop in journalistic standards.
@@ -161,9 +163,18 @@ How may do the mainstream mass media employ?
 What are their backgrounds? Who are they?
 
 Average career length?
+
 Typical career development?
 
+_Tenshoku_?
+
+
 # Living the ideology?
+
+Deal with whether journalism is a profession? Greenwood, Tumber etc.
+May exhibit different levels of professionalisation in different systems, so perhaps a matter of degree rather than anything else.
+
+> Greenwood’s five attributes of a profession – systematic theory; authority; community sanction; ethical codes; and a culture (Greenwood:1957)
 
 This section surveys how the five aspects of the journalistic ideology outlined by Deuze(see above) are materialised in Japan; it concentrates on 'ethics' and 'autonomy' as areas which can be seen to have a particularly significant impact on journalistic practise.
 
