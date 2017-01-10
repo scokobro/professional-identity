@@ -44,11 +44,15 @@ He summarise his experience of talking to various actors within the Japanese mas
 
 > the problem is, the system of journalism and the structure of media itself in Japan doesn't seem to afford journalists the ability to push back against government encroachments, and you see this [...] in the example of the _kisha_ club[^kk] system, we learned about serious concern about senior members of the independent media meeting with senior members of the government, we heard these stories repeatedly, and **I would really encourage journalists to organise themselves, to adopt a professional organisation, a union in effect, in which journalists can express media-wide solidarity**, can perhaps enjoy self-regulation through a press council, in short, the media itself has a role to play, the media itself bears some responsibility for this situation (emphasis added)
 
-[^kk]: This paper uses the words 'press club' as a translation of the Japanese term, _kisha kurabu_. However it should be noted that the highest-profile 'press club', the Japan National Press Club, is entirely different from typical _kisha kurabu_ in its aims, membership and journalistic function.
+[^kk]: This paper uses the words 'press club' as a translation of the Japanese term, _kisha kurabu_. However it should be noted that the highest-profile 'press club', the Japan National Press Club (in Japanese, _Nihon Kisha Kurabu_), is entirely different from typical _kisha kurabu_ in its aims, membership and journalistic function.
 
 <!--  and I hope these two different tasks [change law, organise] could protect the independence of the press. -->
 
-Added to this is the fact that the mainstream media in Japan is highly dominant in a very isolated market, Japanese readers, unlike readers of English, do not have the luxury of turning to say the US, Australian or even Russian press for alternative views; Japanese media firms are the pretty much the only producers of Japanese-language news and information.[^brasil] The seven _zenkokushi_ (newspapers with national daily reach) employ just under 20,000 staff, about half of these in editorial roles [(METI 2015 Report)](http://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h27.html). Between them they have daily sales of roughly 30 million copies, that is they supply daily news to over half of Japan's 52 million households (http://www.stat.go.jp/english/data/nenkan/66nenkan/index.htm). Add to this the influence of the main news agencies, Kyōdo and Jiji, who supply news to local and regional, newspapers and broadcasters(JMH:2015 - p59) @JMH:2015 (CITATION! RAUSCH? [@Rausch:2012]), it can be seen that there is little scope for alternative and 'left-field' voices.[^fail]
+Added to this is the fact that the mainstream media in Japan is highly dominant in a very isolated market, Japanese readers, unlike readers of English, do not have the luxury of turning to say the US, Australian or even Russian press for alternative views; Japanese media firms are the pretty much the only producers of Japanese-language news and information.[^brasil] The seven _zenkokushi_ (newspapers with national daily reach) employ just under 20,000 staff, about half of these in editorial roles [(METI 2015 Report)](http://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h27.html). Between them they have daily sales of roughly 30 million copies, that is they supply daily news to over half of Japan's 52 million households (http://www.stat.go.jp/english/data/nenkan/66nenkan/index.htm). Add to this the influence of the main news agencies, Kyōdo and Jiji, who supply news to newspapers, and radio and television broadcasters(JMH:2015 - p59) @JMH:2015 (CITATION! RAUSCH? [@Rausch:2012]), it can be seen that there is little scope for alternative and 'left-field' voices.[^fail] Kyodo claim over 170[^kyod] national outlets as clients, Jiji another 140[^jiji].
+
+[^kyod]: http://www.kyodonews.jp/company/members.html
+
+[^jiji]: http://www.jiji.com/c_profile/about_us.html
 
 [^brasil]: Some exceptions - such as news sites catering for Japanese overseas communities in Asia and the Americas, e.g. [http://www.nikkeyshimbun.jp/]. The 海外日系新聞放送協会 OJPA claims 20 members, the majority of whom are based in South America.[OJPA](http://www.jadesas.or.jp/shinbun/) - 4 Jan 2017.
 
@@ -140,6 +144,8 @@ See parts of...
 
 [@Cooper-Chen:1997a; @Fujita:2004; @Hanada:2003; @Hashimoto:2003a; @Ikuta:2004; @IwabuchiY:2004; @Tsukamoto:1993; @Tsukamoto:2006]
 
+Also refer to @Aldridge:2003.
+
 Indeed, outside employment there is little opportunity for potential journalists in Japan to acquire knowledge, skills and experience of their chosen trade.
 
 As a route to employment an education in journalism can be all but irrelevant, as @Cooper-Chen:1997a [: 22] suggest, company recruitment relies on testing general skills (general knowledge, literacy) so a degree from *any* department in a prestigious university may be worth more than specialist knowledge from a less prestigious institution. Theses attitudes and the expectations of media employers - virtually no value attached to any sort of university-based journalistic education [@Fujita:2004: 1] in Japan seems to go back to at least the 1930s [@Uchikawa:2003: 14].
@@ -214,7 +220,7 @@ The importance of immediacy for the printed press - the discourse of newspaperin
 
 What is it that allows the journalist this autonomy? Identity as a professional that extends beyond the fact that they work for a company which 'does news'. Basis for maintaining the 'chinese wall' between business and editorial, insulation from source pressure etc.
 
-The Japanese journalist, as a result of the diversity of educational backgrounds - surely a strength in terms of diversity of knowledge - lack any external power base (see article in Tumber!);
+The Japanese journalist, as a result of the diversity of educational backgrounds - surely a strength in terms of diversity of knowledge - lack a strong external power base [@Soloski:1989, 212--3]
 
 To be autonomous invites suspicion - to be outside a publicly legitimised organisation - the reputation of trades unions, other than the 'company unions' prevalent across much of Japanese industry is as 'trouble makers obsessed with Marxist doctrine'(CHECK!) - is to lose a credibility and social trust. Thus, without some sort of legitimate (by whose standards?) body to which they can refer, journalists are effectively restricted to acting within the bounds of the vertical company-based structure. The 'media-wide' cooperation that David Kaye referred to necessary to effect a concerted push back against top-down pressure is near impossible.
 
@@ -276,8 +282,6 @@ Discussing the reaction of the New Delhi correspondents of the major Japanese me
 
 Uesugi also tells the tale of how an NYT exclusive interview with then Prime Minister Keizo Obuchi, was stymied --- with the collusion of the PM's office --- by the related _kisha kurabu_. The grounds given for the press club's actions were that the NYT was not a member and any interview with the PM could only go ahead once they had made an application to join (which would be refused!) and been accepted (which wouldn't happen!) [@Uesugi:2008: 95--6] The notion that the prime minister should be questioned by the press seems to be of lesser priority than the political-hierarchical position of the press club.
 
-
-
 # Discussion
 
 Inability of J press to act for common good: Yamashita India Emergency anecdote [@Yamashita:1996, p35--6], also perhaps the profusion of microphones that one sees in front of speakers at a press conference in Japan[^mike] attest the unwillingness (lack of desire) of Japanese media companies to cooperate, even where the benefits are obvious, and the gains from non-cooperation negligible to nil.
@@ -285,6 +289,8 @@ Inability of J press to act for common good: Yamashita India Emergency anecdote 
 [^mike]: It is common practise in many countries for the host of the press conference to provide feeds of the main microphone audio to all camera crews via a 'break-out box' positioned near to the designated camera position. Among other advantages to this system is that it helps reduce visual clutter in front of the speaker.
 
 Does the newspaper press prefer a long decline into oblivion to any effort to reform?  Backward-looking, attempt to revert to golden era, rather than dealing with a changed world and being pro-active in defining a new and relevant role.
+
+Some kind of equivalent of the National Council for the Training of Journalists [(NCTJ)](http://www.nctj.com/) ?
 
 ## Non-company journalistic groups
 
@@ -307,17 +313,19 @@ More focussed on independent writers with literary aims. Still concerned with 'h
 ### Specialist Groups
 [JMS - Motorsports](http://www.jms.gr.jp/2sc)
 
+
+
 # Conclusions and Summary
 
 Mainstream media companies in Japan have seen their audiences gradually slip away as other forms take their attention, in this sense they are experiencing the same worrying transitions as media in other developed countries. However, the pace of loss has been significantly slower in Japan; newspaper readership is still at over 80 per cent of its 2001 levels(CHECK!!) whereas the US and UK industries have more typically seen declines closer to 30(US) or even 50 per cent, for the UK industry. Television audiences are ???
 
 ![](./circulation-2001-15-JP-US-UK.png)
 
-: **Figure N:** Relative decline in daily national newspaper circulation in Japan, the US and the UK, 2001-2015 (Oct 2001=1). Data Sources: Nihon Kyōkai (NSK) website, UK ABCs (Guardian Newspaper website), Newspaper Association of America (latest NAA data available is for 2014).
+: **Figure N:** Relative decline in daily national newspaper circulation in Japan, the US and the UK, 2001-2015 (Oct 2001=1). Data Sources: Nihon Shimbun Kyōkai (NSK) website, UK ABCs (Guardian Newspaper website), Newspaper Association of America (latest NAA data available is for 2014).
 
 The Japanese media, in the sense that it has managed to preserves itself (as 'business') in the face of competition from new media, is a success. Why would media businesses want to change?
 
-
+Another aspect worth considering is the fact that newswork is becoming increasingly desk-bound, meaning journalists have less contact with people outside their own organisation.(CITATIONS)
 
 # References
 
