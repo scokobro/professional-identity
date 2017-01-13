@@ -2,6 +2,7 @@
 date: 10 January 2017
 style: Article
 bibliography: /Users/spkb/Documents/bibliographies/mybib.bib
+csl: /Users/spkb/Documents/bibliographies/apa6.csl
 abstract: The role of a professional identity for journalists around the world is part of what allows them to act as the watchdogs on power that society expects. How and where is this identity acquired? Is Japan different? If so does this explain the idiosyncratic nature of journalistic activity in Japan?
 title: Professional Identity, Press freedom and Journalism in Japan
 +as: Asahi Shimbun
@@ -237,6 +238,8 @@ Identified by Kaye as an obvious political pressure point. Takaichi Sanae statem
 
 What are the problems with the Broadcast Act?
 
+According to arguments put forward in _Hōsō Ripōto_ the government may not actually be able to use the Broadcast Act in this way.(HR 263+64)
+
 #### Article 4{-}
 
 This article is divided into two sections, the first deals with programming content, the second with encouraging broadcasters to provide services for the visually impaired. It is the first section which Kaye refers to.
@@ -292,6 +295,10 @@ Does the newspaper press prefer a long decline into oblivion to any effort to re
 
 Some kind of equivalent of the National Council for the Training of Journalists [(NCTJ)](http://www.nctj.com/) ?
 
+## Broadcasting: Legal Reform ##
+
+Kaye suggested that one of the root problems impinging on the freedom of television news broadcasting in Japan is the structure of regulation embedded in the Broadcast Law and the _Denpa-hō_. It is worth looking at how this structure developed and why it poses the potential 'pressure point' Kaye points to.
+
 ## Non-company journalistic groups
 
 ### JNPEA - Nihon Shimbun Kyōkai {-}
@@ -310,6 +317,12 @@ Unlikely to be able to perform a uniting role as the focus of it's activity seem
 
 More focussed on independent writers with literary aims. Still concerned with 'human rights', 'world peace', 'freedom of speech/expression' etc but not really at the level of the everyday activities of journalists. [P.E.N.](http://www.japanpen.or.jp/about/activity/)
 
+International solidarity? Might this provide the impetus for Japan's journalists to organise?
+
+International P.E.N.?
+
+Parochialism rampant, seems unlikely that this would happen in any significant way. Media companies are almost exclusively focussed on domestic matters and have few interests outside Japan. If Uesugi's experiences, as a Japanese working for the foreign press in Tokyo, are anything to go by, relations between domestic journalists and foreign correspondents are characterised by mutual misunderstanding, distrust and, at least on the Japanese side, a feeling that all foreign reporters do is rock the boat, upsetting the comfortable and painstakingly cultivated reporter-source relationships essential to much reporting in Japan. @Uesugi:2008 [92--8]
+
 ### Specialist Groups
 [JMS - Motorsports](http://www.jms.gr.jp/2sc)
 
@@ -321,7 +334,7 @@ Mainstream media companies in Japan have seen their audiences gradually slip awa
 
 ![](./circulation-2001-15-JP-US-UK.png)
 
-: **Figure N:** Relative decline in daily national newspaper circulation in Japan, the US and the UK, 2001-2015 (Oct 2001=1). Data Sources: Nihon Shimbun Kyōkai (NSK) website, UK ABCs (Guardian Newspaper website), Newspaper Association of America (latest NAA data available is for 2014).
+: **Figure N:** Relative decline in daily national newspaper circulation in Japan, the US and the UK, 2001-2015 (Oct 2001=1). Data Sources: _Nihon Shimbun Kyōkai_ (NSK) website, UK ABCs (Guardian Newspaper website), Newspaper Association of America (latest NAA data available is for 2014).
 
 The Japanese media, in the sense that it has managed to preserves itself (as 'business') in the face of competition from new media, is a success. Why would media businesses want to change?
 
