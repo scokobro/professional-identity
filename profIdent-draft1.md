@@ -19,11 +19,11 @@ Japan has fallen down the press freedom rankings over the past few years, in par
 
 it's still up there in the 'free' zone but at the lowest level since the series began in 2002, such a rapid fall, from 11 in 2010 to 72 just six years later - should be cause for concern. WHY??
 
-: **Table 1:** Reporters without Borders (https://rsf.org/en/ranking) N.B. the ranking combined the 2011-2012 ratings in one figure, this has been graphed as 2012 below.
+<!-- : **Table 1:** Reporters without Borders (https://rsf.org/en/ranking) N.B. the ranking combined the 2011-2012 ratings in one figure, this has been graphed as 2012 below.
 
 | 2009 | 2010 | 2011/12 | 2013 | 2014 | 2015 | 2016 |
 |-----:|-----:|--------:|-----:|-----:|-----:|-----:|
-|   17 |   11 |      22 |   53 |   59 |   61 |   72 |
+|   17 |   11 |      22 |   53 |   59 |   61 |   72 | -->
 
 
 ![](./rsf-ranking-japan2.png)
@@ -71,6 +71,8 @@ It should be noted that it is these major media companies --- six Tokyo-based te
 ## Aims
 
 The question this paper addresses is: Why, given the obvious concern with independence and what Kaye describes as the deep commitment to freedom of speech and expression in Japan, have journalists not organised in the way he describes?
+
+Also review bodies which have existed in Japan for reporters and those involved in news. Brief review of reporting organisations.
 
 Also, what of the rumoured 'collectivistic' instincts of Japanese society? Why no collective action from journalists to respond to this common threat?
 
@@ -317,9 +319,19 @@ Unlikely to be able to perform a uniting role as the focus of it's activity seem
 
 More focussed on independent writers with literary aims. Still concerned with 'human rights', 'world peace', 'freedom of speech/expression' etc but not really at the level of the everyday activities of journalists. [P.E.N.](http://www.japanpen.or.jp/about/activity/)
 
-International solidarity? Might this provide the impetus for Japan's journalists to organise?
+### International solidarity {-}
+
+Might this provide the impetus for Japan's journalists to organise?
+
+Representatives from Japan attended the 4th International Press Congress, held in Stockholm in 1897 (Nordenstreng and newspaper reports)
 
 International P.E.N.?
+
+[IFJ](http://www.ifj.org/en/members/asia-pacific/#c652)? (Minporen (commercial tv company unions), +sb Rōren (Newspaper company workers unions), [Nippōrō](http://www.nipporo.com/) (NHK Non-management Union, about 7000 people, 70% of NHK workers) are member organisations)
+
+IOJ? - Association of Korean Journalists in Japan was a member in 1966 - now... who knows
+
+[IPI](http://ipi.media/national-committees/)- represented by head of NSK. Kojiro Shiraishi, head of NSK, president of Yomiuri Newspaper.
 
 Parochialism rampant, seems unlikely that this would happen in any significant way. Media companies are almost exclusively focussed on domestic matters and have few interests outside Japan. If Uesugi's experiences, as a Japanese working for the foreign press in Tokyo, are anything to go by, relations between domestic journalists and foreign correspondents are characterised by mutual misunderstanding, distrust and, at least on the Japanese side, a feeling that all foreign reporters do is rock the boat, upsetting the comfortable and painstakingly cultivated reporter-source relationships essential to much reporting in Japan. @Uesugi:2008 [92--8]
 
