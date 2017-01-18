@@ -1,0 +1,1 @@
+panzer -t odt -o /Users/spkb/Library/Mobile\ Documents/com~apple~CloudDocs/MyPapers/professional-identity/draft.odt /Users/spkb/Library/Mobile\ Documents/com~apple~CloudDocs/MyPapers/professional-identity/profIdent-draft1.md

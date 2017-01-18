@@ -36,7 +36,6 @@ it's still up there in the 'free' zone but at the lowest level since the series 
 | 35| 33| 32| 25/100| 26/100|
 -->
 
-
 David Kaye's visit to Japan in October 2016 confirmed the existence of a sense of uneasiness within the Japanese press, particularly with regards to its ability to maintain an attitude of independence toward a government taking an increasingly proactive approach to 'press management'. During a press conference at the end of his visit, the UN Special Rapporteur reported journalists concerns in these terms;
 
 > quote 1
@@ -176,7 +175,6 @@ Average career length?
 Typical career development?
 
 _Tenshoku_?
-
 
 # Living the ideology?
 
