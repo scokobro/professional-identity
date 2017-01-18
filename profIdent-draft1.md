@@ -11,7 +11,7 @@ title: Professional Identity, Press freedom and Journalism in Japan
 
 # Introduction #
 
-Japan has fallen down the press freedom rankings over the past few years, in particular the drop in the ranking from 2010-11/12 - in the aftermath of the Fukushima Dai-ichi nuclear disaster - reported as being in part due to complaints from freelance journalists that
+Japan is home to a vigorous national and local press, levels of newspaper readership have traditionally been high, and they remain so, yet despite this apparent vigour  Japan has fallen down the press freedom rankings over the past few years, in particular the drop in the ranking from 2010-11/12 - in the aftermath of the Fukushima Dai-ichi nuclear disaster - reported as being in part due to complaints from freelance journalists that
 
 > public debate was being stifled [and was] subjected to censorship, police intimidation and judicial harassment.[^rsf]
 
@@ -36,19 +36,21 @@ it's still up there in the 'free' zone but at the lowest level since the series 
 | 35| 33| 32| 25/100| 26/100|
 -->
 
-David Kaye's visit to Japan in October 2016 confirmed the existence of a sense of uneasiness within the Japanese press, particularly with regards to its ability to maintain an attitude of independence toward a government taking an increasingly proactive approach to 'press management'. During a press conference at the end of his visit, the UN Special Rapporteur reported journalists concerns in these terms;
+The UN Special Rapporteur on freedom of expression, David Kaye, visited Japan in October 2016, he confirmed the existence of a sense of unease within the Japanese press, particularly with regards to its ability to maintain an attitude of independence toward a government taking an increasingly proactive approach to 'press management'. During a press conference at the end of his visit, Kaye reported journalists concerns in the following terms;
 
 > quote 1
 
-He summarise his experience of talking to various actors within the Japanese mass media system as ...
+He summarised his experience of talking to various actors within the Japanese mass media system as ...
 
-> the problem is, the system of journalism and the structure of media itself in Japan doesn't seem to afford journalists the ability to push back against government encroachments, and you see this [...] in the example of the _kisha_ club[^kk] system, we learned about serious concern about senior members of the independent media meeting with senior members of the government, we heard these stories repeatedly, and **I would really encourage journalists to organise themselves, to adopt a professional organisation, a union in effect, in which journalists can express media-wide solidarity**, can perhaps enjoy self-regulation through a press council, in short, the media itself has a role to play, the media itself bears some responsibility for this situation (emphasis added)
+> the problem is, the system of journalism and **the structure of media itself in Japan** doesn't seem to afford journalists the ability to push back against government encroachments, and you see this [...] in the example of the _kisha_ club[^kk] system, we learned about serious concern about senior members of the independent media meeting with senior members of the government, we heard these stories repeatedly, and **I would really encourage journalists to organise themselves, to adopt a professional organisation, a union in effect, in which journalists can express media-wide solidarity**, can perhaps enjoy self-regulation through a press council, in short, the media itself has a role to play, the media itself bears some responsibility for this situation (emphasis added)
 
 [^kk]: This paper uses the words 'press club' as a translation of the Japanese term, _kisha kurabu_. However it should be noted that the highest-profile 'press club', the Japan National Press Club (in Japanese, _Nihon Kisha Kurabu_), is entirely different from typical _kisha kurabu_ in its aims, membership and journalistic function.
 
 <!--  and I hope these two different tasks [change law, organise] could protect the independence of the press. -->
 
-Added to this is the fact that the mainstream media in Japan is highly dominant in a very isolated market, Japanese readers, unlike readers of English, do not have the luxury of turning to say the US, Australian or even Russian press for alternative views; Japanese media firms are the pretty much the only producers of Japanese-language news and information.[^brasil] The seven _zenkokushi_ (newspapers with national daily reach) employ just under 20,000 staff, about half of these in editorial roles [(METI 2015 Report)](http://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h27.html). Between them they have daily sales of roughly 30 million copies, that is they supply daily news to over half of Japan's 52 million households (http://www.stat.go.jp/english/data/nenkan/66nenkan/index.htm). Add to this the influence of the main news agencies, Kyōdo and Jiji, who supply news to newspapers, and radio and television broadcasters(JMH:2015 - p59) @JMH:2015 (CITATION! RAUSCH? [@Rausch:2012]), it can be seen that there is little scope for alternative and 'left-field' voices.[^fail] Kyodo claim over 170[^kyod] national outlets as clients, Jiji another 140[^jiji].
+This paper reviews the structures that Kaye identifies as being inimical to journalistic autonomy and the difficulties which stand in the way of any professional-level organisation.
+
+Japan must be understood as a (in this case genuine) special case: The mainstream media in Japan is highly dominant in a very isolated market, Japanese readers, unlike readers of English, do not have the luxury of turning to say the US, Australian or even Russian press for alternative views; Japanese media firms are the pretty much the only producers of Japanese-language news and information.[^brasil] The seven _zenkokushi_ (newspapers with national daily reach) employ just under 20,000 staff, about half of these in editorial roles [(METI 2015 Report)](http://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h27.html). Between them they have daily sales of roughly 30 million copies, that is they supply daily news to over half of Japan's 52 million households (http://www.stat.go.jp/english/data/nenkan/66nenkan/index.htm). Add to this the influence of the main news agencies, Kyōdo and Jiji, who supply news to newspapers, and radio and television broadcasters(JMH:2015 - p59) @JMH:2015 (CITATION! RAUSCH? [@Rausch:2012]), it can be seen that there is little scope for alternative and 'left-field' voices.[^fail] Kyodo claim over 170[^kyod] national outlets as clients, Jiji another 140[^jiji].
 
 [^kyod]: http://www.kyodonews.jp/company/members.html
 
@@ -60,6 +62,8 @@ Added to this is the fact that the mainstream media in Japan is highly dominant 
 kyodo members - http://www.kyodonews.jp/company/members.html-->
 
 [^fail]: the repeated failures of 'public journalism' and 'citizen reporter' based initiatives also illustrates this dominance, and also perhaps a lack of interest on the part of audiences for 'alternative' sources.
+
+Thus the structures that shape the way the mainstream media report events, and in which the mainstream press is particularly implicated, matters deeply.<!--2051_18–01-->
 
 As far as broadcast news is concerned, the picture is similar; the most watched news program, NHK's 7pm news is regularly watched by 16-17 million people, news on commercial channels brings in combined audiences of over 30 million; the top-rated commercial news show, TV Asahi's _Hōdō Station_, gains in the region of 14 million viewers, NTV's early evening _news every_, about 12 million.[^scr]
 
