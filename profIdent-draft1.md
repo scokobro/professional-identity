@@ -11,7 +11,9 @@ title: Professional Identity, Press freedom and Journalism in Japan
 
 # Introduction #
 
-Japan is home to a vigorous national and local press, levels of newspaper readership have traditionally been high, and they remain so, yet despite this apparent vigour  Japan has fallen down the press freedom rankings over the past few years, in particular the drop in the ranking from 2010-11/12 - in the aftermath of the Fukushima Dai-ichi nuclear disaster - reported as being in part due to complaints from freelance journalists that
+Japan is home to a vigorous press, both national and local, levels of newspaper readership have traditionally been high, and they remain so, yet despite its apparently healthy state Japan has fallen down the press freedom rankings over the past few years, in particular the drop in the ranking from 2010-11/12 - in the aftermath of the Fukushima Dai-ichi nuclear disaster. While the industry as a whole seems to be healthier than many around the developed world, Japanese journalism, and the journalists that produce it, is in a rather less confident mood. <!--2220_18–01-->
+
+ After Fukushima drops in ranking were reported as being in part due to complaints from freelance journalists that
 
 > public debate was being stifled [and was] subjected to censorship, police intimidation and judicial harassment.[^rsf]
 
@@ -108,6 +110,8 @@ What has been the effect of a strong bureaucratic tradition on the role of profe
 *THIS IS WHAT I LOOK AT HERE*
 
 # Journalism in Japan #
+
+**LIT REVIEW in here**
 
 Japan has a history of journalism stretching back to its emergence from under the control of the Tokugawa Bakufu in the latter decades of the nineteenth century.
 
