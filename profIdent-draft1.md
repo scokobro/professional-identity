@@ -28,7 +28,7 @@ it's still up there in the 'free' zone but at the lowest level since the series 
 |   17 |   11 |      22 |   53 |   59 |   61 |   72 | -->
 
 
-![](./rsf-ranking-japan2.png)
+![](/Users/spkb/pix/rsf-ranking-japan2.png){ height=200px }
 
 : **Figure 1:** Reporters Sans Frontiéres Press Freedom rankings for Japan since 2002, red line shows 3-period moving average.
 
@@ -348,9 +348,11 @@ Parochialism rampant, seems unlikely that this would happen in any significant w
 
 # Conclusions and Summary
 
-Mainstream media companies in Japan have seen their audiences gradually slip away as other forms take their attention, in this sense they are experiencing the same worrying transitions as media in other developed countries. However, the pace of loss has been significantly slower in Japan; newspaper readership is still at over 80 per cent of its 2001 levels(CHECK!!) whereas the US and UK industries have more typically seen declines closer to 30(US) or even 50 per cent, for the UK industry. Television audiences are ???
+Mainstream media companies in Japan have seen their audiences gradually slip away as other forms take their attention, in this sense they are experiencing the same worrying transitions as media in other developed countries. However, the pace of loss has been significantly slower in Japan; newspaper readership is still at over 80 per cent of its 2001 levels whereas the US and UK industries have more typically seen declines closer to 30 per cent, for the US or even 50 per cent, for the UK industry. For press-as-business then, any talk of crisis seems overblown, and without crisis continuity will prevail.<!--0708_19–01-->
 
-![](./circulation-2001-15-JP-US-UK.png)
+Television audiences are ???
+
+![](/Users/spkb/pix/circulation-2001-15-JP-US-UK.png){ height=200px }
 
 : **Figure N:** Relative decline in daily national newspaper circulation in Japan, the US and the UK, 2001-2015 (Oct 2001=1). Data Sources: _Nihon Shimbun Kyōkai_ (NSK) website, UK ABCs (Guardian Newspaper website), Newspaper Association of America (latest NAA data available is for 2014).
 
