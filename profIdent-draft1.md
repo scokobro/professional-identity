@@ -77,13 +77,15 @@ It should be noted that it is these major media companies --- six Tokyo-based te
 
 ## Aims
 
-The question this paper addresses is: Why, given the obvious concern with independence and what Kaye describes as the deep commitment to freedom of speech and expression in Japan, have journalists not organised in the way he describes?
+Ultimately the question this paper seeks to address is: Why, given the obvious concern with independence and what Kaye describes as the deep commitment to freedom of speech and expression in Japan, and the obvious concern of many journalists, have news-workers in Japan not organised in the way he suggests?
 
 Also review bodies which have existed in Japan for reporters and those involved in news. Brief review of reporting organisations.
 
-Also, what of the rumoured 'collectivistic' instincts of Japanese society? Why no collective action from journalists to respond to this common threat? ANSWER: collectivism seems to revolve primarily around the most concrete of structures, thus the firm trumps any abstract idea such as a 'profession' or 'society' - you don't get a membership card for those they are a matter of self-identification rather than formal membership.<!--1655_29–01-->
+Also, what of the rumoured 'collectivistic' instincts of Japanese society? Why no collective action from journalists to respond to this common threat? ANSWER: collectivism seems to revolve primarily around the most concrete of structures, thus the firm trumps any abstract idea such as a 'profession' or 'society' - you don't get a membership card for those they are a matter of self-identification rather than formal membership.<!--1655_29–01--> **try matsumoto - New Japan as source?**
 
-This paper argues that the root causes of this failure to organise, can be found in a) the nature of the professional education of journalists, and b) the nature of employment structures for journalists in Japan. The effects of these social institutions can be observed manifested as the 'professional ideology' of journalists in Japan, this paper uses certain aspects of this ideology as proposed by Deuze [-@Deuze:2005].
+REMEMBER: **'systems' and 'structures'**
+
+This paper argues that the root causes of this failure to organise, can be found in a) the nature of the professional education of journalists, and b) the nature of employment structures for journalists in Japan. The effects of these social institutions can be observed manifested as the 'professional ideology' of journalists in Japan, this paper uses certain aspects of this ideology as proposed by @Deuze:2005.
 
 This has led to a situation where reporter identity is centred on entities - companies as employers - which are required (at least as far as rhetoric is concerned) to be in a relationship of 'fierce competition'.
 
