@@ -172,7 +172,9 @@ This debate took place in reaction to a number of incidents (plagiarism[^plag], 
 
 [^plag]: About one-third of an article in the 8 Jun 2000 edition on the *Asahi Shimbun* was found to have been plagiarised from the local *Chugoku Shimbun* by a reporter in the Hiroshima office.[@Shibata:2003: 137]
 
-Ikuta describes the actual content of OJT at the _+as_; new employs spend four or five years at a local office where their development can be overseen trained by experienced reporters, traditionally the local office would be a mix of new, middle career and 'veteran' reporters. However Ikuta argues that this system broke down due to the HR policy of concentrating middle-career reporters in the head offices, which led to an over-reliance on early-career reporters in local bureaus. (ibid. p224/1180)
+Ikuta describes the actual content of OJT at the _+as_; new employs spend four or five years at a local office where their development can be overseen trained by experienced reporters, traditionally the local office would be a mix of new, middle career and 'veteran' reporters. However Ikuta argues that this system broke down due to the HR policy of concentrating middle-career reporters in the head offices, which led to an over-reliance on early-career reporters in local bureaus. (ibid. p224/1180) This breakdown seems to be confirmed by one of the junior journalists interview by @Minami:2011[, 242], 'Shota' explains;
+
+> In the past, editors or managers would take care of young reporters in their departments. They had time and room to do that. They used to take young reporters out for drinks or something after work. But nowadays, their workload has also increased so that they have lost such leeway. So, they can't pay close attention to what young reporters are doing. It‟s kind of a vicious cycle.
 
 A significant effect of a primarily OJT-based system might be that it becomes more difficult to have any external standard (what kind of standard?); if the measure of professionalism is how closely one approximates the work of one's mentor then it is easy for _practical_ understandings of how one does journalism --- rather, how one does the job of journalist --- to become prioritised over how should (according to some exterior abstract measure - whether a code, an exemplar or whatever) journalists set about doing their work. It might also be readily supposed that such a system might turn out to be more 'malleable' from the political sources' point of view with the local (in time and space) understandings of the  necessities of practical reporting being passed on, and thereby taking on the status of 'common sense', within a single generation.
 
@@ -186,12 +188,20 @@ Average career length?
 
 Typical career development?
 
+Reference [Minami PhD](http://0.0.0.0:8080/Newspaper%20Work%20in%20a%20Time%20of%20Digital%20Change-%20A%20Comparative%20Study%20of%20U.S.%20and%20Japanese%20Journalists%20MINAMI(PhD)%202011.pdf#page=158)
+
+@Minami:2011
+
 _Tenshoku_?
 
 # Living the ideology?
 
 Deal with whether journalism is a profession? Greenwood, Tumber etc.
 May exhibit different levels of professionalisation in different systems, so perhaps a matter of degree rather than anything else.
+
+> Within the professional category of its occupational classification the United States Census Bureau includes, among others, the following: accountant, architect, artist, attorney, clergyman, college professor, dentist, engineer, journalist, judge, librarian, natural scientist, optometrist, pharmacist, physician, social scientist, social worker, surgeon, and teacher. What common attributes do these professional occupations possess which distinguish them from the nonprofessional ones? After a careful canvass of the sociological literature on occupations, this writer has been able to distill five elements, upon which there appears to be consensus among the students of the subject, as constituting the distinguishing attributes of a profession. Succinctly put, all professions seem to possess: (1) systematic theory, (2) authority, (3) community sanction, (4) ethical codes, and (5) a culture.
+
+[@Greenwood:1957]
 
 > Greenwood’s five attributes of a profession – systematic theory; authority; community sanction; ethical codes; and a culture (Greenwood:1957)
 
