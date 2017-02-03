@@ -1,5 +1,5 @@
 ---
-date: 10 January 2017
+date: 3 February 2017
 style: Article
 bibliography: /Users/spkb/Documents/bibliographies/mybib.bib
 csl: /Users/spkb/Documents/bibliographies/apa6.csl
@@ -83,7 +83,7 @@ Also review bodies which have existed in Japan for reporters and those involved 
 
 Also, what of the rumoured 'collectivistic' instincts of Japanese society? Why no collective action from journalists to respond to this common threat? ANSWER: collectivism seems to revolve primarily around the most concrete of structures, thus the firm trumps any abstract idea such as a 'profession' or 'society' - you don't get a membership card for those they are a matter of self-identification rather than formal membership.<!--1655_29–01--> **try matsumoto - New Japan as source?**
 
-REMEMBER: **'systems' and 'structures'**
+REMEMBER: **'systems' and 'structures'** TODO
 
 This paper argues that the root causes of this failure to organise, can be found in a) the nature of the professional education of journalists, and b) the nature of employment structures for journalists in Japan. The effects of these social institutions can be observed manifested as the 'professional ideology' of journalists in Japan, this paper uses certain aspects of this ideology as proposed by @Deuze:2005.
 
