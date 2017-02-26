@@ -86,19 +86,19 @@ This paper will not deal with the influence if the *kisha kurabu* 'press club' s
 
 ## Systems and Structures
 
-Journalism may well be best ultimately described in terms of a set of norms, ideas and beliefs that might adequately be characterised with the term ideology [for example, see @Deuze:2005]. The exact contents and structures of this ideology will vary across systems and across periods; this paper looks rather at the structures and groups within which this set of ideology is learned, the process of identification through which it becomes internalized by the individual journalist. Specifically it looks at the structures and systems identified by Kaye (see above) as being inimical to the Japanese journalist's ability to push back against political pressure.
+Journalism may well be best ultimately described in terms of a set of norms, ideas and beliefs that might adequately be characterised with the term ideology [for example, see @Deuze:2005]. The exact contents and structures of this ideology will vary across systems and across periods; this paper looks rather at the structures and groups within which this set of ideology is learned, the process of identification through which it becomes internalised by the individual journalist. Specifically it looks at the structures and systems identified by Kaye (see above) as being inimical to the Japanese journalist's ability to push back against political pressure.
 
-Discussion of the elements of the nature of the journalistic identity has been an integral part of academic understandings of news and news-gatherers since the very early days of the field (eg?). Deuze[-@Deuze:2005] sums up the essential features of what he refers to as the journalistic ideology:
+Discussion of the elements of the nature of the journalistic identity has been an integral part of academic understandings of news and news-gatherers since the very early days of the field (eg?). Deuze[-@Deuze:2005] sums up the essential features of what he refers to as the journalistic ideology as 'public service', 'objectivity', 'autonomy' and a sense of both 'immediacy' and 'ethics'[@Deuze:2005, p447]. Where and when are the norms, values and beliefs about journalism acquired?
 
->   • Public service: journalists provide a public service (as watchdogs or ‘news-hounds’, active collectors and disseminators of information);\
+<!-- >   • Public service: journalists provide a public service (as watchdogs or ‘news-hounds’, active collectors and disseminators of information);\
 >   • Objectivity: journalists are impartial, neutral, objective, fair and (thus) credible;\
 >   • Autonomy: journalists must be autonomous, free and independent in their work;\
 >   • Immediacy: journalists have a sense of immediacy, actuality and speed (inherent in the concept of ‘news’);\
->   • Ethics: journalists have a sense of ethics, validity and legitimacy.\
+>   • Ethics: journalists have a sense of ethics, validity and legitimacy.\ -->
 
-[@Deuze:2005, p447]
+Minami's interviewees point toward education as a fundamental site for the acquisition of their understanding:
 
-Where and when are these beliefs about journalism acquired?
+>those who have a degree in journalism say they learned what journalists should be through journalism education in college @Minami:2011[214]
 
 *ANSWER THIS FOR THE GENERAL CASE*
 
@@ -108,7 +108,7 @@ What has been the effect of a strong bureaucratic tradition on the role of profe
 
 # Journalism in Japan #
 
-**LIT REVIEW in here**
+[LIT REVIEW in here]{.adm}
 
 Japan has a history of journalism stretching back to its emergence from under the control of the Tokugawa Bakufu in the latter decades of the nineteenth century.
 
@@ -192,7 +192,7 @@ What are the sources of ethical understandings in Japan? How widely are these sh
 
 The NSK carries our annual surveys of employment within the newspaper industry; according to these surveys there are approximately 20,000 'reporters', this number has remained more or less constant over the past 15 years. IN the same period the total number of newspaper employees has dropped from 54565 in 2001 to 41396 in 2016. The proportion of employees engaged in reporting work has thus increased from 38 per cent in 2001 to 46 per cent in 2016.[^emp-data]
 
-A government survey from 2016 counts 7 national dailies, 245 regional and local papers, and 4 'sports' papers, as well as 514 specialist and industry journals. The national, regional/local and 'sports' press in total employ 44331 people, 9508 women. Just over a fifth of the newspaper workforce is female. 36293 are full-time employees (_sei-shain_), this  includes 6044 (apx.17% of total) female workers. Newspaper work is an overwhelmingly male undertaking.
+A government survey from 2016 counts 7 national dailies, 245 regional and local papers, and 4 'sports' papers, as well as 514 specialist and industry journals. The national, regional/local and 'sports' press in total employ 44,331 people, 9508 women. Just over a fifth of the newspaper workforce is female. 36,293 are full-time employees (_sei-shain_), this includes 6044 (apx.17% of total) female workers. Newspaper work is an overwhelmingly male undertaking.
 
 <!--1200_24–02 平成27年 特定サービス産業実態調査報告書 新聞業、出版業編 h27report07 p34
 
