@@ -201,7 +201,7 @@ What are the sources of ethical understandings in Japan? How widely are these sh
 
 ## Journalistic Employment in Japan
 
-The NSK carries our annual surveys of employment within the newspaper industry; according to these surveys there are approximately 20,000 'reporters', this number has remained more or less constant over the past 15 years. IN the same period the total number of newspaper employees has dropped from 54565 in 2001 to 41396 in 2016. The proportion of employees engaged in reporting work has thus increased from 38 per cent in 2001 to 46 per cent in 2016.[^emp-data]
+The NSK carries our annual surveys of employment within the newspaper industry; according to these surveys there are approximately 20,000 'reporters', this number has remained more or less constant over the past 15 years. In the same period the total number of newspaper employees has dropped from 54,565 in 2001 to 41,396 in 2016. The proportion of employees engaged in reporting work has thus increased from 38 per cent of the total newspaper workforce in 2001 to 46 per cent in 2016.[^emp-data]
 
 A government survey from 2016 counts 7 national dailies, 245 regional and local papers, and 4 'sports' papers, as well as 514 specialist and industry journals. The national, regional/local and 'sports' press in total employ 44,331 people, 9508 women. Just over a fifth of the newspaper workforce is female. 36,293 are full-time employees (_sei-shain_), this includes 6044 (apx.17% of total) female workers. Newspaper work is an overwhelmingly male undertaking.
 
@@ -304,10 +304,10 @@ What are the problems with the Broadcast Act?
 
 According to arguments put forward in _Hōsō Ripōto_ the government may not actually be able to use the Broadcast Act in this way.(HR 263+64)
 
-#### Article 4{-}
+Article four is divided into two sections, the first deals with programming content, the second with encouraging broadcasters to provide services for the visually impaired. It is the first section (see below) which Kaye refers to.
 
-This article is divided into two sections, the first deals with programming content, the second with encouraging broadcasters to provide services for the visually impaired. It is the first section which Kaye refers to.
-
+> **Article 4**
+>
 > (Editing and Other Matters of the Broadcast Programs of Domestic Broadcasting, etc.)
 >
 > The broadcaster shall comply with the matters provided for in the following items when editing the broadcast programs of domestic broadcasting or domestic and international broadcasting (hereinafter referred to as “domestic broadcasting, etc.”):\
@@ -316,10 +316,11 @@ This article is divided into two sections, the first deals with programming cont
 > (iii) Its reporting shall not distort the facts;\
 > (iv) It shall clarify the points at issue from as many angles as possible where there are conflicting opinions concerning an issue.
 
-#### Article 174{-}
+The other article with direct relevance to the current debate is article 174 which holds out the possibility of ministerial action to sanction broadcasters.
 
+> **Article 174**
+>
 > (Suspension of Operations)
-> Article 174
 >
 > If the broadcaster (excluding terrestrial basic broadcasters) has violated this Act or an order or disposition based on this Act, the **Minister of Internal Affairs and Communications shall set a period within three months and shall order the suspension of the operations of the broadcasting**. (emphasis added)
 
