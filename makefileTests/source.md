@@ -15,6 +15,7 @@ title: Professional Identity, Press freedom and Journalism in Japan
 
 # Introduction #
 
+
 Japan is home to a vigorous press, both national and local; levels of newspaper readership have traditionally been high, and they remain so, yet despite its apparently healthy state Japan's press is, in one sense at least in crisis; Japan has fallen down the press freedom rankings over the past few years. Particularly abrupt was the drop in its ranking between 2010 and 2011/12 in the aftermath of the Fukushima Dai-ichi nuclear disaster. The situation for the press in Japan seems to present two different faces; while the industry as a whole seems to be healthier than many around the developed world, Japanese journalism, and the journalists that produce it, is in a much less confident mood. <!--2220_18–01-->
 
 Japan's press still up there in the 'free' zone but its ranking is at  the lowest level since the Reporters Sans Frontiéres(RSF) series began in 2002, such a rapid fall - from 11th 'free-est' in the world in 2010 to 72nd just six years later - must surely be cause for concern. RSF noted that the precipitous drop after the 2011 triple disaster was in part due to complaints from freelance journalists that,
@@ -164,17 +165,6 @@ See parts of...
 
 Also refer to @Aldridge:2003.
 
-Try: /Users/spkb/Documents/Papers/Education for Journalists in Postwar Japan CHIBA 1952.pdf
-
-<!--1351_14–03  CHIBA QUOTES-->
-
-> There was a pressing need for journalism education after the war. But this does not necessarily mean that students with training in journalism are assured of employment after graduation fm college. In the first place, education in journalism is not appreciated by newspaper publishers as an asset to reporters. It is true that most of the daily newspaper in the country employ only college graduates but their publishers still hold ... 'The only place one can learn to be a journalist is in a good newspaper office.' They want to train their cub reporters in their own shops to their own liking. Hence college graduates could not expect to draw any advantage out of their professional training when they go out of school.
-[@Chiba:1952 326]
-
-
-
-
-
 Indeed, outside employment there is little opportunity for potential journalists in Japan to acquire knowledge, skills and experience of their chosen trade. @Splichal:1994 [135] surveyed students in journalistic education in 22 countries in the mid 1990s, they found that 90 per cent of Japanese respondents had no experience of engaging in any sort of journalism before entering their course, the highest proportion of any of the countries surveyed. The average rate for all countries was just over 60 per cent.
 
 As a route to employment an education in journalism can be all but irrelevant, as @Cooper-Chen:1997a [: 22] suggest, company recruitment relies on testing general skills (general knowledge, literacy) so a degree from *any* department in a prestigious university may be worth more than specialist knowledge from a less prestigious institution. Theses attitudes and the expectations of media employers - virtually no value attached to any sort of university-based journalistic education [@Fujita:2004: 1] in Japan seems to go back to at least the 1930s [@Uchikawa:2003: 14].
@@ -219,18 +209,12 @@ Average career length?
 
 Typical career development?
 
-Careers develop largely within a single company, or companies and organisations within the same group, or 'somehow' affiliated. E.g. senior editorial staff may, towards the end of their working lives, find themselves in senior positions on the boards of local television broadcasters. {check interlocking boards?}[.adm]
-
 Reference [Minami PhD](http://0.0.0.0:8080/Newspaper%20Work%20in%20a%20Time%20of%20Digital%20Change-%20A%20Comparative%20Study%20of%20U.S.%20and%20Japanese%20Journalists%20MINAMI(PhD)%202011.pdf#page=158)
 
 @Minami:2011
 
 _Tenshoku_?
 
-Chiba Yūjiro, a reporter for the _Asahi +sb_ during the 1930s and later
-a senior academic working at the Newspaper Research Institute at Tokyo University, writing at the end of the US occupation in 1952, pointed to the relationship between employment structures and the development of a shared professional - in the sense of paid employment - identity:
-
-> In the second place, lack of solidarity on the profession operates as a barrier to the transfer of journalists from a local newspaper to a metropolitan newspaper, where openings are limited. [@Chiba:1952 326]
 
 # Living the ideology?
 
@@ -242,6 +226,7 @@ May exhibit different levels of professionalisation in different systems, so per
 <!-- > Within the professional category of its occupational classification the United States Census Bureau includes, among others, the following: accountant, architect, artist, attorney, clergyman, college professor, dentist, engineer, journalist, judge, librarian, natural scientist, optometrist, pharmacist, physician, social scientist, social worker, surgeon, and teacher. What common attributes do these professional occupations possess which distinguish them from the nonprofessional ones? After a careful canvass of the sociological literature on occupations, this writer has been able to distill five elements, upon which there appears to be consensus among the students of the subject, as constituting  -->
 
 >the distinguishing attributes of a profession. Succinctly put, all professions seem to possess: (1) systematic theory, (2) authority, (3) community sanction, (4) ethical codes, and (5) a culture. [@Greenwood:1957]
+
 
 This section surveys how the five aspects of the journalistic ideology outlined by Deuze(see above) are materialised in Japan; it concentrates on 'ethics' and 'autonomy' as areas which can be seen to have a particularly significant impact on journalistic practise.
 

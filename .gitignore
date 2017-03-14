@@ -5,3 +5,5 @@ odt
 *.pdf
 ods
 command
+pix
+makefile
