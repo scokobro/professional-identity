@@ -4,7 +4,7 @@ odt
 *.odt
 *.pdf
 ods
-command
 pix
 makefile
 makefileTests
+command
