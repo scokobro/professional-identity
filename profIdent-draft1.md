@@ -114,7 +114,7 @@ Japan has a history of journalism stretching back to its emergence from under th
 
 Early journalism was often politically sponsored and overtly partial,
 
-the individuals considered the first modern journalists in Japan - Yanagawa Shunsan (1832-70) publisher of the _Chūgai +sb_, and Fukuchi Gen'ichiro, well known for his work at the _Tōkyō Nichinichi +sb_.[@Huffman:1997: 32] had 'close personal ties to the _bakukfu_ shogunate'[@Schafer:2012, p9]
+the individuals considered the first modern journalists in Japan - Yanagawa Shunsan[^names] (1832-70) publisher of the _Chūgai +sb_, and Fukuchi Gen'ichiro, well known for his work at the _Tōkyō Nichinichi +sb_.[@Huffman:1997: 32] had 'close personal ties to the _bakukfu_ shogunate'[@Schafer:2012, p9]
 
 It was only with the adoption of the 'objective' mass circulation model, and the printing techniques that made them possible, that the press began to require something like the 'professional' journalist rather than the partisan supporter and advocate of a cause.
 
@@ -168,12 +168,7 @@ Try: /Users/spkb/Documents/Papers/Education for Journalists in Postwar Japan CHI
 
 <!--1351_14–03  CHIBA QUOTES-->
 
-> There was a pressing need for journalism education after the war. But this does not necessarily mean that students with training in journalism are assured of employment after graduation fm college. In the first place, education in journalism is not appreciated by newspaper publishers as an asset to reporters. It is true that most of the daily newspaper in the country employ only college graduates but their publishers still hold ... 'The only place one can learn to be a journalist is in a good newspaper office.' They want to train their cub reporters in their own shops to their own liking. Hence college graduates could not expect to draw any advantage out of their professional training when they go out of school.
-[@Chiba:1952 326]
-
-
-
-
+> There was a pressing need for journalism education after the war. But this does not necessarily mean that students with training in journalism are assured of employment after graduation from college. In the first place, education in journalism is not appreciated by newspaper publishers as an asset to reporters. It is true that most of the daily newspaper in the country employ only college graduates but their publishers still hold ... 'The only place one can learn to be a journalist is in a good newspaper office.' They want to train their cub reporters in their own shops to their own liking. Hence college graduates could not expect to draw any advantage out of their professional training when they go out of school. [@Chiba:1952 326]
 
 Indeed, outside employment there is little opportunity for potential journalists in Japan to acquire knowledge, skills and experience of their chosen trade. @Splichal:1994 [135] surveyed students in journalistic education in 22 countries in the mid 1990s, they found that 90 per cent of Japanese respondents had no experience of engaging in any sort of journalism before entering their course, the highest proportion of any of the countries surveyed. The average rate for all countries was just over 60 per cent.
 
@@ -185,21 +180,20 @@ As a route to employment an education in journalism can be all but irrelevant, a
 
 This debate took place in reaction to a number of incidents (plagiarism[^plag], invasions of privacy, 'overheated' herd reporting (*media sukuramu*), libel)[@Ikuta:2004: 1]. Ikuta also identifies the pressures of adapting to new technologies as a root cause in the drop in journalistic standards.
 
-
 Ikuta describes the actual content of OJT at the _+as_; new employs spend four or five years at a local office where their development can be overseen trained by experienced reporters, traditionally the local office would be a mix of new, middle career and 'veteran' reporters. However Ikuta argues that this system broke down due to the HR policy of concentrating middle-career reporters in the head offices, which led to an over-reliance on early-career reporters in local bureaus. (ibid. p224/1180) This breakdown seems to be confirmed by one of the junior journalists interview by @Minami:2011[, 242], 'Shota' explains;
 
-> In the past, editors or managers would take care of young reporters in their departments. They had time and room to do that. They used to take young reporters out for drinks or something after work. But nowadays, their workload has also increased so that they have lost such leeway. So, they can't pay close attention to what young reporters are doing. It‟s kind of a vicious cycle.
+> In the past, editors or managers would take care of young reporters in their departments. They had time and room to do that. They used to take young reporters out for drinks or something after work. But nowadays, their workload has also increased so that they have lost such leeway. So, they can't pay close attention to what young reporters are doing. It's kind of a vicious cycle.
 
 A significant effect of a primarily OJT-based system might be that it becomes more difficult to have any external standard (what kind of standard?); if the measure of professionalism is how closely one approximates the work of one's mentor then it is easy for _practical_ understandings of how one does journalism --- rather, how one does the job of journalist --- to become prioritised over how should (according to some exterior abstract measure - whether a code, an exemplar or whatever) journalists set about doing their work. It might also be readily supposed that such a system might turn out to be more 'malleable' from the political sources' point of view with the local (in time and space) understandings of the  necessities of practical reporting being passed on, and thereby taking on the status of 'common sense', within a single generation.
 
-## Sources of Ethics
+## Sources of Ethics ##
 [link to Deuze's list]{.adm}
 
 >Both the creation of codes of ethics and the emergence of formal education and training for journalists fostered a shared culture among journalists. @Tumber:2005 [66]
 
 What are the sources of ethical understandings in Japan? How widely are these shared across groupings within the industries in which journalism takes place?
 
-## Journalistic Employment in Japan
+## Journalistic Employment in Japan ##
 
 The NSK carries our annual surveys of employment within the newspaper industry; according to these surveys there are approximately 20,000 'reporters', this number has remained more or less constant over the past 15 years. In the same period the total number of newspaper employees has dropped from 54,565 in 2001 to 41,396 in 2016. The proportion of employees engaged in reporting work has thus increased from 38 per cent of the total newspaper workforce in 2001 to 46 per cent in 2016.[^emp-data]
 
@@ -232,7 +226,7 @@ a senior academic working at the Newspaper Research Institute at Tokyo Universit
 
 > In the second place, lack of solidarity on the profession operates as a barrier to the transfer of journalists from a local newspaper to a metropolitan newspaper, where openings are limited. [@Chiba:1952 326]
 
-# Living the ideology?
+# Living the ideology? #
 
 This paper leaves undiscussed the vexed question of whether journalism is a profession or not; on the other hand, merely because there is uncertainty over the match between a certain theoretical category and the features of a particular type of work, this does not mean that individuals engaged in that particular 'paid occupation' have any less an attachment to the elements of what they consider their 'professional' ideology.
 
@@ -241,9 +235,9 @@ May exhibit different levels of professionalisation in different systems, so per
 
 <!-- > Within the professional category of its occupational classification the United States Census Bureau includes, among others, the following: accountant, architect, artist, attorney, clergyman, college professor, dentist, engineer, journalist, judge, librarian, natural scientist, optometrist, pharmacist, physician, social scientist, social worker, surgeon, and teacher. What common attributes do these professional occupations possess which distinguish them from the nonprofessional ones? After a careful canvass of the sociological literature on occupations, this writer has been able to distill five elements, upon which there appears to be consensus among the students of the subject, as constituting  -->
 
->the distinguishing attributes of a profession. Succinctly put, all professions seem to possess: (1) systematic theory, (2) authority, (3) community sanction, (4) ethical codes, and (5) a culture. [@Greenwood:1957]
+> the distinguishing attributes of a profession. Succinctly put, all professions seem to possess: (1) systematic theory, (2) authority, (3) community sanction, (4) ethical codes, and (5) a culture. [@Greenwood:1957]
 
-This section surveys how the five aspects of the journalistic ideology outlined by Deuze(see above) are materialised in Japan; it concentrates on 'ethics' and 'autonomy' as areas which can be seen to have a particularly significant impact on journalistic practise.
+This section surveys how the five aspects of the journalistic ideology outlined by Deuze(see above) are materialised in Japan; it concentrates on 'ethics' and 'autonomy' as core areas which can be seen to have a particularly significant impact on journalistic practise.
 
 I will deal with the less controversial aspects - public service, objectivity, and immediacy - before moving on.
 
@@ -251,17 +245,15 @@ See NSK Ethics Guide[^guide]
 
 Also see Society of Professional Journalists Ethics Guide.[^SPJGuide]
 
-## Public service
+Some aspects of the journalistic ideology contribute less to the problems of the Japanese press than others; the following brief paragraphs deal with these three aspects and outline the arguments for paying particular  attention to the notions of 'autonomy' and 'ethics' as this paper chooses to do.
 
-Journalists relations with the 'public' - public journalism? Surveys of Japanese journalists understandings of the audience?
+**Public service:** Journalists relations with the 'public' - public journalism? Surveys of Japanese journalists understandings of the audience?
 
 Central term for Japanese discussion of the role of journalists is 'the right to know' (*shiru kenri*); this would seem to indicate a pervasive consciousness of journalism as a service to the general public. Of course, this leaves open the question of how this idea is operationalised; in any particular instance, which public is to be served and how?
 
 Willnat survey?
 
-## Objectivity
-
-The prime concern of reporters in Japan (see Weaver info) is the accurate reporting of fact. Is the corollary a reduction in the amount of comment and context provided?
+**Objectivity:** The prime concern of reporters in Japan (see Weaver info) is the accurate reporting of fact. Is the corollary a reduction in the amount of comment and context provided?
 
 When the broadcasting of television news started on NHK in the 1960s, the newspaper model was adopted as an organisational template and standard.
 
@@ -269,17 +261,19 @@ However, the political implications of 'objectivity' and 'balance' are continual
 
 If it is, as @Tuchman:1972 suggests, primarily a 'ritual' through the enactment of which reporters and editors avoid potential censure, it is reasonable to expect - in a media system such as Japan's where there has developed the constant threat of pressure from powerful sources, that achieving 'objectivity' - and therefore insulating oneself from pressure as much as possible - would become a prime concern.
 
-There are also commercial benefits; these were recognised early on by the press is Japan.[@Huffman:1997: p?]
+There are also commercial benefits; these were recognised early on by the press in Japan.[@Huffman:1997: p?]
 
-## Immediacy
+[More on birth of objectivity as a commercial strategy, in other countries as well]{.adm}
 
-No doubt about this. Companies like immediacy as a measure of journalistic performance; results are generally quantifiable and unambiguous - it's usually fairly obvious 'who was first'.
+**Immediacy:** No doubt about this. Companies like immediacy as a measure of journalistic performance; results are generally quantifiable and unambiguous - it's usually fairly obvious 'who was first'.
 
 Japanese newspapers still issue *gōgai* sheets, single sheet 'extras' handed out free, often at major railway stations (and thus coincidentally also useful for television news cameras), covering major and breaking stories such as the death of Fidel Castro or the resignation of President Park of South Korea.
 
-The importance of immediacy for the printed press - the discourse of newspapering in Japan is still largely ambivalent about the existence and importance of the web - might also be detected in the ongoing commitment of all newspapers to deliver to subscribers homes[^deliv] very early in the morning thus ensuring the presence fo a daily paper and access to the news it provides 'at the breakfast table'.
+The importance of immediacy for the printed press - the discourse of newspapering in Japan is still largely ambivalent about the existence and importance of the web - might also be detected in the ongoing commitment of all newspapers to deliver to subscribers homes[^deliv] very early in the morning thus ensuring the presence of a daily paper and access to the news it provides 'at the breakfast table'.
 
-## Autonomy
+Having said this, the foremost tool for achieving 'immediacy' for journalists in the 20th century must be the newspaper website, and these are still underdeveloped in Japan. Perhaps it is felt, as it certainly is in the television industry, that to undermine the business model (whether it be broadcast to home television receivers, or deliveries of physical paper to subscribers homes) should not be undermined by other delivery systems such as the internet.[@Villi:2015]
+
+## Autonomy ##
 
 This concept at the core of the argument presented in this paper.
 
@@ -296,7 +290,7 @@ quote from - 新聞協会賞を2度受賞した*依光隆明*朝日新聞社編�
 
 Then there is the question of industry autonomy from government power. The structures of the mass media (and in the broader economy in which media companies exist), gradually put in place over the 70 years since the end of WW2, has turned out to be a double-edged sword. The sections below focus on the linkages between legislation/regulation and media industries which can be seen as political pressure points, which are none the less so for not being employed as such.
 
-### The Broadcast Act{-}
+### The Broadcast Act ### {-}
 
 Identified by Kaye as an obvious political pressure point. Takaichi Sanae statements during 2015/6. Kaye suggests some third party regulator equivalent to the US Federal Communications Commission(FCC). Such a body, the Radio Regulatory Commission (RRC), did exist for just over one year during the period between the passing of the Broadcast Act and the end of the US occupation; the body's two most significant acts were to grant a broadcast licence to Japan's first commercial broadcaster, Nippon TV, and then to dissolve itself, returning control of broadcasting to a ministry (at that time the Ministry of Posts, _Yūsei-shō_).[@Ito:2010a, Ch2] So, while there is a precedent for such a body, it is not altogether a promising one.
 
@@ -325,7 +319,7 @@ The other article with direct relevance to the current debate is article 174 whi
 > If the broadcaster (excluding terrestrial basic broadcasters) has violated this Act or an order or disposition based on this Act, the **Minister of Internal Affairs and Communications shall set a period within three months and shall order the suspension of the operations of the broadcasting**. (emphasis added)
 
 
-### Newspaper Sales {-}
+### Newspaper Sales ### {-}
 <!--1351_01–03-- Resale System & Antimonopoly Rules-->
 
 * Weakness of JFTC
@@ -343,7 +337,6 @@ Should be noted that the subject of the NSK code is 'the newspaper', rather than
 Limited to the company motto!
 
 Discussing the reaction of the New Delhi correspondents of the major Japanese media during the media restrictions which were part of the Emergency (1975?), and the reaction of the mass media in Japan when government took the decision to intervene in the 1994 *Tsubaki Hatsugen*[^tsubaki] incident [@Berger:1995].
-
 
 
 > 日本人ジャーナリストが全員、ジャーナリストとしての使命に生きるよりも、私企業の倫理に従った [@Yamashita:1996, p37]
@@ -421,7 +414,6 @@ Parochialism rampant, seems unlikely that this would happen in any significant w
 ### Specialist Groups
 [JMS - Motorsports](http://www.jms.gr.jp/2sc)
 
-
 # Conclusions and Summary
 
 Mainstream media companies in Japan have seen their audiences gradually slip away as other forms take their attention, in this sense they are experiencing the same worrying transitions as media in other developed countries. However, the pace of loss has been significantly slower in Japan; newspaper readership is still at over 80 per cent of its 2001 levels whereas the US and UK industries have more typically seen declines closer to 30 per cent, for the US or even 50 per cent, for the UK industry. For press-as-business then, any talk of crisis seems overblown, and without crisis continuity will prevail.<!--0708_19–01-->
@@ -479,3 +471,5 @@ Another aspect worth considering is the fact that newswork is becoming increasin
 [^tsubaki]: Explain this
 
 [^mike]: It is common practise in many countries for the host of the press conference to provide feeds of the main microphone audio to all camera crews via a 'break-out box' positioned near to the designated camera position. Among other advantages to this system is that it helps reduce visual clutter in front of the speaker.
+
+[^names]: Japanese names are given in traditional surname-first order except where the individual is well known by the surname-last version.
