@@ -7,6 +7,7 @@ abstract: The role of a professional identity for journalists around the world i
 title: Professional Identity, Press freedom and Journalism in Japan
 +as: Asahi Shimbun
 +sb: Shimbun
++nsk: NSK-JNPEA
 ---
 
 <style>
@@ -191,11 +192,11 @@ A significant effect of a primarily OJT-based system might be that it becomes mo
 
 >Both the creation of codes of ethics and the emergence of formal education and training for journalists fostered a shared culture among journalists. @Tumber:2005 [66]
 
-What are the sources of ethical understandings in Japan? How widely are these shared across groupings within the industries in which journalism takes place?
+What are the sources of ethical understandings in Japan? How widely are these shared across groupings within the industries in which journalism takes place? Section below covers this (see [below](#ethics))
 
 ## Journalistic Employment in Japan ##
 
-The NSK carries our annual surveys of employment within the newspaper industry; according to these surveys there are approximately 20,000 'reporters', this number has remained more or less constant over the past 15 years. In the same period the total number of newspaper employees has dropped from 54,565 in 2001 to 41,396 in 2016. The proportion of employees engaged in reporting work has thus increased from 38 per cent of the total newspaper workforce in 2001 to 46 per cent in 2016.[^emp-data]
+The The Japan Newspaper Publishers and Editors Association (+nsk[^abbrev]) carries our annual surveys of employment within the newspaper industry; according to these surveys there are approximately 20,000 'reporters', this number has remained more or less constant over the past 15 years. In the same period the total number of newspaper employees has dropped from 54,565 in 2001 to 41,396 in 2016. The proportion of employees engaged in reporting work has thus increased from 38 per cent of the total newspaper workforce in 2001 to 46 per cent in 2016.[^emp-data]
 
 A government survey from 2016 counts 7 national dailies, 245 regional and local papers, and 4 'sports' papers, as well as 514 specialist and industry journals. The national, regional/local and 'sports' press in total employ 44,331 people, 9508 women. Just over a fifth of the newspaper workforce is female. 36,293 are full-time employees (_sei-shain_), this includes 6044 (apx.17% of total) female workers. Newspaper work is an overwhelmingly male undertaking.
 
@@ -241,9 +242,7 @@ This section surveys how the five aspects of the journalistic ideology outlined 
 
 I will deal with the less controversial aspects - public service, objectivity, and immediacy - before moving on.
 
-See NSK Ethics Guide[^guide]
-
-Also see Society of Professional Journalists Ethics Guide.[^SPJGuide]
+## Public service, objectivity and immediacy ##
 
 Some aspects of the journalistic ideology contribute less to the problems of the Japanese press than others; the following brief paragraphs deal with these three aspects and outline the arguments for paying particular  attention to the notions of 'autonomy' and 'ethics' as this paper chooses to do.
 
@@ -330,9 +329,15 @@ The _tokushū shitei_ status of newspapers is a purely regulatory matter, the JF
 
 ## Ethics
 
-The NSK model:
+Also see Society of Professional Journalists Ethics Guide.[^SPJGuide]
 
-Should be noted that the subject of the NSK code is 'the newspaper', rather than the individual journalist
+### The +nsk Ethics Guide ###
+
+See +nsk Ethics Guide[^guide]
+
+Should be noted that the subject of the +nsk code is 'the newspaper', rather than the individual journalist
+
+### Company Guides ###
 
 Limited to the company motto!
 
@@ -376,7 +381,7 @@ This interpretation changed when...
 
 There are a number of bodies already established in Japan which could theoretically act as a focus for concerted action. However, to abuse Andy Tanenbaum's famous dictum - 'The nice thing about standards is that you have so many to choose from' - the problem may be that the 'ethical and professional body' is ultimately _too_ fragmented for any one body to gather a critical mass of journalists which can be agreed on as forming a representative understanding of the journalistic profession.
 
-### JNPEA - Nihon Shimbun Kyōkai {-}
+### Nihon Shimbun Kyōkai {-}
 
 Primarily an industry group. Focussed largely on promoting the business interests of newspaper publishers; encouraging readership, surveying the effectiveness of advertising, monitoring copyright, and lobbying for continuation of legal privileges. It also issues the _Shimbun Rinri Koryo_ 新聞倫理綱領;
 
@@ -407,7 +412,7 @@ International P.E.N.?
 
 IOJ?International Organization of Journalists - Association of Korean Journalists in Japan was a member in 1966 - now... who knows. Also in 1978 - only source [wikipedia](https://en.wikipedia.org/wiki/International_Organization_of_Journalists)!
 
-[IPI](http://ipi.media/national-committees/)- represented by head of NSK. Kojiro Shiraishi, head of NSK, president of Yomiuri Newspaper.
+[IPI](http://ipi.media/national-committees/)- represented by head of +nsk. Kojiro Shiraishi, head of +nsk, president of Yomiuri Newspaper.
 
 Parochialism rampant, seems unlikely that this would happen in any significant way. Media companies are almost exclusively focussed on domestic matters and have few interests outside Japan. If Uesugi's experiences, as a Japanese working for the foreign press in Tokyo, are anything to go by, relations between domestic journalists and foreign correspondents are characterised by mutual misunderstanding, distrust and, at least on the Japanese side, a feeling that all foreign reporters do is rock the boat, upsetting the comfortable and painstakingly cultivated reporter-source relationships essential to much reporting in Japan. @Uesugi:2008 [92--8]
 
@@ -422,7 +427,7 @@ Television audiences are ???
 
 ![](./pix/circulation-2001-15-JP-US-UK.png){ height=200px }
 
-: **Figure N:** Relative decline in daily national newspaper circulation in Japan, the US and the UK, 2001-2015 (Oct 2001=1). Data Sources: _Nihon Shimbun Kyōkai_ (NSK) website, UK ABCs (Guardian Newspaper website), Newspaper Association of America (latest NAA data available is for 2014).
+: **Figure N:** Relative decline in daily national newspaper circulation in Japan, the US and the UK, 2001-2015 (Oct 2001=1). Data Sources: _Nihon Shimbun Kyōkai_ (+nsk) website, UK ABCs (Guardian Newspaper website), Newspaper Association of America (latest NAA data available is for 2014).
 
 The Japanese media, in the sense that it has managed to preserves itself (as 'business') in the face of competition from new media, is a success. Why would media businesses want to change?
 
@@ -473,3 +478,5 @@ Another aspect worth considering is the fact that newswork is becoming increasin
 [^mike]: It is common practise in many countries for the host of the press conference to provide feeds of the main microphone audio to all camera crews via a 'break-out box' positioned near to the designated camera position. Among other advantages to this system is that it helps reduce visual clutter in front of the speaker.
 
 [^names]: Japanese names are given in traditional surname-first order except where the individual is well known by the surname-last version.
+
+[^abbrev]: This body also refers to itself by the acronym NSK, formed from the initial letters of its Japanese language name, the _Nihon Shinbun Kyokai_, literally, Japan Newspaper Association. [JNPEA/NSK website](http://www.pressnet.or.jp/english/) This paper uses +nsk throughout.
