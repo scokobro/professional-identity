@@ -71,11 +71,13 @@ It should be noted that it is these major media companies --- six Tokyo-based te
 
 Ultimately the question this paper seeks to address is: Why, given the obvious concern with independence and what Kaye describes as the deep commitment to freedom of speech and expression in Japan, and the obvious concern of many journalists, have news-workers in Japan not organised in the way he suggests?
 
-[Also review bodies which have existed in Japan for reporters and those involved in news. Brief review of reporting organisations.]{.adm}
+[Also review bodies which have existed in Japan for reporters and those involved in news. Brief review of reporting organisations.]{.w3-card-4 .w3-red}
 
 Also, what of the rumoured 'collectivistic' instincts of Japanese society? Why no collective action from journalists to respond to this common threat? ANSWER: collectivism seems to revolve primarily around the most concrete of structures, thus the firm trumps any abstract idea such as a 'profession' or 'society' - you don't get a membership card for those they are a matter of self-identification rather than formal membership.<!--1655_29–01--> **try matsumoto - New Japan as source?**
 
-REMEMBER: **'systems' and 'structures'** TODO
+REMEMBER: **'systems' and 'structures'**
+
+[ TODO ]{.w3-card-4 .w3-red}
 
 This paper argues that the root causes of this failure to organise, can be found in a) the nature of the professional education of journalists, and b) the nature of employment structures for journalists in Japan. The effects of these social institutions can be observed manifested as the 'professional ideology' of journalists in Japan, this paper uses certain aspects of this ideology as proposed by @Deuze:2005.
 
@@ -291,11 +293,11 @@ Then there is the question of industry autonomy from government power. The struc
 
 ### The Broadcast Act ### {-}
 
-Identified by Kaye as an obvious political pressure point. Takaichi Sanae statements during 2015/6. Kaye suggests some third party regulator equivalent to the US Federal Communications Commission(FCC). Such a body, the Radio Regulatory Commission (RRC), did exist for just over one year during the period between the passing of the Broadcast Act and the end of the US occupation; the body's two most significant acts were to grant a broadcast licence to Japan's first commercial broadcaster, Nippon TV, and then to dissolve itself, returning control of broadcasting to a ministry (at that time the Ministry of Posts, _Yūsei-shō_).[@Ito:2010a, Ch2] So, while there is a precedent for such a body, it is not altogether a promising one.
+Identified by Kaye as an obvious political pressure point. Takaichi Sanae statements during 2015/6.
+
+Kaye suggests some third party regulator equivalent to the US Federal Communications Commission(FCC). Such a body, the Radio Regulatory Commission (RRC), did exist for just over one year during the period between the passing of the Broadcast Act and the end of the US occupation; the body's two most significant acts were to grant a broadcast licence to Japan's first commercial broadcaster, Nippon TV, and then to dissolve itself, returning control of broadcasting to a ministry (at that time the Ministry of Posts, _Yūsei-shō_).[@Ito:2010, 41] So, while there is a precedent for such a body, it is not an altogether  promising one.
 
 What are the problems with the Broadcast Act?
-
-According to arguments put forward in _Hōsō Ripōto_ the government may not actually be able to use the Broadcast Act in this way.(HR 263+64)
 
 Article four is divided into two sections, the first deals with programming content, the second with encouraging broadcasters to provide services for the visually impaired. It is the first section (see below) which Kaye refers to.
 
@@ -309,7 +311,7 @@ Article four is divided into two sections, the first deals with programming cont
 > (iii) Its reporting shall not distort the facts;\
 > (iv) It shall clarify the points at issue from as many angles as possible where there are conflicting opinions concerning an issue.
 
-The other article with direct relevance to the current debate is article 174 which holds out the possibility of ministerial action to sanction broadcasters.
+The other article with direct relevance to the current debate is article 174 which holds out (for some at least) the possibility of governmental action to sanction broadcasters.
 
 > **Article 174**
 >
@@ -317,6 +319,13 @@ The other article with direct relevance to the current debate is article 174 whi
 >
 > If the broadcaster (excluding terrestrial basic broadcasters) has violated this Act or an order or disposition based on this Act, the **Minister of Internal Affairs and Communications shall set a period within three months and shall order the suspension of the operations of the broadcasting**. (emphasis added)
 
+According to arguments put forward in _Hōsō Ripōto_ the government may not actually be justified in using the Broadcast Act in this way. @Hara:2017a, @Hara:2017b Any interpretation of the relevant articles which sees them as a basis for regulatory interference on the part of government undermines the basic tenets of the Broadcast Law which assures that broadcasting should be 'free and independent' (_hōsō no jiyū to jiritsu_) [@Matsuda:2016, 3]
+
+Indeed in submissions to a committee looking at broadcast related laws in 1964[^cttee], bureucras from the Ministry of Posts and Telecommunication (_Yūsei-sho_, MPT) stated that:
+
+> ... in practical terms, these are 'goals to be aimed for', as for the actual effects of the law, [we] consider that they go no further than being moral guidelines (_seishinteki kitei_) (author's translation)
+
+This stance was repeated by senior ministry bureaucrat, Ishikawa Teruo? in responses to a Diet Upper House Committee question on 27 April 1977. This interpretation changed some time in the mid-1980s in response to what was seen as an increasingly overt licentiousness in overnight commercial programming, and perhaps triggered by the broadcast on TV Asahi's _Afutanūn Shō_ (Afternoon Show) of (what turned out to be) a fake news story about the lynching of a junior high-school girl. From this point on regulators at the MPT were to repeatedly state that - in contrast with what had been the position previously - Article 4 of the Broadcast Law could now be taken taken to offer a basis for regulatory sanctions, _gyōsei shidō_　(administrative guidance), of the sort common in Japanese governance, for example the issuing of _keikoku_ ('warning') or _genjū-chūi_ ('strict caution')　[@Hara:2017b, 57] However, what seems to have broadcasters concerned is not necessarily this gradual re-interpretation of the Broadcast Law but the apparent shift, signalled by Takaichi Sanae in 2015, in the scope of its possible applicability. Rather then broadcasters being sanctioned for repeated 'violations', that is, the failure to self-regulate efficiently and promptly, Takaichi raised the possibility of regulatory sanction for individual programs which in the opinion of government failed to meet the standards of Article 4. [@Hara:2017b, 57]
 
 ### Newspaper Sales ### {-}
 <!--1351_01–03-- Resale System & Antimonopoly Rules-->
@@ -340,6 +349,10 @@ Should be noted that the subject of the +nsk code is 'the newspaper', rather tha
 ### Company Guides ###
 
 Limited to the company motto!
+
+Asahi: [Asahi Koryo](http://www.asahi.com/corporate/guide/outline/11051801)
+
+Yomiuri: [Stance](https://info.yomiuri.co.jp/group/stance/index.html)
 
 Discussing the reaction of the New Delhi correspondents of the major Japanese media during the media restrictions which were part of the Emergency (1975?), and the reaction of the mass media in Japan when government took the decision to intervene in the 1994 *Tsubaki Hatsugen*[^tsubaki] incident [@Berger:1995].
 
@@ -383,7 +396,7 @@ There are a number of bodies already established in Japan which could theoretica
 
 ### Nihon Shimbun Kyōkai {-}
 
-Primarily an industry group. Focussed largely on promoting the business interests of newspaper publishers; encouraging readership, surveying the effectiveness of advertising, monitoring copyright, and lobbying for continuation of legal privileges. It also issues the _Shimbun Rinri Koryo_ 新聞倫理綱領;
+Primarily an industry group. Focussed largely on promoting the business interests of newspaper publishers; encouraging readership, surveying the effectiveness of advertising, monitoring copyright, and lobbying for continuation of legal privileges. It also issues the _Shimbun Rinri Kōryō_ 新聞倫理綱領 (Principles of Newspaper Ethics);
 
 ### Japan Congress of Journalists(JCJ) {-}
 
@@ -480,3 +493,5 @@ Another aspect worth considering is the fact that newswork is becoming increasin
 [^names]: Japanese names are given in traditional surname-first order except where the individual is well known by the surname-last version.
 
 [^abbrev]: This body also refers to itself by the acronym NSK, formed from the initial letters of its Japanese language name, the _Nihon Shinbun Kyokai_, literally, Japan Newspaper Association. [JNPEA/NSK website](http://www.pressnet.or.jp/english/) This paper uses +nsk throughout.
+
+[^cttee]: _Rinji Hōsō Kankei Hōsei Chōsa-kai_ (see @Hara:2017b, 56)
