@@ -8,6 +8,7 @@ title: Professional Identity, Press freedom and Journalism in Japan
 +as: Asahi Shimbun
 +sb: Shimbun
 +nsk: NSK-JNPEA
+
 ---
 
 <style>
@@ -383,9 +384,15 @@ _Hōsō Repōto_ 263 and 264
 ### Establishment and initial interpretations
 The debates leading to the passing of the Broadcast Law, and the two other laws which made up the three pillars of broadcasting regulation, have been well documented elsewhere. [ REFME ]{.adm} This brief section focusses on how the interpretation of those parts of these regulations that can be seen to have the potential usefulness for a government bent on exerting influence over the press.
 
+The earliest change that took place in the regulation of broadcasting in Japan was also probably the most fundamental and certainly had a greater impact on the current situation than any of the minor adjustments hat came later; this was the abolition of the Radio Regulatory Commission in July 1952, a move which
+
+> reflected the policy of the Japanese government to recover its administrative authority over the air waves, leading to the return to the traditional monopolistic radio administration set up under the ministry of posts and telecommunications. [@Shimizu:1995, 143]
+
 Until ????, Ministry of Posts and Telecommunications officials were explicit in their view of the potential for the relevant section of the Broadcast Law (Article 4 - CHECK ) to act as the basis for government action against broadcasters whose output seemed to be in breach of the stipulated standards. It was practically impossible.
 
 This interpretation changed when...
+
+
 
 
 ### Takaichi Sanae
