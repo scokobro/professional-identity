@@ -1,5 +1,5 @@
 ---
-date: 14 February 2017
+date: 26 April 2017
 style: Article
 bibliography: /Users/spkb/Documents/bibliographies/mybib.bib
 csl: /Users/spkb/Documents/bibliographies/apa6.csl
@@ -17,7 +17,7 @@ title: Professional Identity, Press freedom and Journalism in Japan
 
 # Introduction #
 
-Japan is home to a vigorous press, both national and local; levels of newspaper readership have traditionally been high, and they remain so, yet despite its apparently healthy state Japan's press is, in one sense at least in crisis; Japan has fallen down the press freedom rankings over the past few years. Particularly abrupt was the drop in its ranking between 2010 and 2011/12 in the aftermath of the Fukushima Dai-ichi nuclear disaster. The situation for the press in Japan seems to present two different faces; while the industry as a whole seems to be healthier than many around the developed world, Japanese journalism, and the journalists that produce it, is in a much less confident mood. <!--2220_18–01-->
+Japan is home to a vigorous press, both national and local; levels of newspaper readership have traditionally been high, and they remain so, yet despite its apparently healthy state Japan's press is, in one sense at least in crisis; Japan has fallen down the press freedom rankings over the past few years. Particularly abrupt was the drop in its ranking between 2010 and 2011/12 in the aftermath of the Fukushima Dai-ichi nuclear disaster. The situation for the press in Japan seems to present two different faces; while the industry as a whole seems to be healthier than many around the developed world, Japanese journalism, and the journalists that produce it, is in a much less confident mood.<!--2220_18–01-->
 
 Japan's press still up there in the 'free' zone but its ranking is at  the lowest level since the Reporters Sans Frontiéres(RSF) series began in 2002, such a rapid fall - from 11th 'free-est' in the world in 2010 to 72nd just six years later - must surely be cause for concern. RSF noted that the precipitous drop after the 2011 triple disaster was in part due to complaints from freelance journalists that,
 
@@ -68,7 +68,7 @@ It should be noted that it is these major media companies --- six Tokyo-based te
 [^mems]: Broadcasters: NHK, TV Asahi, Nippon TV, Fuji TV, Tokyo Broadcasting Systems(TBS) and TV Tokyo. Newspapers: Yomiuri +sb, Asahi +sb, Mainichi +sb, Sankei +sb and Nihon Keizai +sb (Nikkei). News agencies: Jiji Tsūshin and Kyōdō Tsūshin.
 
 
-## Aims
+## Aims ##
 
 Ultimately the question this paper seeks to address is: Why, given the obvious concern with independence and what Kaye describes as the deep commitment to freedom of speech and expression in Japan, and the obvious concern of many journalists, have news-workers in Japan not organised in the way he suggests?
 
@@ -86,7 +86,7 @@ This has led to a situation where reporter identity is centred on entities - com
 
 Are Japanese journalists equipped to push back against the forces that pressure them? Can the 'professional identity' of the journalist be seen as a protective barrier, a layer of insulation, which allows journalists a psychological cushion and promotes the kind of activity and relationships expected of the ethical journalist. Does the lack of this cushion contribute to the state of journalism in Japan at the current time?
 
-This paper will not deal with the influence if the *kisha kurabu* 'press club' system, probably the most widely documented aspect of journalism in Japan, as it has been dealt with extensively  elsewhere [see for example @Freeman:2000; @Iwase:1998], but it is worth summarising the effects of press club journalism; the collective responsibility implied by press club membership leaves the press open to pressure both from peers - to not rock the boat and upset relations with sources - and from sources who can deny access more or less at will. Given the possibilities offered by social media for politicians to simply bypass the main stream media, it is difficult to see how the traditional "balance of power" for control of access (press to politicians, politicians to the public) can be maintained. Japanese politics has been rather late to the social media jamboree with the use of online campaigning in general elections prohibited until 2013, but this will change.[@Osaka:2014, p51]
+This paper will not deal with the influence if the *kisha kurabu* 'press club' system, probably the most widely documented aspect of journalism in Japan, as it has been dealt with extensively  elsewhere [see for example @Freeman:2000; @Iwase:1998], but it is worth summarising the effects of press club journalism; the collective responsibility implied by press club membership leaves the press open to pressure both from peers - to not rock the boat and upset relations with sources - and from sources who can deny access more or less at will. Given the possibilities offered by social media for politicians to simply bypass the main stream media, it is difficult to see how the traditional "balance of power" for control of access (press to politicians, politicians to the public) can be maintained. Japanese politics has been rather late to the social media jamboree with the use of online campaigning in general elections prohibited until 2013, but this will change [@Osaka:2014, p51].
 
 ## Systems and Structures
 
@@ -100,31 +100,33 @@ Discussion of the elements of the nature of the journalistic identity has been a
 >   • Immediacy: journalists have a sense of immediacy, actuality and speed (inherent in the concept of ‘news’);\
 >   • Ethics: journalists have a sense of ethics, validity and legitimacy.\ -->
 
-Minami's interviewees point toward education as a fundamental site for the acquisition of their understanding:
+Some of Minami's interviewees point toward their experiences of formal education as a fundamental site for the acquisition of their understanding:
 
->those who have a degree in journalism say they learned what journalists should be through journalism education in college @Minami:2011[214]
+>those who have a degree in journalism say they learned what journalists should be through journalism education in college [@Minami:2011, 214]
 
 *ANSWER THIS FOR THE GENERAL CASE*
 
 What has been the effect of a strong bureaucratic tradition on the role of professional ideas in journalism in Japan?
 
+'Sectionalism' (Shimizu?)
+
+*Tate-wari*
+
 *THIS IS WHAT I LOOK AT HERE*
 
-# Journalism in Japan #
+## Journalism in Japan ##
 
 [LIT REVIEW in here]{.adm}
 
-Japan has a history of journalism stretching back to its emergence from under the control of the Tokugawa Bakufu in the latter decades of the nineteenth century.
+Japan has a history of journalism stretching back to its emergence from under the control of the Tokugawa Bakufu in the latter decades of the nineteenth century. Early journalism was often politically sponsored and overtly partial, the individuals considered japan's first modern journalists --- Yanagawa Shunsan[^names] (1832-70) publisher of the _Chūgai +sb_, and Fukuchi Gen'ichiro, well known for his work at the _Tōkyō Nichinichi +sb_[@Huffman:1997: 32] --- had 'close personal ties to the _bakukfu_ shogunate' [@Schafer:2012, p9].
 
-Early journalism was often politically sponsored and overtly partial,
+Japan's press in many ways reproduced similar changes, those driven by the growth of cities and changes in printing and distribution technologies, that had happened in other developed countries around the world; it was as the twentieth century entered its second and third decades that, with the adoption of the 'objective' mass circulation model and the production techniques that made them possible, that the press began to require something like the 'professional' journalist --- an objective, detached observer --- rather than the partisan supporter and advocate.
 
-the individuals considered the first modern journalists in Japan - Yanagawa Shunsan[^names] (1832-70) publisher of the _Chūgai +sb_, and Fukuchi Gen'ichiro, well known for his work at the _Tōkyō Nichinichi +sb_.[@Huffman:1997: 32] had 'close personal ties to the _bakukfu_ shogunate'[@Schafer:2012, p9]
-
-It was only with the adoption of the 'objective' mass circulation model, and the printing techniques that made them possible, that the press began to require something like the 'professional' journalist rather than the partisan supporter and advocate of a cause.
+The trauma and reconstruction of pre- and postwar decades
 
 @Shibata:2003 [: 12--3] suggests that the current worrying state of journalism in Japan began to take place in the aftermath of the Vietnam War; during this period newspapers in Japan had maintained an 'opposition party spirit' (_yatō seishin_) and had been critical of both US and Japanese foreign policy in Southeast Asia. From the mid-'70s the _Sankei +sb_ broke ranks and began to take a more government (Liberal Democratic Party / _Jimintō_) friendly line, it was followed in the '80s by the _Yomiuri_ with its pro-Reagan/Nakasone stance. This led to the current situation with the _Asahi_ and _Mainichi_ on the oppositional side and the _Yomiuri_ and _Sankei_ being conservative, pro-(LDP)government. As Shibata states, it is perfectly reasonable, and indeed desirable, for newspapers to offer different point of view to their readers, but, he argues, the shifts in the attitudes of two of Japan's largest papers fundamentally affected the ability of the press to perform their 'watchdog' function.[QUOTE better?]{.adm}
 
-## Development of journalism as a trade
+### Development of journalism as a trade ###
 
 The first move to give form to journalism as a trade in Japan was the [@Schafer:2012: 10] 1875 formation of the Alliance of Newspaper Reporters (*+sb Kisha Rengō*) in reaction to increasingly restrictive laws which affected the press and protection against libel.[^law]
 
@@ -150,7 +152,7 @@ It can be seen that discussion of the role of formal journalistic education has 
 
 [@Huffman:1997; @Lange:1998]
 
-## Education of Journalists ##
+### Education of Journalists ###
 
 Deuze, in his typology of global journalism education approaches, categorises the Japanese system as characterised by
 
@@ -190,14 +192,15 @@ Ikuta describes the actual content of OJT at the _+as_; new employs spend four o
 
 A significant effect of a primarily OJT-based system might be that it becomes more difficult to have any external standard (what kind of standard?); if the measure of professionalism is how closely one approximates the work of one's mentor then it is easy for _practical_ understandings of how one does journalism --- rather, how one does the job of journalist --- to become prioritised over how should (according to some exterior abstract measure - whether a code, an exemplar or whatever) journalists set about doing their work. It might also be readily supposed that such a system might turn out to be more 'malleable' from the political sources' point of view with the local (in time and space) understandings of the  necessities of practical reporting being passed on, and thereby taking on the status of 'common sense', within a single generation.
 
-## Sources of Ethics ##
+### Sources of Ethics ###
+
 [link to Deuze's list]{.adm}
 
 >Both the creation of codes of ethics and the emergence of formal education and training for journalists fostered a shared culture among journalists. @Tumber:2005 [66]
 
 What are the sources of ethical understandings in Japan? How widely are these shared across groupings within the industries in which journalism takes place? Section below covers this (see [below](#ethics))
 
-## Journalistic Employment in Japan ##
+### Journalistic Employment in Japan ###
 
 The The Japan Newspaper Publishers and Editors Association (+nsk[^abbrev]) carries our annual surveys of employment within the newspaper industry; according to these surveys there are approximately 20,000 'reporters', this number has remained more or less constant over the past 15 years. In the same period the total number of newspaper employees has dropped from 54,565 in 2001 to 41,396 in 2016. The proportion of employees engaged in reporting work has thus increased from 38 per cent of the total newspaper workforce in 2001 to 46 per cent in 2016.[^emp-data]
 
@@ -210,6 +213,8 @@ Regional/local - 23,321 (5329)
 Sports - 1813 (236)
 
 -->
+
+For purposes of comparison, the US newspaper industry in 2001 employed 411,800 people, this figure had fallen to 174,709 by September 2016. (Source: US Bureau of Labour [News](https://www.bls.gov/opub/ted/2017/newspaper-publishers-lose-over-half-their-employment-from-january-2001-to-september-2016.htm))
 
 What are their backgrounds? Who are they?
 
@@ -322,7 +327,7 @@ The other article with direct relevance to the current debate is article 174 whi
 
 According to arguments put forward in _Hōsō Ripōto_ the government may not actually be justified in using the Broadcast Act in this way. @Hara:2017a, @Hara:2017b Any interpretation of the relevant articles which sees them as a basis for regulatory interference on the part of government undermines the basic tenets of the Broadcast Law which assures that broadcasting should be 'free and independent' (_hōsō no jiyū to jiritsu_) [@Matsuda:2016, 3]
 
-Indeed in submissions to a committee looking at broadcast related laws in 1964[^cttee], bureucras from the Ministry of Posts and Telecommunication (_Yūsei-sho_, MPT) stated that:
+Indeed in submissions to a committee looking at broadcast related laws in 1964[^cttee], bureucrats from the Ministry of Posts and Telecommunication (_Yūsei-sho_, MPT) stated that:
 
 > ... in practical terms, these are 'goals to be aimed for', as for the actual effects of the law, [we] consider that they go no further than being moral guidelines (_seishinteki kitei_) (author's translation)
 
@@ -381,7 +386,8 @@ Kaye suggested that one of the root problems impinging on the freedom of televis
 
 _Hōsō Repōto_ 263 and 264
 
-### Establishment and initial interpretations
+## Establishment and initial interpretations ##
+
 The debates leading to the passing of the Broadcast Law, and the two other laws which made up the three pillars of broadcasting regulation, have been well documented elsewhere. [ REFME ]{.adm} This brief section focusses on how the interpretation of those parts of these regulations that can be seen to have the potential usefulness for a government bent on exerting influence over the press.
 
 The earliest change that took place in the regulation of broadcasting in Japan was also probably the most fundamental and certainly had a greater impact on the current situation than any of the minor adjustments hat came later; this was the abolition of the Radio Regulatory Commission in July 1952, a move which
@@ -392,7 +398,7 @@ Until ????, Ministry of Posts and Telecommunications officials were explicit in 
 
 This interpretation changed when...
 
-
+The 'Tsubaki Hatsugen' incident proved to be a turning point for interpretations of this section of the Broadcast Law -- the events themselves are described in detail in  @Berger:1995 -- but can be seen in the broad strokes sketched here to have been a further clawing back of governmental power, and in particular LDP power, in the face of a politically active broadcaster. TV Asahi, the broadcaster in question, was thought to have approached its 1993 election coverage with the specific agenda of trying to bring about a change of government (i.e. a non-LDP government), this came to the notice of the LDP and was eventually made public by the _Sankei +sb_ . This incident also seems to have been the point at which the LDP became aware, and concerned, with the potential political power of television.(ibid.: 4)
 
 
 ### Takaichi Sanae
