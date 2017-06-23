@@ -48,11 +48,11 @@ These concerns were further exacerbated during the debate over the introduction 
 
 The Freedom House measure of Press Freedom seems to also point to the gradual decline of the independent press in Japan.
 
-Year|2002|2003|2004|2005|2006|2007|2008|2009|2010|2011|2012|2013|2014|2015|2016|2017|
+<!-- Year|2002|2003|2004|2005|2006|2007|2008|2009|2010|2011|2012|2013|2014|2015|2016|2017|
 |---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 Ranking|17|17|18|20|20|21|21|21|21|21|22|24|25|25|26|27|
 
-: Lower numbers indicate 'freer' press. Source Freedom House^[https://freedomhouse.org/report/freedom-press/2017/japan]
+: Lower numbers indicate 'freer' press. Source Freedom House^[https://freedomhouse.org/report/freedom-press/2017/japan] -->
 
 
 The UN Special Rapporteur on freedom of expression (actually, UN Special Rapporteur on the Promotion and Protection of the Right to Freedom of Opinion and Expression), David Kaye, visited Japan in October 2016, he confirmed the existence of a sense of unease within the Japanese press, particularly with regards to its ability to maintain an attitude of independence toward a government taking an increasingly proactive approach to 'press management'. During a press conference at the end of his visit, Kaye summarised his experience of talking to various actors within the Japanese mass media system as follows;
@@ -61,9 +61,9 @@ The UN Special Rapporteur on freedom of expression (actually, UN Special Rapport
 
 <!--  and I hope these two different tasks [change law, organise] could protect the independence of the press. -->
 
-This paper reviews Japan's 'system of journalism' and the media structures that Kaye identifies as having a detrimental influence on journalistic autonomy, and the difficulties which tend to discourage or stand in the way of any professional-level organisation.
+He identifies two particular tasks for those concerned with freedom of the press in Japan: legal reform and 'organisation'. This paper focusses on 'organisation' and reviews Japan's 'system of journalism' and the media structures that Kaye identifies as having a detrimental influence on journalistic autonomy, and the difficulties which tend to block or discourage professional-level organisation.
 
-Japan must be understood as a (in this case genuine) special case: The mainstream media in Japan is highly dominant in a very isolated market, Japanese readers, unlike readers of English in the UK, do not have the luxury of turning to say the US, Australian or even Russian press for alternative views; Japanese media firms are the pretty much the only producers of Japanese-language news and information.[^brasil] The seven _zenkokushi_ (newspapers with national daily reach[^zenkoku]) employ just under 20,000 staff, about half of these in editorial roles[^meti]. Between them they have daily sales of roughly 30 million copies, that is they supply daily news to over half of Japan's 52 million households.[^hhs] Add to this the influence of the main news agencies, Kyōdo Tsūshin and Jiji Tsūshin, who supply news to newspapers, and radio and television broadcasters[@JMH:2015, 59] (CITATION! RAUSCH? [@Rausch:2012]), it can be seen that there is little scope for alternative and 'left-field' voices.[^fail] Kyodo claim over 170[^kyod] national outlets as clients, Jiji another 140[^jiji].
+Japan must be understood as a (in this case genuine) special case: The mainstream media in Japan is highly dominant in a very isolated market, Japanese readers, unlike readers of English in the UK, do not have the luxury of turning to say the US, Australian or even Russian press for alternative views; Japanese media firms are the pretty much the only producers of Japanese-language news and information.[^brasil] The seven _zenkokushi_ (newspapers with national daily reach[^zenkoku]) employ just under 20,000 staff, about half of these in editorial roles[^meti]. Between them they have daily sales of roughly 30 million copies, that is they supply daily news to over half of Japan's 52 million households.[^hhs] Add to this the influence of the main news agencies, Kyodo News ([Kyōdo Tsūshin-sha](http://www.kyodonews.jp/english/)) and Jiji Press ([Jiji Tsūshin](http://jen.jiji.com/)), who supply news to newspapers, and radio and television broadcasters[@JMH:2015, 59] (CITATION! RAUSCH? [@Rausch:2012]), it can be seen that there is little scope for alternative and 'left-field' voices.[^fail] Kyodo claim over 170[^kyod] national outlets as clients, Jiji another 140[^jiji].
 
 [^meti]: [METI Special Service Business Report 2015](http://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h27.html)
 
@@ -153,6 +153,12 @@ The first move to give form to journalism as a trade in Japan was the [@Schafer:
 Graduates of Japan's first universities, the University of Tokyo (1877) and Waseda (1882) began to move into journalism during the 1880s and the number of graduate journalists has gradually increased since. During the 1920s, economic recession meant a dearth of graduate employment opportunities at a time when the popular press was expanding and looking to increase the quality if its content by employing better educated reporters.[@Schafer:2012: 36]
 
 During the years of political turbulence between the 1880s and the first decade of the 20th century, the nature of the relationship between politics and the press underwent a series of changes involving adjustments of the relationships between newspapers, politics and an expanding 'public'. @Kawabe:1921 relates his view of these changes from a vantage point at the start of the 1920s; one recurring theme in his narrative of these changes is the way that journalists in these years acted together to oppose policies they thought acted against their interests, or impede their ability to carry out their work, and thus, to keep their publics informed. It seems that the now much-criticised 'press clubs' were, during this period, a focus for journalistic action. [ see especially @Kawabe:1921, 155--9]
+
+The _+sb Kisha Kyokai_ established in Tokyo in December 1920 seems to have been primarily conceived of as a way of putting pressure on employers to improve working conditions and pay. This organisation's attempt to contribute to the status of reporters by introducing a examined qualification^[called the 新聞士] based on a similar proposal made by ex-reporter and  Illinois Lieutenant Governor Barratt O'Hara, was rejected by the majority of working reporters, primarily on the basis of doubts over whether the skills necessary for reporting could be meaningfully 'examined' and whether any such qualification would actually lead to any improvement in the quality of journalism. On the other hand, voices raised in favour saw it as a way of heading off government interference.[@Kawasaki:2006, 124--5]
+
+<!-- https://ja.wikipedia.org/wiki/三・一五事件 -->
+
+<!-- https://ja.wikipedia.org/wiki/白虹事件 -->
 
 <!-- breaks this period into four distinct phases, during which the nature and role of the newspaper business and its employees gradually approached the form it took until the end of WW2. -->
 <!-- kawabe four phases TODO -->

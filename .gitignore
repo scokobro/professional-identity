@@ -11,3 +11,5 @@ command
 pix
 makefile
 makefileTests
+
+*.ods#
