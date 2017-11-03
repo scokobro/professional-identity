@@ -1,0 +1,17 @@
+[0] Config.pm:343> INFO - This is Biber 2.5
+[0] Config.pm:346> INFO - Logfile is 'profIdent-draft-2-11-17.blg'
+[80] biber-darwin:290> INFO - === Thu Nov  2, 2017, 20:37:12
+[129] Biber.pm:351> INFO - Reading 'profIdent-draft-2-11-17.bcf'
+[250] Biber.pm:776> INFO - Found 49 citekeys in bib section 0
+[265] Biber.pm:3493> INFO - Processing section 0
+[284] Biber.pm:3657> INFO - Looking for bibtex format file '/Users/spkb/Documents/bibliographies/mybib.bib' for section 0
+[559] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
+[813] bibtex.pm:1048> INFO - Found BibTeX data source '/Users/spkb/Documents/bibliographies/mybib.bib'
+[1123] Utils.pm:149> WARN - Datamodel: Entry 'Fackler:2010' (/Users/spkb/Documents/bibliographies/mybib.bib): Invalid format '30 Oct 2017' of date field 'urldate' - ignoring
+[1322] UCollate.pm:66> INFO - Overriding locale 'en-GB' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1322] UCollate.pm:66> INFO - Overriding locale 'en-GB' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1322] Biber.pm:3306> INFO - Sorting list 'apa/global/' of type 'entry' with scheme 'apa' and locale 'en-GB'
+[1322] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-GB'
+[1402] bbl.pm:526> INFO - Writing 'profIdent-draft-2-11-17.bbl' with encoding 'UTF-8'
+[1412] bbl.pm:619> INFO - Output to profIdent-draft-2-11-17.bbl
+[1413] Biber.pm:108> INFO - WARNINGS: 1

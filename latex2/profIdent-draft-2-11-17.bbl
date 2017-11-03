@@ -1,0 +1,1510 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{apa/global/}
+    \entry{Aldridge:2003}{periodical}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=8d3788e136ea3b8d8c245f9532262282}{%
+           family={Aldridge},
+           family_i={A\bibinitperiod},
+           given={Meryl},
+           given_i={M\bibinitperiod}}}%
+        {{uniquename=0,hash=c2421c4c05dcfb8cd7cfc6f364a4dd33}{%
+           family={Evetts},
+           family_i={E\bibinitperiod},
+           given={Julia},
+           given_i={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{9065f6e23a6766337f685fe18454c233}
+      \strng{fullhash}{9065f6e23a6766337f685fe18454c233}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelyear}{2003}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Rethinking the concept of professionalism: the case of journalism}
+      \field{journaltitle}{British Journal of Sociology}
+      \field{number}{4}
+      \field{title}{Rethinking the concept of professionalism: the case of journalism}
+      \field{volume}{54}
+      \field{year}{2003}
+      \field{pages}{547\bibrangedash 564}
+      \range{pages}{18}
+    \endentry
+    \entry{Asano:2011}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=55a0cdfa7effa20964a368c47b752817}{%
+           family={Asano},
+           family_i={A\bibinitperiod},
+           given={Ken'ichi},
+           given_i={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tokyo}%
+      }
+      \list{publisher}{1}{%
+        {Gendaijinbunsha}%
+      }
+      \strng{namehash}{55a0cdfa7effa20964a368c47b752817}
+      \strng{fullhash}{55a0cdfa7effa20964a368c47b752817}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelyear}{2011}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Kisha-kurabu kaitai shoki}
+      \field{title}{Kisha-kurabu kaitai shoki [Early days of dismantling the press clubs]}
+      \field{year}{2011}
+    \endentry
+    \entry{Berger:1995}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=a9774973c43f357cb4bdf7e0acb9d738}{%
+           family={Berger},
+           family_i={B\bibinitperiod},
+           given={Paul\bibnamedelima M},
+           given_i={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a9774973c43f357cb4bdf7e0acb9d738}
+      \strng{fullhash}{a9774973c43f357cb4bdf7e0acb9d738}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{1995}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{MIT Japan Program Working Paper Series}
+      \field{number}{95-04}
+      \field{title}{Exploring the intersection of government, politics and the news media in {J}apan: the {T}subaki {H}atsugen incident}
+      \field{year}{1995}
+      \verb{url}
+      \verb http://hdl.handle.net/1721.1/17127
+      \endverb
+    \endentry
+    \entry{Bjork:2016}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d80fc06996810eb4239783ed0a3d70b6}{%
+           family={Björk},
+           family_i={B\bibinitperiod},
+           given={Ulf\bibnamedelima Jonas},
+           given_i={U\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \name{editor}{5}{}{%
+        {{hash=611180f1299b5dd965d427caec9aab1a}{%
+           family={Nordenstreng},
+           family_i={N\bibinitperiod},
+           given={Kaarle},
+           given_i={K\bibinitperiod}}}%
+        {{hash=d80fc06996810eb4239783ed0a3d70b6}{%
+           family={Björk},
+           family_i={B\bibinitperiod},
+           given={Ulf\bibnamedelima Jonas},
+           given_i={U\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=984eea362f705e247f60e10db1eeb564}{%
+           family={Beyersdorf},
+           family_i={B\bibinitperiod},
+           given={Frank},
+           given_i={F\bibinitperiod}}}%
+        {{hash=6b4c66b409cda82ccfd755fd15187e57}{%
+           family={Høyer},
+           family_i={H\bibinitperiod},
+           given={Svennik},
+           given_i={S\bibinitperiod}}}%
+        {{hash=ab5c37575094b34a0f2f659a79438fb5}{%
+           family={Lauk},
+           family_i={L\bibinitperiod},
+           given={Epp},
+           given_i={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Basingstoke}%
+      }
+      \list{publisher}{1}{%
+        {Palgrave Macmillan}%
+      }
+      \strng{namehash}{d80fc06996810eb4239783ed0a3d70b6}
+      \strng{fullhash}{d80fc06996810eb4239783ed0a3d70b6}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{A History of the International Movement of Journalists: Professionalism versus Politics}
+      \field{title}{FIrst Internationals: IUPA and {PCW} (1894-1936)}
+      \field{year}{2016}
+    \endentry
+    \entry{Chiba:1952}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=411c8ace9787a39001e4f010c4a410b1}{%
+           family={Chiba},
+           family_i={C\bibinitperiod},
+           given={Yujiro},
+           given_i={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{411c8ace9787a39001e4f010c4a410b1}
+      \strng{fullhash}{411c8ace9787a39001e4f010c4a410b1}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{1952}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journalism Bulletin}
+      \field{number}{3}
+      \field{title}{Education for Journalism in Postwar Japan}
+      \field{volume}{29}
+      \field{year}{1952}
+      \field{pages}{324\bibrangedash 327}
+      \range{pages}{4}
+    \endentry
+    \entry{Cooper-Chen:1997a}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=fc95ee2ab7b671f2b5e73a5b0a5b8ed9}{%
+           family={Cooper-Chen},
+           family_i={C\bibinithyphendelim C\bibinitperiod},
+           given={Anne},
+           given_i={A\bibinitperiod}}}%
+        {{uniquename=0,hash=667df8551991cc25f6423cb8c24c80be}{%
+           family={Takeichi},
+           family_i={T\bibinitperiod},
+           given={Hideo},
+           given_i={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{86ea4594cbec167eb4d64d6ec96b7f04}
+      \strng{fullhash}{86ea4594cbec167eb4d64d6ec96b7f04}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{1997}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journalism \& Mass Communication Educator}
+      \field{number}{3}
+      \field{title}{Different drummers: Education for journalists in {J}apan and the {U.S.A.}}
+      \field{volume}{52}
+      \field{year}{1997}
+      \field{pages}{16\bibrangedash 25}
+      \range{pages}{10}
+    \endentry
+    \entry{Lange:1998}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=b8a7500853d13c0c944fef3b53064fd7}{%
+           family={{de~Lange}},
+           family_i={d\bibinitperiod},
+           given={William},
+           given_i={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Richmond}%
+      }
+      \list{publisher}{1}{%
+        {Japan Library (Curzon)}%
+      }
+      \strng{namehash}{b8a7500853d13c0c944fef3b53064fd7}
+      \strng{fullhash}{b8a7500853d13c0c944fef3b53064fd7}
+      \field{sortinit}{d}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelyear}{1998}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{A History of {J}apanese Journalism: {J}apan's Press Club As the Last Obstacle to a Mature Press}
+      \field{shorttitle}{History of Japanese Journalism}
+      \field{title}{A History of {J}apanese Journalism: {J}apan's Press Club As the Last Obstacle to a Mature Press}
+      \field{year}{1998}
+    \endentry
+    \entry{JMH:2015}{book}{}
+      \name{editor}{1}{}{%
+        {{uniquename=0,hash=9e1ae956f8eaa986368a56bfdf52c72f}{%
+           family={{Dentsu Soken}},
+           family_i={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tokyo}%
+      }
+      \list{publisher}{1}{%
+        {Daiyamondo-sha}%
+      }
+      \strng{namehash}{9e1ae956f8eaa986368a56bfdf52c72f}
+      \strng{fullhash}{9e1ae956f8eaa986368a56bfdf52c72f}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{shorttitle}
+      \field{annotation}{{{電通総研}} {ダイヤモンド社}}
+      \field{booktitle}{情報メディア白書}
+      \field{shorttitle}{Information Media White Paper}
+      \field{title}{Jōhō Media Hakusho (Information Media White Paper) {情報メディア白書}}
+      \field{year}{2015}
+    \endentry
+    \entry{Deuze:2005}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=e633c2353017be4e22b70e2be186e69b}{%
+           family={Deuze},
+           family_i={D\bibinitperiod},
+           given={Mark},
+           given_i={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{e633c2353017be4e22b70e2be186e69b}
+      \strng{fullhash}{e633c2353017be4e22b70e2be186e69b}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelyear}{2005}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journalism}
+      \field{number}{4}
+      \field{title}{What is Journalism?}
+      \field{volume}{6}
+      \field{year}{2005}
+      \field{pages}{442\bibrangedash 464}
+      \range{pages}{23}
+    \endentry
+    \entry{Deuze:2006}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=e633c2353017be4e22b70e2be186e69b}{%
+           family={Deuze},
+           family_i={D\bibinitperiod},
+           given={Mark},
+           given_i={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{e633c2353017be4e22b70e2be186e69b}
+      \strng{fullhash}{e633c2353017be4e22b70e2be186e69b}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelyear}{2006}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journalism Studies}
+      \field{number}{1}
+      \field{title}{Global journalism education}
+      \field{volume}{7}
+      \field{year}{2006}
+      \field{pages}{19\bibrangedash 34}
+      \range{pages}{16}
+    \endentry
+    \entry{Fackler:2010}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=bec3e8ee0c32b4e10039c0c24f30db93}{%
+           family={Fackler},
+           family_i={F\bibinitperiod},
+           given={Martin},
+           given_i={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The New York Times}%
+      }
+      \strng{namehash}{bec3e8ee0c32b4e10039c0c24f30db93}
+      \strng{fullhash}{bec3e8ee0c32b4e10039c0c24f30db93}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelyear}{2010, 20 Jun}
+      \field{labelmonth}{06}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Unlike in the United States, in Japan no online journalism of any kind has yet posed a significant challenge to the mainstream news media.}
+      \field{booktitle}{The New York Times}
+      \field{journaltitle}{The New York Times}
+      \field{month}{06}
+      \field{title}{Ink Gushes in Japan's Media Landscape}
+      \field{year}{2010, 20 Jun}
+      \verb{url}
+      \verb http://www.nytimes.com/2010/06/21/world/asia/21japan.html
+      \endverb
+      \keyw{Government}
+      \warn{\item Datamodel: Entry 'Fackler:2010' (/Users/spkb/Documents/bibliographies/mybib.bib): Invalid format '30 Oct 2017' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{Freeman:2000}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=95d041132d72e8dc9e02ad0bf0bbb342}{%
+           family={Freeman},
+           family_i={F\bibinitperiod},
+           given={Laurie\bibnamedelima Anne},
+           given_i={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Princeton NJ}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{95d041132d72e8dc9e02ad0bf0bbb342}
+      \strng{fullhash}{95d041132d72e8dc9e02ad0bf0bbb342}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelyear}{2000}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{annotation}{Closing the shop : information cartels and Japan's mass media}
+      \field{booktitle}{Closing the Shop: Information Cartels and {J}apan's Mass Media}
+      \field{isbn}{0691059543 (cloth : alk. paper) CIP entry}
+      \field{shorttitle}{Closing the Shop}
+      \field{title}{Closing the Shop: Information Cartels and {J}apan's Mass Media}
+      \field{year}{2000}
+      \keyw{Mass media,Politics,Japan,Japan,Mass media,Censorship}
+    \endentry
+    \entry{Fujita:2004}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d16f9fafe7f63289c10cc78b70a52066}{%
+           family={Fujita},
+           family_i={F\bibinitperiod},
+           given={Hiroshi},
+           given_i={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{d16f9fafe7f63289c10cc78b70a52066}
+      \strng{fullhash}{d16f9fafe7f63289c10cc78b70a52066}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelyear}{2004}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{藤田, 博司 ジャーナリスト教育の構築に向けて : 日本型モデルの条件と可能性 東京大学社会情報研究所紀要}
+      \field{journaltitle}{TōkyōDaigaku ShakaiGaku Jōhō Kenkyūjo Kiyō}
+      \field{title}{Jānarisuto Kyōiku no Kōchiku ni mukete: Nihon-gata moderu no jōken to kanōsei (Towards the construction of Journalism Education: the conditions and possibilities of the Japan-type model) {{ジャーナリスト教育の構築に向けて：日本型モデルの条件と可能性}}}
+      \field{volume}{67}
+      \field{year}{2004}
+      \field{pages}{1\bibrangedash 22}
+      \range{pages}{22}
+      \verb{url}
+      \verb http://ci.nii.ac.jp/naid/110000935513/
+      \endverb
+    \endentry
+    \entry{Hadl:2009}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=9d8ca1a692f407496c42feb633c74db0}{%
+           family={Hadl},
+           family_i={H\bibinitperiod},
+           given={Gabriele},
+           given_i={G\bibinitperiod}}}%
+        {{uniquename=0,hash=50f145beb5fa0787e49fb1506457d97b}{%
+           family={Hamada},
+           family_i={H\bibinitperiod},
+           given={Tadahisa},
+           given_i={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{dee36307857018eeed8de0c800b5fb67}
+      \strng{fullhash}{dee36307857018eeed8de0c800b5fb67}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{2009}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In Japan, civil society uses of online technology have a long history: non-profit computer networks preceded the Internet and webcasting was pioneered by civic groups wanting to overcome rigid broadcasting laws. However, online civil society media face great challenges, with government, market and un-civil society trying to marginalize them against an even more damaging background of general neglect and disregard. The Ministry of Internal Affairs and Communications (MIC) has proposed a new policy framework for the convergence of telecommunication and broadcasting, the basis for a new law planned for 2010. Varying levels of regulation are foreseen for all content. Online variants of mainstream media such as newspapers and television broadcasting will remain largely self-regulated. Civil society media (CSM) remain unrecognized, facing potentially heavy regulation as `user-generated content'. The authors focus on Japanese online civil society media (online CSM), using case studies to ill}
+      \field{issn}{17408296}
+      \field{journaltitle}{International Journal of Media \& Cultural Politics}
+      \field{number}{1--2}
+      \field{title}{Policy convergence and online civil society media (CSM) in Japan.}
+      \field{volume}{5}
+      \field{year}{2009}
+      \field{pages}{69\bibrangedash 88}
+      \range{pages}{20}
+      \verb{url}
+      \verb http://search.ebscohost.com/login.aspx?direct=true&db=sih&AN=37290390&site=ehost-live
+      \endverb
+      \keyw{CIVIL society,WEBCASTING,BROADCASTING policy,DIGITAL media,CONVERGENCE (Telecommunication),JAPAN. Ministry of Internal Affairs & Communications,JAPAN,civil society media,communication rights,convergence,digital convergence,Japan,online media,policy,policy convergence,shimin media}
+    \endentry
+    \entry{Hanada:2003}{book}{}
+      \name{editor}{2}{}{%
+        {{uniquename=0,hash=b702782cb39ad01d86ad82c871cdd820}{%
+           family={Hanada},
+           family_i={H\bibinitperiod},
+           given={Tatsurō},
+           given_i={T\bibinitperiod}}}%
+        {{uniquename=0,hash=7ef3774bf36e37c008e5ba22e5ca0d1a}{%
+           family={Hiroi},
+           family_i={H\bibinitperiod},
+           given={Osamu},
+           given_i={O\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tokyo}%
+      }
+      \list{publisher}{1}{%
+        {Tōkyō Daigaku Shuppan-kai}%
+      }
+      \strng{namehash}{72b99b455bdc8b640651f69cc0add523}
+      \strng{fullhash}{72b99b455bdc8b640651f69cc0add523}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{2003}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Ronsō. Ima, Jānarisuto Kyōiku (Debate. Current Journalist Eduation) {{論争。今，ジャーナリスト教育}}}
+      \field{year}{2003}
+    \endentry
+    \entry{Hara:2016}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=4e4c181a1f22df90dc070d75c2e37dff}{%
+           family={Hara},
+           family_i={H\bibinitperiod},
+           given={Shin},
+           given_i={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {大月書店}%
+      }
+      \strng{namehash}{4e4c181a1f22df90dc070d75c2e37dff}
+      \strng{fullhash}{4e4c181a1f22df90dc070d75c2e37dff}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{2016}
+      \field{labelmonth}{11}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Hōsō Repōto}
+      \field{month}{11}
+      \field{number}{263}
+      \field{title}{保存版・番組編集準則と行政処分(上)高市発言への曲がりくねった道}
+      \field{year}{2016}
+      \field{pages}{2\bibrangedash 6}
+      \range{pages}{5}
+      \verb{url}
+      \verb http://ci.nii.ac.jp/naid/40021001333/en/
+      \endverb
+    \endentry
+    \entry{Hara:2017}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=4e4c181a1f22df90dc070d75c2e37dff}{%
+           family={Hara},
+           family_i={H\bibinitperiod},
+           given={Shin},
+           given_i={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {大月書店}%
+      }
+      \strng{namehash}{4e4c181a1f22df90dc070d75c2e37dff}
+      \strng{fullhash}{4e4c181a1f22df90dc070d75c2e37dff}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{2017}
+      \field{labelmonth}{01}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Hōsō Repōto}
+      \field{month}{01}
+      \field{number}{264}
+      \field{title}{保存版・番組編集準則と行政処分(下)高市発言への曲がりくねった道}
+      \field{year}{2017}
+      \field{pages}{56\bibrangedash 62}
+      \range{pages}{7}
+      \verb{url}
+      \verb http://ci.nii.ac.jp/naid/40021069143/en/
+      \endverb
+    \endentry
+    \entry{Hashimoto:2003a}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=2a76901f99991bb160509a75b32e4f2d}{%
+           family={Hashimoto},
+           family_i={H\bibinitperiod},
+           given={Akira},
+           given_i={A\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=b702782cb39ad01d86ad82c871cdd820}{%
+           family={Hanada},
+           family_i={H\bibinitperiod},
+           given={Tatsurō},
+           given_i={T\bibinitperiod}}}%
+        {{hash=7ef3774bf36e37c008e5ba22e5ca0d1a}{%
+           family={Hiroi},
+           family_i={H\bibinitperiod},
+           given={Osamu},
+           given_i={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Tōkyō Daigaku Shuppan-kai}%
+      }
+      \strng{namehash}{2a76901f99991bb160509a75b32e4f2d}
+      \strng{fullhash}{2a76901f99991bb160509a75b32e4f2d}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{2003}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Ronsō. Ima, JānarisutoKyōiku (Debate. Current Journalism Education) {{論争.今, ジーナリスト教育}}}
+      \field{title}{Sengōteki Sho-shisutemu Hōkai no Kanata ni Nihon-gata J Sukūru wo {{戦後的諸システム崩壊の彼方に日本型Jスクールを}}}
+      \field{year}{2003}
+    \endentry
+    \entry{Huffman:1997}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=426f34acb1094308e3806c7e2cac6ceb}{%
+           family={Huffman},
+           family_i={H\bibinitperiod},
+           given={James\bibnamedelima L.},
+           given_i={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Honolulu}%
+      }
+      \list{publisher}{1}{%
+        {University of Hawai'i Press}%
+      }
+      \strng{namehash}{426f34acb1094308e3806c7e2cac6ceb}
+      \strng{fullhash}{426f34acb1094308e3806c7e2cac6ceb}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{1997}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{annotation}{Another prerequisite for the spread of communication is appropriate technology news cannot be disseminated without adequate printing equipment and effective transportation methods. It just comes as somewhat of a surprise to learn that in some cases old rather than new technologies were used to propel the expanding Tokugawa communication industry. This shogunate did experiment with a new technology movable type early in the theatre using pressings confiscated from the Koreans by Toyotomi Hideyoshi's invading troops in the 1590s. The imperial family had copies of the classic of filial piety and Nihon Shoki Chronicles of Japan printed on these presses and Ieyasu reportedly gave 300,000 pieces of wooden movable type to the Ashikaga family to reproduce old manuscripts and had another 200,000 copper types in 1614. But to the complex city of the Kanji Chinese characters used in Japanese writing and the aesthetic sterility of materials produced by interchangeable type fonts disturbed most Tokugawa era printers; so after a few years they threw out the printing presses just as they discarded the foreign guns and religions and shifted back to the traditional slate and woodblock techniques.}
+      \field{shorttitle}{Creating a public}
+      \field{title}{Creating a public: people and press in {M}eiji {J}apan}
+      \field{year}{1997}
+      \keyw{au}
+    \endentry
+    \entry{Ikuta:2004}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=b179d8d33ccc9fd813722c382284e878}{%
+           family={Ikuta},
+           family_i={I\bibinitperiod},
+           given={Shinji},
+           given_i={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {日本大学法学会}%
+      }
+      \strng{namehash}{b179d8d33ccc9fd813722c382284e878}
+      \strng{fullhash}{b179d8d33ccc9fd813722c382284e878}
+      \field{sortinit}{I}
+      \field{sortinithash}{25e99d37ba90f7c4fb20baf4e310faf3}
+      \field{labelyear}{2004}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{生田,真司 ISSN: 02874903}
+      \field{issn}{02874903}
+      \field{journaltitle}{Seikei Kenkyū {政経研究}}
+      \field{number}{4}
+      \field{title}{Asahi Shimbun no Kisha Kyōiku (Reporter training at the Asahi Newspaper) {{朝日新聞の記者教育}}}
+      \field{volume}{40}
+      \field{year}{2004}
+      \field{pages}{1177\bibrangedash 1189}
+      \range{pages}{13}
+      \verb{url}
+      \verb http://ci.nii.ac.jp/naid/40006270537/
+      \endverb
+    \endentry
+    \entry{Ito:2010}{book}{}
+      \name{editor}{1}{}{%
+        {{uniquename=1,hash=a99c51cf696ed3b4e076cef9ea4c7910}{%
+           family={Ito},
+           family_i={I\bibinitperiod},
+           given={Masami},
+           given_i={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford, New York}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{a99c51cf696ed3b4e076cef9ea4c7910}
+      \strng{fullhash}{a99c51cf696ed3b4e076cef9ea4c7910}
+      \field{sortinit}{I}
+      \field{sortinithash}{25e99d37ba90f7c4fb20baf4e310faf3}
+      \field{labelyear}{1978/2010}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Broadcasting in Japan: Case-studies on Broadcasting Systems}
+      \field{year}{1978/2010}
+    \endentry
+    \entry{ItoT:2005}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=1,hash=ea7e810a0fec789b0d8c402976eb7673}{%
+           family={Ito},
+           family_i={I\bibinitperiod},
+           given={Takashi},
+           given_i={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{ea7e810a0fec789b0d8c402976eb7673}
+      \strng{fullhash}{ea7e810a0fec789b0d8c402976eb7673}
+      \field{sortinit}{I}
+      \field{sortinithash}{25e99d37ba90f7c4fb20baf4e310faf3}
+      \field{labelyear}{2005}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Keio Communication Review}
+      \field{number}{27}
+      \field{title}{Public Journalism and Journalism in Japan}
+      \field{year}{2005}
+      \field{pages}{43\bibrangedash 63}
+      \range{pages}{21}
+    \endentry
+    \entry{IwabuchiY:2004}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=150b714e892acbd223c96de029351be1}{%
+           family={Iwabuchi},
+           family_i={I\bibinitperiod},
+           given={Yoshikazu},
+           given_i={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {日本大学法学会}%
+      }
+      \strng{namehash}{150b714e892acbd223c96de029351be1}
+      \strng{fullhash}{150b714e892acbd223c96de029351be1}
+      \field{sortinit}{I}
+      \field{sortinithash}{25e99d37ba90f7c4fb20baf4e310faf3}
+      \field{labelyear}{2003}
+      \field{labelmonth}{06}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{02874903}
+      \field{journaltitle}{政経研究}
+      \field{month}{06}
+      \field{number}{1}
+      \field{title}{ジャーナリスト教育調査の分析}
+      \field{volume}{40}
+      \field{year}{2003}
+      \field{pages}{85\bibrangedash 94}
+      \range{pages}{10}
+      \verb{url}
+      \verb http://ci.nii.ac.jp/naid/40005884055/en/
+      \endverb
+    \endentry
+    \entry{Iwase:1998}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=ebe4dc02140d14650b1fbbfe2a553eac}{%
+           family={Iwase},
+           family_i={I\bibinitperiod},
+           given={Tatsuya},
+           given_i={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tokyo}%
+      }
+      \list{publisher}{1}{%
+        {Kodansha}%
+      }
+      \strng{namehash}{ebe4dc02140d14650b1fbbfe2a553eac}
+      \strng{fullhash}{ebe4dc02140d14650b1fbbfe2a553eac}
+      \field{sortinit}{I}
+      \field{sortinithash}{25e99d37ba90f7c4fb20baf4e310faf3}
+      \field{labelyear}{1998}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{annotation}{ex-journo}
+      \field{shorttitle}{Shimbun ga Omoshirokunai Riyū}
+      \field{title}{Shimbun ga Omoshirokunai Riyū (Why Newspapers are Boring) {{新聞が面白くない理由}}}
+      \field{year}{1998}
+    \endentry
+    \entry{JCEJ:2014}{periodical}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=588fd4a5f0dd67e91799b2ab35adb2a0}{%
+           family={{JCEJ Unei Iin}},
+           family_i={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{588fd4a5f0dd67e91799b2ab35adb2a0}
+      \strng{fullhash}{588fd4a5f0dd67e91799b2ab35adb2a0}
+      \field{sortinit}{J}
+      \field{sortinithash}{ec3950a647c092421b9fcca6d819504a}
+      \field{labelyear}{10 Aug 2014}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{日本のジャーナリズムは「危ない」 ソーシャル時代に必要な記者のスキル}
+      \field{journaltitle}{Huffington Post (Japan)}
+      \field{title}{Nihon no jānarizumu wa 'abunai' {日本のジャーナリズムは「危ない」 ソーシャル時代に必要な記者のスキル} [Japan's Journalism is 'Endangered']}
+      \field{year}{10 Aug 2014}
+      \verb{url}
+      \verb http://www.huffingtonpost.jp/jcej/journalism_b_5624383.html
+      \endverb
+    \endentry
+    \entry{Kawabe:1921}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=61e3baf4a51145a9a5421c929e1f331f}{%
+           family={Kawabé},
+           family_i={K\bibinitperiod},
+           given={Kisaburō},
+           given_i={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chicago}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{61e3baf4a51145a9a5421c929e1f331f}
+      \strng{fullhash}{61e3baf4a51145a9a5421c929e1f331f}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{1921}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Press and Politics in Japan: A Study of the Relation Between the Newspaper and the Political Development of Modern Japan}
+      \field{year}{1921}
+    \endentry
+    \entry{Kawasaki:2006}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=3f2417f6cfc3b9ab683089e5c64b6e2e}{%
+           family={Kawasaki},
+           family_i={K\bibinitperiod},
+           given={Yoshinori},
+           given_i={Y\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tokyo}%
+      }
+      \list{publisher}{1}{%
+        {Kashiwa Shobo 柏書房}%
+      }
+      \strng{namehash}{3f2417f6cfc3b9ab683089e5c64b6e2e}
+      \strng{fullhash}{3f2417f6cfc3b9ab683089e5c64b6e2e}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{2006}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{河崎,吉紀}
+      \field{booktitle}{Seido-ka sareru shimbun-kisha: sono gakureki, saiyo, shikaku 制度化される新聞記者: その学歴・採用・資格}
+      \field{title}{Seido-ka sareru shimbun-kisha: sono gakureki, saiyo, shikaku 制度化される新聞記者: その学歴・採用・資格}
+      \field{year}{2006}
+    \endentry
+    \entry{Matsuda:2016}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=112733b105811d6b4a0883f9bf9c0ee7}{%
+           family={Matsuda},
+           family_i={M\bibinitperiod},
+           given={Hiroshi},
+           given_i={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {大月書店}%
+      }
+      \strng{namehash}{112733b105811d6b4a0883f9bf9c0ee7}
+      \strng{fullhash}{112733b105811d6b4a0883f9bf9c0ee7}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{2016}
+      \field{labelmonth}{01}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{放送レポート}
+      \field{month}{01}
+      \field{number}{258}
+      \field{title}{放送法は「放送取締り法」ではない}
+      \field{year}{2016}
+      \field{pages}{2\bibrangedash 4}
+      \range{pages}{3}
+      \verb{url}
+      \verb http://ci.nii.ac.jp/naid/40020708795/en/
+      \endverb
+    \endentry
+    \entry{McChesney:2003a}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=50e75d142894266c2b5e4a4cd0ef6bc4}{%
+           family={McChesney},
+           family_i={M\bibinitperiod},
+           given={Robert\bibnamedelima W.},
+           given_i={R\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{uniquename=0,hash=f742ecb69e066cd539efe42942b84ff5}{%
+           family={Schiller},
+           family_i={S\bibinitperiod},
+           given={Dan},
+           given_i={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {UNRISD}%
+      }
+      \strng{namehash}{37f2d8b5b2a68142ed886b57b3861ae0}
+      \strng{fullhash}{37f2d8b5b2a68142ed886b57b3861ae0}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{2003}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{United Nations Research Institute for Social Development}
+      \field{title}{The political economy of international communications: Foundations for the emerging global debate about media ownership and regulation}
+      \field{year}{2003}
+    \endentry
+    \entry{Minami:2011}{thesis}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=f24fb075339fc61a0db9b9e20cb8b8e7}{%
+           family={Minami},
+           family_i={M\bibinitperiod},
+           given={Hiroko},
+           given_i={H\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Oregon}%
+      }
+      \strng{namehash}{f24fb075339fc61a0db9b9e20cb8b8e7}
+      \strng{fullhash}{f24fb075339fc61a0db9b9e20cb8b8e7}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{2011}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Newspaper Work in a Time of Digital Change: A Comparative Study of US and Japanese Journalists}
+      \field{type}{phdthesis}
+      \field{year}{2011}
+    \endentry
+    \entry{Oi:2012}{incollection}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=a76dbbeca17ff82d130de0abbe2f37da}{%
+           family={Oi},
+           family_i={O\bibinitperiod},
+           given={Shinji},
+           given_i={S\bibinitperiod}}}%
+        {{uniquename=0,hash=c9030e11fafb29072cec56ff354fc4c9}{%
+           family={Fukuda},
+           family_i={F\bibinitperiod},
+           given={Mitsuru},
+           given_i={M\bibinitperiod}}}%
+        {{uniquename=0,hash=e51e913758bf84690709e4b0193ef3d7}{%
+           family={Sako},
+           family_i={S\bibinitperiod},
+           given={Shinsuke},
+           given_i={S\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=f7dfb6679a0bd0c477ab5690c5847500}{%
+           family={Weaver},
+           family_i={W\bibinitperiod},
+           given={David\bibnamedelima H},
+           given_i={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=50926184dedfdb5cba95c296c20481f8}{%
+           family={Willnat},
+           family_i={W\bibinitperiod},
+           given={Lars},
+           given_i={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{d4aa0cf43a557a8c7cd14b967ff34368}
+      \strng{fullhash}{769dd3af5506a54bda5435f239ee09cd}
+      \field{sortinit}{O}
+      \field{sortinithash}{7803d2715d5e795e70382b084ab8d00e}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The global journalist in the 21st century}
+      \field{title}{The Japanese Journalist in Transition}
+      \field{year}{2012}
+    \endentry
+    \entry{Ono:1971}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=e4aca32b60d8875ba1827ccd38ca9bfb}{%
+           family={Ono},
+           family_i={O\bibinitperiod},
+           given={Hideo},
+           given_i={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tokyo}%
+      }
+      \list{publisher}{1}{%
+        {Mainichi Shimbunsha 毎日新聞社}%
+      }
+      \strng{namehash}{e4aca32b60d8875ba1827ccd38ca9bfb}
+      \strng{fullhash}{e4aca32b60d8875ba1827ccd38ca9bfb}
+      \field{sortinit}{O}
+      \field{sortinithash}{7803d2715d5e795e70382b084ab8d00e}
+      \field{labelyear}{1971}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{小野秀雄}
+      \field{booktitle}{新聞研究五十年}
+      \field{title}{Shimbun kenkyū 50nen 新聞研究五十年}
+      \field{year}{1971}
+    \endentry
+    \entry{Osaka:2014}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=648bcc74e717a33a5957c7a14e87a896}{%
+           family={Osaka},
+           family_i={O\bibinitperiod},
+           given={Iwao},
+           given_i={I\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {The Japan Society for Studies in Journalism}%
+        {Mass Communication}%
+      }
+      \strng{namehash}{648bcc74e717a33a5957c7a14e87a896}
+      \strng{fullhash}{648bcc74e717a33a5957c7a14e87a896}
+      \field{sortinit}{O}
+      \field{sortinithash}{7803d2715d5e795e70382b084ab8d00e}
+      \field{labelyear}{2014}
+      \field{labelmonth}{07}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{park ashley jungah}
+      \field{issn}{13411306}
+      \field{journaltitle}{Journal of mass communication studies}
+      \field{month}{07}
+      \field{number}{85}
+      \field{title}{Changing Japanese Politics in the Age of the Internet(Modern Media and Political Participation through Networks)}
+      \field{year}{2014}
+      \field{pages}{43\bibrangedash 61}
+      \range{pages}{19}
+      \verb{url}
+      \verb http://ci.nii.ac.jp/naid/110009833389/en/
+      \endverb
+    \endentry
+    \entry{Rausch:2012}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=7f814e15f066b266a2416b8ee1b1b9fb}{%
+           family={Rausch},
+           family_i={R\bibinitperiod},
+           given={Anthony\bibnamedelima S.},
+           given_i={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London; New York}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{7f814e15f066b266a2416b8ee1b1b9fb}
+      \strng{fullhash}{7f814e15f066b266a2416b8ee1b1b9fb}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Japan's Local Newspapers: Chihōshi and Revitalization Journalism}
+      \field{title}{Japan's Local Newspapers: Chihōshi and Revitalization Journalism}
+      \field{year}{2012}
+    \endentry
+    \entry{Repeta:2014}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=58e861e0c0f23b329092448814257345}{%
+           family={Repeta},
+           family_i={R\bibinitperiod},
+           given={Lawrence},
+           given_i={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{58e861e0c0f23b329092448814257345}
+      \strng{fullhash}{58e861e0c0f23b329092448814257345}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Asia-Pacific Journal}
+      \field{number}{10}
+      \field{title}{Japan’s 2013 State Secrecy Act -- The Abe Administration’s Threat to News Reporting}
+      \field{volume}{12}
+      \field{year}{2014}
+      \verb{url}
+      \verb http://www.japanfocus.org/-Lawrence-Repeta/4086
+      \endverb
+    \endentry
+    \entry{Schafer:2012}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=c7ecfb6ba576cd6677342463e69b4c17}{%
+           family={Schäfer},
+           family_i={S\bibinitperiod},
+           given={Fabian},
+           given_i={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leiden; Boston}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{c7ecfb6ba576cd6677342463e69b4c17}
+      \strng{fullhash}{c7ecfb6ba576cd6677342463e69b4c17}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Japanese Studies Library}
+      \field{title}{Public Opinion--Propaganda--Ideology: Theories on the Press and Its Social Function in Interwar Japan, 1918-1937}
+      \field{volume}{39}
+      \field{year}{2012}
+    \endentry
+    \entry{Shibata:2003}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=dca1420c6020743dda264a4cf0654a21}{%
+           family={Shibata},
+           family_i={S\bibinitperiod},
+           given={Tetsuji},
+           given_i={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tokyo}%
+      }
+      \list{publisher}{1}{%
+        {Shūeisha}%
+      }
+      \strng{namehash}{dca1420c6020743dda264a4cf0654a21}
+      \strng{fullhash}{dca1420c6020743dda264a4cf0654a21}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{2003}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{Shimbun-kisha to iu shigoto}
+      \field{title}{Shimbun-kisha to iu shigoto (The Work of a Newspaper Reporter) {{新聞記者という仕事}}}
+      \field{year}{2003}
+    \endentry
+    \entry{Soloski:1989}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=8dc4393446b4d81bfc35f54d0851b7c4}{%
+           family={Soloski},
+           family_i={S\bibinitperiod},
+           given={John},
+           given_i={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications}%
+      }
+      \strng{namehash}{8dc4393446b4d81bfc35f54d0851b7c4}
+      \strng{fullhash}{8dc4393446b4d81bfc35f54d0851b7c4}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{1989}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Media, Culture \& Society}
+      \field{number}{2}
+      \field{title}{News reporting and professionalism: Some constraints on the reporting of the news}
+      \field{volume}{11}
+      \field{year}{1989}
+      \field{pages}{207\bibrangedash 228}
+      \range{pages}{22}
+      \keyw{tumber-5}
+    \endentry
+    \entry{Splichal:1994}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=2d9972d86543a970186fc84792efe6d3}{%
+           family={Splichal},
+           family_i={S\bibinitperiod},
+           given={Slavko},
+           given_i={S\bibinitperiod}}}%
+        {{uniquename=0,hash=57d913eb540d45038b3375c2843d5f49}{%
+           family={Sparks},
+           family_i={S\bibinitperiod},
+           given={Colin},
+           given_i={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Norwood, NJ}%
+      }
+      \list{publisher}{1}{%
+        {Ablex}%
+      }
+      \strng{namehash}{5305f6906c7343790bf7c06896f090f0}
+      \strng{fullhash}{5305f6906c7343790bf7c06896f090f0}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{1994}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Journalists for the 21st Century}
+      \field{year}{1994}
+    \endentry
+    \entry{Torigoe:2002}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=3aeca34d486321e9685b43798d34d9db}{%
+           family={Torigoe},
+           family_i={T\bibinitperiod},
+           given={Shuntaro},
+           given_i={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tokyo}%
+      }
+      \list{publisher}{1}{%
+        {Ueitsu}%
+      }
+      \strng{namehash}{3aeca34d486321e9685b43798d34d9db}
+      \strng{fullhash}{3aeca34d486321e9685b43798d34d9db}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelyear}{2002}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{報道は欠陥商品と疑え}}
+      \field{number}{1}
+      \field{series}{That's Japan}
+      \field{title}{Hōdō wa kekkanshōhin to utagae (Suspect news as defective goods!) {報道は欠陥商品と疑え}}
+      \field{year}{2002}
+    \endentry
+    \entry{Tsukamoto:2006}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=7b05e78903c08337df1a66933c3d1b18}{%
+           family={Tsukamoto},
+           family_i={T\bibinitperiod},
+           given={S.},
+           given_i={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{7b05e78903c08337df1a66933c3d1b18}
+      \strng{fullhash}{7b05e78903c08337df1a66933c3d1b18}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelyear}{2006}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Mass Media Ethics}
+      \field{number}{1}
+      \field{title}{Social Responsibility Theory and the Study of Journalism Ethics in {J}apan}
+      \field{volume}{21}
+      \field{year}{2006}
+      \field{pages}{55\bibrangedash 69}
+      \range{pages}{15}
+    \endentry
+    \entry{Tsukamoto:1993}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=38e5bf89b4ea772ec0f182e8c1c6db73}{%
+           family={Tsukamoto},
+           family_i={T\bibinitperiod},
+           given={Seijirō},
+           given_i={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {日本マス・コミュニケーション学会}%
+      }
+      \strng{namehash}{38e5bf89b4ea772ec0f182e8c1c6db73}
+      \strng{fullhash}{38e5bf89b4ea772ec0f182e8c1c6db73}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelyear}{1993}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{マス・コミュニケーション研究 Journal of mass communication studies No.43(19931228) pp. 76-89 日本マス・コミュニケーション学会 ISSN:13411306 書誌情報 ジャーナリズム教育における倫理の位置づけ : 日米比較を中心として(<特集>報道と倫理 : その今日的な意味合い) Ethics in Journalism Education : Mainly in Japan and the United States (<Special Feature : Mass Media Ethics>) 塚本 晴二朗 1 Tsukamoto Seijirou 1}
+      \field{issn}{13411306}
+      \field{journaltitle}{Masu Komyunikēshon Kenkyū (Journal of Mass Communication Studies)}
+      \field{number}{43}
+      \field{title}{Jānarizumu-kyōiku ni okeru rinri no ichizuke: Nichibei-hikaku wo chūshin toshite (The role of ethics in Journalism education: A comparison of {J}apan and the {U.S.}) {{ジャーナリズム教育における倫理の位置づけ : 日米比較を中心として(<特集>報道と倫理: その今日的な意味合い)}}}
+      \field{year}{1993}
+      \field{pages}{76\bibrangedash 89}
+      \range{pages}{14}
+      \verb{url}
+      \verb http://ci.nii.ac.jp/naid/110002954941/
+      \endverb
+    \endentry
+    \entry{Tumber:2005}{incollection}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=3f2104242ab2256352b2aa0fc96cea68}{%
+           family={Tumber},
+           family_i={T\bibinitperiod},
+           given={Howard},
+           given_i={H\bibinitperiod}}}%
+        {{uniquename=0,hash=4da3872047b316a2ac597891c03bc962}{%
+           family={Prentoulis},
+           family_i={P\bibinitperiod},
+           given={Marina},
+           given_i={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{357c9fe20740c1d67c9176f8f3dce765}
+      \strng{fullhash}{357c9fe20740c1d67c9176f8f3dce765}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelyear}{2005}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Making journalists: Diverse models, global issues}
+      \field{title}{Journalism and the making of a profession}
+      \field{year}{2005}
+      \field{pages}{58\bibrangedash 73}
+      \range{pages}{16}
+    \endentry
+    \entry{Uchikawa:2003}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=32e5e4fdfcc191b66f6dda5016631c47}{%
+           family={Uchikawa},
+           family_i={U\bibinitperiod},
+           given={Yoshimi},
+           given_i={Y\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=b702782cb39ad01d86ad82c871cdd820}{%
+           family={Hanada},
+           family_i={H\bibinitperiod},
+           given={Tatsurō},
+           given_i={T\bibinitperiod}}}%
+        {{hash=7ef3774bf36e37c008e5ba22e5ca0d1a}{%
+           family={Hiroi},
+           family_i={H\bibinitperiod},
+           given={Osamu},
+           given_i={O\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tokyo}%
+      }
+      \list{publisher}{1}{%
+        {Tōkyō Daigaku Shuppan-kai}%
+      }
+      \strng{namehash}{32e5e4fdfcc191b66f6dda5016631c47}
+      \strng{fullhash}{32e5e4fdfcc191b66f6dda5016631c47}
+      \field{sortinit}{U}
+      \field{sortinithash}{8145509bd2718876fc77d31fd2cde117}
+      \field{labelyear}{2003}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Ronsō. Ima, Jānarisuto Kyōiku (Debate. Current Journalist Eduation) {{論争。今，ジャーナリスト教育}}}
+      \field{title}{Nihon no daigaku ni okeru shimbun-kyōiku kaigan, zatsuroku {{日本の大学における新聞教育回顧・雑録}}}
+      \field{year}{2003}
+    \endentry
+    \entry{Uesugi:2008}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=04eb11b81c4a630f221508c7ba4136cd}{%
+           family={Uesugi},
+           family_i={U\bibinitperiod},
+           given={Takashi},
+           given_i={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tōkyō}%
+      }
+      \list{publisher}{1}{%
+        {Gentōsha}%
+      }
+      \strng{namehash}{04eb11b81c4a630f221508c7ba4136cd}
+      \strng{fullhash}{04eb11b81c4a630f221508c7ba4136cd}
+      \field{sortinit}{U}
+      \field{sortinithash}{8145509bd2718876fc77d31fd2cde117}
+      \field{labelyear}{2008}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{上杉隆. ; {幻冬舎}　}
+      \field{booktitle}{ジャーナリズム崩壊 / Jānarizumu hōkai}
+      \field{title}{Jānarizumu hōkai (The Collapse of Journalism) {ジャーナリズム崩壊}}
+      \field{year}{2008}
+    \endentry
+    \entry{Uesugi:2010}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=04eb11b81c4a630f221508c7ba4136cd}{%
+           family={Uesugi},
+           family_i={U\bibinitperiod},
+           given={Takashi},
+           given_i={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tokyo}%
+      }
+      \list{publisher}{1}{%
+        {Shogakkan {小学館}}%
+      }
+      \strng{namehash}{04eb11b81c4a630f221508c7ba4136cd}
+      \strng{fullhash}{04eb11b81c4a630f221508c7ba4136cd}
+      \field{sortinit}{U}
+      \field{sortinithash}{8145509bd2718876fc77d31fd2cde117}
+      \field{labelyear}{2010}
+      \field{labelmonth}{04}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{annotation}{上杉 隆 purchased Tokyo Apr 2010}
+      \field{booktitle}{{記者クラブ崩壊 新聞・テレビとの200日戦争}}
+      \field{isbn}{4098250764}
+      \field{month}{04}
+      \field{shorttitle}{Press Club Collapse}
+      \field{title}{Press Club Collapse: 200 days of struggle against the mass media {記者クラブ崩壊 新聞・テレビとの200日戦争}}
+      \field{year}{2010}
+    \endentry
+    \entry{Willnat:2013}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=50926184dedfdb5cba95c296c20481f8}{%
+           family={Willnat},
+           family_i={W\bibinitperiod},
+           given={Lars},
+           given_i={L\bibinitperiod}}}%
+        {{uniquename=0,hash=654e5abfc9d0d991ae8d574d401c3212}{%
+           family={Weaver},
+           family_i={W\bibinitperiod},
+           given={David\bibnamedelima H.},
+           given_i={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{uniquename=0,hash=3156cf1d8cdafddfd6f36bcfc0221030}{%
+           family={Choi},
+           family_i={C\bibinitperiod},
+           given={Jihyang},
+           given_i={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{769b4851018ee67aae9fb17b167a11a5}
+      \strng{fullhash}{c585b3ec10ec0c072dcd4c42e0ff87f8}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This study presents selected findings related to journalistic competencies or skills from surveys of more than 29,000 journalists working in 31 countries or territories, conducted between 1996 and 2011. The data come from survey studies included in Weaver and Willnat's 2012 book, The Global Journalist in the 21st Century. The study focuses on aspects such as journalists' age and education, working conditions, professional values or orientations, opinions about the importance of different aspects of the job, and attitudes toward new reporting skills that are necessary to cope with a multimedia news environment. The study concludes that there are no clear patterns of such competency among the journalists included in this analysis. However, tendencies were observed for some countries to have younger, less experienced, less formally educated journalists who do not highly value the interpretive or analytical role of journalism, who are less satisfied with their work, who have less freedom in their work, and who lack the multimedia skills necessary in the age of online journalism. The study also calls for systematic content analysis studies that investigate whether self-reported competencies of journalists in each nation actually correlate with the quality of the news products they create.}
+      \field{journaltitle}{Journalism Practice}
+      \field{number}{2}
+      \field{title}{THE GLOBAL JOURNALIST IN THE TWENTY-FIRST CENTURY}
+      \field{volume}{7}
+      \field{year}{2013}
+      \field{pages}{163\bibrangedash 183}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1080/17512786.2012.753210
+      \endverb
+      \verb{eprint}
+      \verb http://dx.doi.org/10.1080/17512786.2012.753210
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1080/17512786.2012.753210
+      \endverb
+    \endentry
+    \entry{Yamamoto:1989}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=ed0c8a2c961858da11d3d293ec9d1262}{%
+           family={Yamamoto},
+           family_i={Y\bibinitperiod},
+           given={Taketoshi},
+           given_i={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{ed0c8a2c961858da11d3d293ec9d1262}
+      \strng{fullhash}{ed0c8a2c961858da11d3d293ec9d1262}
+      \field{sortinit}{Y}
+      \field{sortinithash}{3cbc1e3d286284cedb5e5218a3248f94}
+      \field{labelyear}{1989}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Japanese Studies}
+      \field{number}{2}
+      \field{title}{The Press Clubs of {J}apan}
+      \field{volume}{15}
+      \field{year}{1989}
+      \field{pages}{371\bibrangedash 388}
+      \range{pages}{18}
+      \verb{url}
+      \verb http://www.jstor.org/pss/132360
+      \endverb
+    \endentry
+    \entry{Yamashita:1996}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=3fe4e9dbbc99d7f65fceb999f9acbdeb}{%
+           family={Yamashita},
+           family_i={Y\bibinitperiod},
+           given={Kunitsugu},
+           given_i={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Fukuoka}%
+      }
+      \list{publisher}{1}{%
+        {Kyushu Daigaku Shuppankai}%
+      }
+      \strng{namehash}{3fe4e9dbbc99d7f65fceb999f9acbdeb}
+      \strng{fullhash}{3fe4e9dbbc99d7f65fceb999f9acbdeb}
+      \field{sortinit}{Y}
+      \field{sortinithash}{3cbc1e3d286284cedb5e5218a3248f94}
+      \field{labelyear}{1996}
+      \field{datelabelsource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Nihon-gata Jānarizumu: Kōzō Bunseki to Taishitsu Kaizen e no Mosaku (Japanese-style Journalism: A Structural Analysis and an Outlook for its Improvement) {{日本型ジャーナリズム: 構造分析と体質改善への模索}}}
+      \field{shorttitle}{Nihon-gata Jānarizumu}
+      \field{title}{Nihon-gata Jānarizumu: Kōzō Bunseki to Taishitsu Kaizen e no Mosaku (Japanese-style Journalism: A Structural Analysis and an Outlook for its Improvement) {{日本型ジャーナリズム: 構造分析と体質改善への模索}}}
+      \field{year}{1996}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
